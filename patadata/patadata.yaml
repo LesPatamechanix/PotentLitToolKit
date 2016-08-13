@@ -1,0 +1,8708 @@
+nouns:
+- abidance:
+    anomaly: interindividual
+    antinomy: nonconformity
+    clinamen: abeyance
+    synonym: conformity
+    syzygy: cooperation
+- ability:
+    anomaly: goodly
+    antinomy: inability
+    clinamen: abelite
+    synonym: ability
+    syzygy: quality
+- absence:
+    anomaly: Dieter
+    antinomy: presence
+    clinamen: absent
+    synonym: absence
+    syzygy: lack
+- absorbency:
+    anomaly: boreable
+    antinomy: nonabsorbency
+    clinamen: abhorrency
+    synonym: absorbency
+    syzygy: permeability
+- abundance:
+    anomaly: raggy
+    antinomy: scarcity
+    clinamen: abidance
+    synonym: abundance
+    syzygy: measure
+- acceleration:
+    anomaly: litigable
+    antinomy: deceleration
+    clinamen: accelerative
+    synonym: acceleration
+    syzygy: change
+- accelerator:
+    anomaly: dose
+    antinomy: anticatalyst
+    clinamen: accelerate
+    synonym: catalyst
+    syzygy: pedal_point
+- acceptance:
+    anomaly: countervenom
+    antinomy: rejection
+    clinamen: acceptable
+    synonym: credence
+    syzygy: attitude
+- accuracy:
+    anomaly: patroonry
+    antinomy: inaccuracy
+    clinamen: accurate
+    synonym: accuracy
+    syzygy: quality
+- achiever:
+    anomaly: endamoebiasis
+    antinomy: loser
+    clinamen: ashiver
+    synonym: achiever
+    syzygy: person
+- acquaintance:
+    anomaly: easel
+    antinomy: stranger
+    clinamen: acquaintant
+    synonym: acquaintance
+    syzygy: information
+- activation:
+    anomaly: interceder
+    antinomy: inactivation
+    clinamen: acervation
+    synonym: energizing
+    syzygy: stimulation
+- activator:
+    anomaly: offeror
+    antinomy: inhibitor
+    clinamen: activate
+    synonym: activator
+    syzygy: substance
+- activeness:
+    anomaly: Clupeodei
+    antinomy: inaction
+    clinamen: aliveness
+    synonym: action
+    syzygy: state
+- activity:
+    anomaly: presswoman
+    antinomy: inactivity
+    clinamen: acidity
+    synonym: action
+    syzygy: act
+- acuteness:
+    anomaly: hemiplegy
+    antinomy: obtuseness
+    clinamen: bruteness
+    synonym: acuteness
+    syzygy: sensitivity
+- addition:
+    anomaly: coppernosed
+    antinomy: subtraction
+    clinamen: adaption
+    synonym: accession
+    syzygy: component
+- adequacy:
+    anomaly: Alvin
+    antinomy: inadequacy
+    clinamen: adequate
+    synonym: sufficiency
+    syzygy: satisfactoriness
+- admissibility:
+    anomaly: picqueter
+    antinomy: inadmissibility
+    clinamen: remissibility
+    synonym: admissibility
+    syzygy: acceptability
+- adult:
+    anomaly: Cacana
+    antinomy: juvenile
+    clinamen: abut
+    synonym: adult
+    syzygy: person
+- adversary:
+    anomaly: residentially
+    antinomy: agonist
+    clinamen: adversant
+    synonym: adversary
+    syzygy: person
+- advisability:
+    anomaly: Leigh
+    antinomy: inadvisability
+    clinamen: admirability
+    synonym: advisability
+    syzygy: wisdom
+- affectedness:
+    anomaly: counterimitation
+    antinomy: unaffectedness
+    clinamen: abjectedness
+    synonym: affectation
+    syzygy: unnaturalness
+- affinity:
+    anomaly: Trionychidae
+    antinomy: consanguinity
+    clinamen: affinely
+    synonym: affinity
+    syzygy: attraction
+- affirmation:
+    anomaly: planoorbicular
+    antinomy: reversal
+    clinamen: affidation
+    synonym: avowal
+    syzygy: assertion
+- affirmative:
+    anomaly: sanguinocholeric
+    antinomy: negative
+    clinamen: affirmation
+    synonym: affirmative
+    syzygy: avowal
+- alignment:
+    anomaly: inuredness
+    antinomy: nonalignment
+    clinamen: aliment
+    synonym: alliance
+    syzygy: organization
+- aliquant:
+    anomaly: neuromatous
+    antinomy: aliquot
+    clinamen: aliquot
+    synonym: aliquant
+    syzygy: divisor
+- aliquot:
+    anomaly: enseraph
+    antinomy: aliquant
+    clinamen: liquor
+    synonym: aliquot
+    syzygy: divisor
+- alkalinity:
+    anomaly: curvilinearity
+    antinomy: acidity
+    clinamen: alkalinize
+    synonym: alkalinity
+    syzygy: ph
+- alliance:
+    anomaly: executor
+    antinomy: nonalignment
+    clinamen: affiance
+    synonym: confederation
+    syzygy: alliance
+- allies:
+    anomaly: dreamtide
+    antinomy: foe
+    clinamen: ablins
+    synonym: ally
+    syzygy: alliance
+- allogamy:
+    anomaly: rakeage
+    antinomy: autogamy
+    clinamen: acrogamy
+    synonym: allogamy
+    syzygy: cross-fertilization
+- allopatry:
+    anomaly: exultant
+    antinomy: sympatry
+    clinamen: allometry
+    synonym: allopatry
+    syzygy: happening
+- alterability:
+    anomaly: wrought
+    antinomy: unalterability
+    clinamen: alienability
+    synonym: alterability
+    syzygy: mutability
+- altruism:
+    anomaly: Cladothrix
+    antinomy: egoism
+    clinamen: alarmism
+    synonym: altruism
+    syzygy: unselfishness
+- amateur:
+    anomaly: weddedness
+    antinomy: professional
+    clinamen: abater
+    synonym: amateur
+    syzygy: person
+- anabolism:
+    anomaly: allomorphite
+    antinomy: catabolism
+    clinamen: anabolic
+    synonym: anabolism
+    syzygy: assimilation
+- analogy:
+    anomaly: aortism
+    antinomy: cataphatism
+    clinamen: acology
+    synonym: doctrine of analogy
+    syzygy: inference
+- analysis:
+    anomaly: carinated
+    antinomy: synthesis
+    clinamen: anabasis
+    synonym: psychoanalysis
+    syzygy: probe
+- anamorphism:
+    anomaly: remissiveness
+    antinomy: katamorphism
+    clinamen: amorphism
+    synonym: anamorphosis
+    syzygy: development
+- anapsid:
+    anomaly: dorsocaudal
+    antinomy: diapsid
+    clinamen: adapid
+    synonym: anapsid
+    syzygy: reptile
+- ancestor:
+    anomaly: bagpipes
+    antinomy: descendant
+    clinamen: accentor
+    synonym: ancestor
+    syzygy: relative
+- anglican:
+    anomaly: sericulture
+    antinomy: Nonconformist
+    clinamen: angelica
+    synonym: anglican
+    syzygy: protestant
+- angularity:
+    anomaly: serviceberry
+    antinomy: roundness
+    clinamen: angularize
+    synonym: angular shape
+    syzygy: shape
+- anisotropy:
+    anomaly: hypercreaturely
+    antinomy: isotropy
+    clinamen: isotropy
+    synonym: anisotropy
+    syzygy: property
+- anode:
+    anomaly: knockdown
+    antinomy: cathode
+    clinamen: abide
+    synonym: anode
+    syzygy: electrode
+- antagonist:
+    anomaly: Actinobacillus
+    antinomy: agonist
+    clinamen: antagonize
+    synonym: adversary
+    syzygy: person
+- antecedent:
+    anomaly: Celosia
+    antinomy: descendant
+    clinamen: antecede
+    synonym: ancestor
+    syzygy: relative
+- anteriority:
+    anomaly: unmiraculous
+    antinomy: posteriority
+    clinamen: anteriorly
+    synonym: priority
+    syzygy: position
+- anticatalyst:
+    anomaly: haremism
+    antinomy: catalyst
+    clinamen: anticatalase
+    synonym: anticatalyst
+    syzygy: inhibitor
+- antinode:
+    anomaly: oxyhexactine
+    antinomy: node
+    clinamen: anginose
+    synonym: antinode
+    syzygy: point
+- antitype:
+    anomaly: duckwife
+    antinomy: type
+    clinamen: antipope
+    synonym: antitype
+    syzygy: representation
+- antonym:
+    anomaly: carpologist
+    antinomy: synonym
+    clinamen: acronym
+    synonym: antonym
+    syzygy: word
+- aphelion:
+    anomaly: ouabe
+    antinomy: perihelion
+    clinamen: adhesion
+    synonym: aphelion
+    syzygy: apoapsis
+- apogee:
+    anomaly: snowshade
+    antinomy: perigee
+    clinamen: agee
+    synonym: apogee
+    syzygy: phase
+- apojove:
+    anomaly: materfamilias
+    antinomy: perijove
+    clinamen: apocope
+    synonym: apojove
+    syzygy: apoapsis
+- apparel:
+    anomaly: effacer
+    antinomy: undress
+    clinamen: appall
+    synonym: apparel
+    syzygy: clothing
+- appearance:
+    anomaly: saccharimeter
+    antinomy: disappearance
+    clinamen: abearance
+    synonym: appearance
+    syzygy: quality
+- applicability:
+    anomaly: pantiling
+    antinomy: inapplicability
+    clinamen: duplicability
+    synonym: applicability
+    syzygy: relevance
+- appreciation:
+    anomaly: herpetological
+    antinomy: depreciation
+    clinamen: appreciativ
+    synonym: taste
+    syzygy: understanding
+- approbation:
+    anomaly: hazily
+    antinomy: disapprobation
+    clinamen: approbative
+    synonym: approbation
+    syzygy: blessing
+- approval:
+    anomaly: hove
+    antinomy: disapproval
+    clinamen: approve
+    synonym: blessing
+    syzygy: support
+- aptitude:
+    anomaly: gurk
+    antinomy: inaptitude
+    clinamen: latitude
+    synonym: aptitude
+    syzygy: ability
+- aptness:
+    anomaly: polymolybdate
+    antinomy: inaptness
+    clinamen: actless
+    synonym: aptness
+    syzygy: disposition
+- backing:
+    anomaly: interbank
+    antinomy: progress
+    clinamen: aching
+    synonym: support
+    syzygy: blessing
+- bad:
+    anomaly: pathoradiography
+    antinomy: good
+    clinamen: aa
+    synonym: bad
+    syzygy: quality
+- badness:
+    anomaly: autosite
+    antinomy: good
+    clinamen: adless
+    synonym: bad
+    syzygy: quality
+- banking:
+    anomaly: arfvedsonite
+    antinomy: misgiving
+    clinamen: bagging
+    synonym: banking
+    syzygy: finance
+- barrenness:
+    anomaly: phytase
+    antinomy: fruitfulness
+    clinamen: bareness
+    synonym: fruitlessness
+    syzygy: asepsis
+- beauty:
+    anomaly: disforestation
+    antinomy: ugliness
+    clinamen: banty
+    synonym: smasher
+    syzygy: appearance
+- becomingness:
+    anomaly: protargentum
+    antinomy: unbecomingness
+    clinamen: bloomingness
+    synonym: becomingness
+    syzygy: decorum
+- beginning:
+    anomaly: princify
+    antinomy: ending
+    clinamen: binning
+    synonym: beginning
+    syzygy: happening
+- being:
+    anomaly: celebrative
+    antinomy: nonbeing
+    clinamen: aging
+    synonym: organism
+    syzygy: state
+- belief:
+    anomaly: charcoal
+    antinomy: unbelief
+    clinamen: beef
+    synonym: impression
+    syzygy: content
+- beneficence:
+    anomaly: pseudohermaphroditism
+    antinomy: maleficence
+    clinamen: beneficent
+    synonym: beneficence
+    syzygy: benevolence
+- benevolence:
+    anomaly: plunderless
+    antinomy: malevolence
+    clinamen: benevolent
+    synonym: benevolence
+    syzygy: love
+- benignity:
+    anomaly: brachyurous
+    antinomy: malignity
+    clinamen: benignly
+    synonym: kindness
+    syzygy: good
+- best:
+    anomaly: prentice
+    antinomy: worst
+    clinamen: abet
+    synonym: best
+    syzygy: attempt
+- birth:
+    anomaly: nonfinite
+    antinomy: death
+    clinamen: airt
+    synonym: parturition
+    syzygy: beginning
+- blessing:
+    anomaly: urometer
+    antinomy: disapproval
+    clinamen: beeswing
+    synonym: grace
+    syzygy: support
+- blocking:
+    anomaly: introtraction
+    antinomy: free
+    clinamen: backing
+    synonym: blocking
+    syzygy: obstruction
+- blowing:
+    anomaly: isozooid
+    antinomy: conserve
+    clinamen: batwing
+    synonym: blowing
+    syzygy: processing
+- bluntness:
+    anomaly: betaxed
+    antinomy: sharpness
+    clinamen: blandness
+    synonym: dullness
+    syzygy: inconsideration
+- boarding:
+    anomaly: prehnitic
+    antinomy: disembarkation
+    clinamen: banding
+    synonym: boarding
+    syzygy: departure
+- boiling:
+    anomaly: alabamide
+    antinomy: freeze
+    clinamen: ailing
+    synonym: boiling
+    syzygy: heating
+- boldness:
+    anomaly: overcapitalization
+    antinomy: timidity
+    clinamen: badness
+    synonym: boldness
+    syzygy: fearlessness
+- borrower:
+    anomaly: Shean
+    antinomy: lender
+    clinamen: borrow
+    synonym: borrower
+    syzygy: recipient
+- botany:
+    anomaly: rechristen
+    antinomy: fauna
+    clinamen: beany
+    synonym: vegetation
+    syzygy: collection
+- boy:
+    anomaly: foliaceousness
+    antinomy: female_child
+    clinamen: Abo
+    synonym: male child
+    syzygy: male
+- brave:
+    anomaly: interword
+    antinomy: timid
+    clinamen: abave
+    synonym: brave
+    syzygy: warrior
+- breach:
+    anomaly: antisoporific
+    antinomy: support
+    clinamen: bacach
+    synonym: rupture
+    syzygy: failure
+- breakableness:
+    anomaly: unbefringed
+    antinomy: unbreakableness
+    clinamen: bearableness
+    synonym: breakableness
+    syzygy: consistency
+- brightness:
+    anomaly: Pennales
+    antinomy: dullness
+    clinamen: frightless
+    synonym: luminosity
+    syzygy: light
+- calmness:
+    anomaly: infirmaress
+    antinomy: discomposure
+    clinamen: allness
+    synonym: composure
+    syzygy: disposition
+- candor:
+    anomaly: unbruised
+    antinomy: unfairness
+    clinamen: angor
+    synonym: fairness
+    syzygy: impartiality
+- capability:
+    anomaly: attorn
+    antinomy: incapability
+    clinamen: actability
+    synonym: capability
+    syzygy: ability
+- capacity:
+    anomaly: metallographical
+    antinomy: incapacity
+    clinamen: caducity
+    synonym: capability
+    syzygy: capability
+- capital:
+    anomaly: burglarious
+    antinomy: lowercase
+    clinamen: adital
+    synonym: das kapital
+    syzygy: assets
+- captor:
+    anomaly: Nazaritish
+    antinomy: liberator
+    clinamen: actor
+    synonym: captor
+    syzygy: person
+- carefulness:
+    anomaly: sprogue
+    antinomy: incaution
+    clinamen: artfulness
+    synonym: caution
+    syzygy: attentiveness
+- carelessness:
+    anomaly: pulpiter
+    antinomy: carefulness
+    clinamen: agelessness
+    synonym: negligence
+    syzygy: inattentiveness
+- carinate:
+    anomaly: stylolitic
+    antinomy: ratite
+    clinamen: aminate
+    synonym: carinate
+    syzygy: bird
+- catalyst:
+    anomaly: beeweed
+    antinomy: anticatalyst
+    clinamen: analyst
+    synonym: catalyst
+    syzygy: activator
+- categorem:
+    anomaly: pericanalicular
+    antinomy: syncategorem
+    clinamen: categoric
+    synonym: categorem
+    syzygy: term
+- cathode:
+    anomaly: semitendinous
+    antinomy: anode
+    clinamen: cathine
+    synonym: cathode
+    syzygy: electrode
+- cease:
+    anomaly: sauvegarde
+    antinomy: begin
+    clinamen: abase
+    synonym: cease
+    syzygy: end
+- cenobite:
+    anomaly: prefectual
+    antinomy: eremite
+    clinamen: cenobian
+    synonym: cenobite
+    syzygy: religious
+- cenogenesis:
+    anomaly: laborable
+    antinomy: palingenesis
+    clinamen: aerogenesis
+    synonym: cenogenesis
+    syzygy: growth
+- centrality:
+    anomaly: hydraulicity
+    antinomy: marginality
+    clinamen: centralism
+    synonym: centrality
+    syzygy: position
+- centralization:
+    anomaly: ziamet
+    antinomy: decentralization
+    clinamen: dentalization
+    synonym: centralization
+    syzygy: consolidation
+- certification:
+    anomaly: unneutrally
+    antinomy: disenfranchisement
+    clinamen: acetification
+    synonym: documentation
+    syzygy: mandate
+- cheerfulness:
+    anomaly: herolike
+    antinomy: uncheerfulness
+    clinamen: heedfulness
+    synonym: cheerfulness
+    syzygy: property
+- cheerlessness:
+    anomaly: languet
+    antinomy: cheerfulness
+    clinamen: creedlessness
+    synonym: cheerlessness
+    syzygy: sadness
+- child:
+    anomaly: globuliform
+    antinomy: parent
+    clinamen: ahind
+    synonym: child
+    syzygy: juvenile
+- citizen:
+    anomaly: nonair
+    antinomy: noncitizen
+    clinamen: citied
+    synonym: citizen
+    syzygy: national
+- civilian:
+    anomaly: Iconian
+    antinomy: serviceman
+    clinamen: civility
+    synonym: civilian
+    syzygy: citizen
+- civility:
+    anomaly: unchidingly
+    antinomy: incivility
+    clinamen: civilian
+    synonym: politeness
+    syzygy: courtesy
+- clarity:
+    anomaly: flukily
+    antinomy: obscurity
+    clinamen: amarity
+    synonym: clearness
+    syzygy: comprehensibility
+- classicist:
+    anomaly: epistasis
+    antinomy: romanticist
+    clinamen: classicize
+    synonym: classicist
+    syzygy: artist
+- classification:
+    anomaly: conditioned
+    antinomy: declassification
+    clinamen: clarification
+    synonym: categorization
+    syzygy: group
+- cleanliness:
+    anomaly: Taxodiaceae
+    antinomy: uncleanliness
+    clinamen: cleanness
+    synonym: cleanliness
+    syzygy: habit
+- clearing:
+    anomaly: overimaginativeness
+    antinomy: clutter
+    clinamen: bearing
+    synonym: clearing
+    syzygy: tract
+- clearness:
+    anomaly: entheal
+    antinomy: obscurity
+    clinamen: bleakness
+    synonym: clarity
+    syzygy: comprehensibility
+- clergy:
+    anomaly: kindness
+    antinomy: laity
+    clinamen: anergy
+    synonym: clergy
+    syzygy: priesthood
+- closeness:
+    anomaly: brokenness
+    antinomy: farness
+    clinamen: aloneness
+    synonym: stuffiness
+    syzygy: belonging
+- clothing:
+    anomaly: ply
+    antinomy: undress
+    clinamen: allthing
+    synonym: clothing
+    syzygy: covering
+- coalition:
+    anomaly: univocity
+    antinomy: nonalignment
+    clinamen: clition
+    synonym: alliance
+    syzygy: organization
+- cognizance:
+    anomaly: Astrachan
+    antinomy: incognizance
+    clinamen: cognizable
+    synonym: awareness
+    syzygy: knowing
+- coherence:
+    anomaly: Hyracoidea
+    antinomy: incoherence
+    clinamen: adherence
+    synonym: coherence
+    syzygy: connection
+- cohesion:
+    anomaly: topee
+    antinomy: incoherence
+    clinamen: adhesion
+    synonym: coherence
+    syzygy: connection
+- cohesiveness:
+    anomaly: Hunkpapa
+    antinomy: incoherence
+    clinamen: adhesiveness
+    synonym: coherence
+    syzygy: connection
+- coldness:
+    anomaly: disperse
+    antinomy: hotness
+    clinamen: baldness
+    synonym: cold
+    syzygy: temperature
+- dabbler:
+    anomaly: tangleroot
+    antinomy: diving_duck
+    clinamen: abler
+    synonym: dabbling duck
+    syzygy: amateur
+- danger:
+    anomaly: conciliative
+    antinomy: safety
+    clinamen: ager
+    synonym: risk
+    syzygy: condition
+- dangerousness:
+    anomaly: nonhomaloidal
+    antinomy: safeness
+    clinamen: cancerousness
+    synonym: dangerousness
+    syzygy: feature
+- dark:
+    anomaly: demonry
+    antinomy: light
+    clinamen: Aaru
+    synonym: iniquity
+    syzygy: light
+- darkness:
+    anomaly: teaish
+    antinomy: light
+    clinamen: bareness
+    synonym: dark
+    syzygy: light
+- days:
+    anomaly: slumminess
+    antinomy: night
+    clinamen: aday
+    synonym: day
+    syzygy: life
+- deactivation:
+    anomaly: engorgement
+    antinomy: activation
+    clinamen: activation
+    synonym: deactivation
+    syzygy: judgment_of_dismissal
+- dead:
+    anomaly: stimulatingly
+    antinomy: living
+    clinamen: Adad
+    synonym: dead
+    syzygy: people
+- deadness:
+    anomaly: postponement
+    antinomy: responsiveness
+    clinamen: badness
+    synonym: unresponsiveness
+    syzygy: quality
+- death:
+    anomaly: squawky
+    antinomy: birth
+    clinamen: Bath
+    synonym: end
+    syzygy: change
+- debarkation:
+    anomaly: Peumus
+    antinomy: embarkation
+    clinamen: demarcation
+    synonym: debarkation
+    syzygy: landing
+- debenture:
+    anomaly: nursable
+    antinomy: secured_bond
+    clinamen: decentre
+    synonym: unsecured bond
+    syzygy: chemical_bond
+- debtor:
+    anomaly: emulsive
+    antinomy: creditor
+    clinamen: bettor
+    synonym: debtor
+    syzygy: person
+- deceleration:
+    anomaly: Hagiographa
+    antinomy: acceleration
+    clinamen: acceleration
+    synonym: deceleration
+    syzygy: change
+- decency:
+    anomaly: cee
+    antinomy: indecency
+    clinamen: decene
+    synonym: decency
+    syzygy: propriety
+- decision:
+    anomaly: grimly
+    antinomy: indecisiveness
+    clinamen: decisive
+    synonym: decisiveness
+    syzygy: choice
+- decisiveness:
+    anomaly: supersweet
+    antinomy: indecisiveness
+    clinamen: delusiveness
+    synonym: finality
+    syzygy: resoluteness
+- declension:
+    anomaly: entoptoscope
+    antinomy: ascent
+    clinamen: decession
+    synonym: deterioration
+    syzygy: inflection
+- declination:
+    anomaly: nonvesture
+    antinomy: improvement
+    clinamen: deamination
+    synonym: decline
+    syzygy: condition
+- decompression:
+    anomaly: Bechuana
+    antinomy: compression
+    clinamen: compression
+    synonym: decompression
+    syzygy: decoding
+- decontamination:
+    anomaly: Procyoninae
+    antinomy: contamination
+    clinamen: contamination
+    synonym: decontamination
+    syzygy: removal
+- decorum:
+    anomaly: condistillation
+    antinomy: indecorum
+    clinamen: deform
+    synonym: decorum
+    syzygy: propriety
+- deduction:
+    anomaly: cockleshell
+    antinomy: addition
+    clinamen: abduction
+    synonym: tax write-off
+    syzygy: write-off
+- deepness:
+    anomaly: blennorrhinia
+    antinomy: shallowness
+    clinamen: dampness
+    synonym: astuteness
+    syzygy: wisdom
+- defeat:
+    anomaly: houndman
+    antinomy: victory
+    clinamen: deceit
+    synonym: frustration
+    syzygy: failure
+- defendant:
+    anomaly: buddler
+    antinomy: plaintiff
+    clinamen: defecant
+    synonym: defendant
+    syzygy: litigant
+- deficit:
+    anomaly: gregarian
+    antinomy: lead
+    clinamen: defect
+    synonym: deficit
+    syzygy: insufficiency
+- deflation:
+    anomaly: pigeonwing
+    antinomy: inflation
+    clinamen: afflation
+    synonym: deflation
+    syzygy: erosion
+- degeneration:
+    anomaly: mangona
+    antinomy: evolution
+    clinamen: deceleration
+    synonym: degeneracy
+    syzygy: procedure
+- demerit:
+    anomaly: trencherwoman
+    antinomy: merit
+    clinamen: deceit
+    synonym: demerit
+    syzygy: mark
+- demonetization:
+    anomaly: Gandhism
+    antinomy: monetization
+    clinamen: monetization
+    synonym: demonetization
+    syzygy: termination
+- demotion:
+    anomaly: sematographic
+    antinomy: promotion
+    clinamen: amotion
+    synonym: demotion
+    syzygy: change
+- demurrer:
+    anomaly: atopite
+    antinomy: prosecution
+    clinamen: deferrer
+    synonym: demur
+    syzygy: expostulation
+- denseness:
+    anomaly: bigger
+    antinomy: distribution
+    clinamen: menseless
+    synonym: concentration
+    syzygy: stupidity
+- density:
+    anomaly: becrime
+    antinomy: distribution
+    clinamen: deity
+    synonym: concentration
+    syzygy: concentration
+- dependability:
+    anomaly: heatful
+    antinomy: undependability
+    clinamen: expendability
+    synonym: dependability
+    syzygy: duty
+- depigmentation:
+    anomaly: intercostobrachial
+    antinomy: pigmentation
+    clinamen: desegmentation
+    synonym: depigmentation
+    syzygy: color
+- depreciation:
+    anomaly: gnomically
+    antinomy: appreciation
+    clinamen: appreciation
+    synonym: disparagement
+    syzygy: decrease
+- descendant:
+    anomaly: folkfree
+    antinomy: ancestor
+    clinamen: ascendant
+    synonym: descendant
+    syzygy: relative
+- desirability:
+    anomaly: sheetful
+    antinomy: undesirability
+    clinamen: decorability
+    synonym: sex appeal
+    syzygy: good
+- destructibility:
+    anomaly: overcrown
+    antinomy: indestructibility
+    clinamen: distractibility
+    synonym: destructibility
+    syzygy: vulnerability
+- destructiveness:
+    anomaly: engaze
+    antinomy: constructiveness
+    clinamen: detractiveness
+    synonym: destructiveness
+    syzygy: quality
+- development:
+    anomaly: feis
+    antinomy: devolution
+    clinamen: envelopment
+    synonym: growth
+    syzygy: improvement
+- devolution:
+    anomaly: jaconet
+    antinomy: evolution
+    clinamen: advolution
+    synonym: degeneration
+    syzygy: procedure
+- diamond:
+    anomaly: prideless
+    antinomy: outfield
+    clinamen: daimon
+    synonym: rhombus
+    syzygy: jewel
+- diapsid:
+    anomaly: blackfire
+    antinomy: anapsid
+    clinamen: anapsid
+    synonym: diapsid
+    syzygy: reptile
+- difference:
+    anomaly: tritocerebrum
+    antinomy: sameness
+    clinamen: deference
+    synonym: deviation
+    syzygy: quality
+- diffidence:
+    anomaly: diluvion
+    antinomy: confidence
+    clinamen: difference
+    synonym: diffidence
+    syzygy: timidity
+- digestibility:
+    anomaly: meningorachidian
+    antinomy: indigestibility
+    clinamen: divertibility
+    synonym: digestibility
+    syzygy: edibility
+- dilution:
+    anomaly: pancreatectomy
+    antinomy: concentration
+    clinamen: ablution
+    synonym: dilution
+    syzygy: solution
+- diminution:
+    anomaly: Zaniah
+    antinomy: augmentation
+    clinamen: dimication
+    synonym: decline
+    syzygy: decrease
+- directness:
+    anomaly: icterogenic
+    antinomy: indirectness
+    clinamen: direness
+    synonym: candor
+    syzygy: feature
+- disapprobation:
+    anomaly: noisy
+    antinomy: approbation
+    clinamen: disapprobative
+    synonym: disapprobation
+    syzygy: disapproval
+- disapproval:
+    anomaly: Dehkan
+    antinomy: approval
+    clinamen: disapprove
+    synonym: disfavor
+    syzygy: disfavor
+- disarming:
+    anomaly: geomancy
+    antinomy: arming
+    clinamen: disring
+    synonym: disarming
+    syzygy: demobilization
+- disassociation:
+    anomaly: discontentedness
+    antinomy: association
+    clinamen: dissociation
+    synonym: dissociation
+    syzygy: separation
+- discomfort:
+    anomaly: quinquennalia
+    antinomy: comfort
+    clinamen: discomfit
+    synonym: discomfort
+    syzygy: condition
+- discomposure:
+    anomaly: bearder
+    antinomy: composure
+    clinamen: decomposure
+    synonym: discomfiture
+    syzygy: embarrassment
+- disconnection:
+    anomaly: three
+    antinomy: connectedness
+    clinamen: disconcertion
+    synonym: disjunction
+    syzygy: separation
+- discontentment:
+    anomaly: redeclare
+    antinomy: contentment
+    clinamen: disconcertment
+    synonym: discontentment
+    syzygy: longing
+- discontinuance:
+    anomaly: insatiateness
+    antinomy: continuance
+    clinamen: discontinuable
+    synonym: discontinuance
+    syzygy: termination
+- discontinuity:
+    anomaly: torchweed
+    antinomy: continuity
+    clinamen: incontinuity
+    synonym: discontinuity
+    syzygy: separation
+- disenfranchisement:
+    anomaly: melodrama
+    antinomy: enfranchisement
+    clinamen: disfranchisement
+    synonym: disenfranchisement
+    syzygy: management
+- disequilibrium:
+    anomaly: transportability
+    antinomy: equilibrium
+    clinamen: inequilibrium
+    synonym: disequilibrium
+    syzygy: situation
+- disfavor:
+    anomaly: classicolatry
+    antinomy: advantage
+    clinamen: disavow
+    synonym: disfavor
+    syzygy: rejection
+- disinclination:
+    anomaly: nonpredictable
+    antinomy: inclination
+    clinamen: disincarnation
+    synonym: reluctance
+    syzygy: disfavor
+- disjunction:
+    anomaly: pleometrotic
+    antinomy: connectedness
+    clinamen: disjection
+    synonym: disconnection
+    syzygy: separation
+- disloyalty:
+    anomaly: thigmotaxis
+    antinomy: loyalty
+    clinamen: disloyal
+    synonym: disloyalty
+    syzygy: infidelity
+- disobedience:
+    anomaly: developability
+    antinomy: obedience
+    clinamen: disobedient
+    synonym: disobedience
+    syzygy: insubordination
+- disorderliness:
+    anomaly: Wycliffism
+    antinomy: orderliness
+    clinamen: disorderedness
+    synonym: rowdiness
+    syzygy: condition
+- dispensability:
+    anomaly: ingrow
+    antinomy: indispensability
+    clinamen: dispersibility
+    synonym: dispensability
+    syzygy: inessentiality
+- dispersion:
+    anomaly: vas
+    antinomy: concentration
+    clinamen: aspersion
+    synonym: distribution
+    syzygy: spread
+- disrepute:
+    anomaly: drop
+    antinomy: repute
+    clinamen: dispute
+    synonym: disrepute
+    syzygy: dishonor
+- dissatisfaction:
+    anomaly: nondisparaging
+    antinomy: satisfaction
+    clinamen: insatisfaction
+    synonym: dissatisfaction
+    syzygy: discontentment
+- disservice:
+    anomaly: drinkable
+    antinomy: service
+    clinamen: disserve
+    synonym: disservice
+    syzygy: injury
+- dissimilarity:
+    anomaly: suburbanism
+    antinomy: similarity
+    clinamen: dissimilarly
+    synonym: dissimilarity
+    syzygy: difference
+- dissonance:
+    anomaly: semipolitician
+    antinomy: agreement
+    clinamen: assonance
+    synonym: disagreement
+    syzygy: conflict
+- dissuasion:
+    anomaly: disintrench
+    antinomy: persuasion
+    clinamen: discursion
+    synonym: dissuasion
+    syzygy: discouragement
+- distinctness:
+    anomaly: amorist
+    antinomy: indistinctness
+    clinamen: distantness
+    synonym: discreteness
+    syzygy: clarity
+- distributary:
+    anomaly: predetest
+    antinomy: tributary
+    clinamen: distributer
+    synonym: distributary
+    syzygy: branch
+- distribution:
+    anomaly: amelia
+    antinomy: concentration
+    clinamen: distributive
+    synonym: distribution
+    syzygy: agreement
+- disunion:
+    anomaly: brimfully
+    antinomy: union
+    clinamen: dilution
+    synonym: disunion
+    syzygy: separation
+- divergence:
+    anomaly: deodand
+    antinomy: convergence
+    clinamen: detergence
+    synonym: deviation
+    syzygy: separation
+- divider:
+    anomaly: nantokite
+    antinomy: lumper
+    clinamen: decider
+    synonym: splitter
+    syzygy: taxonomist
+- domestication:
+    anomaly: squirk
+    antinomy: wildness
+    clinamen: domesticative
+    synonym: tameness
+    syzygy: adaptation
+- dove:
+    anomaly: amphigenesis
+    antinomy: hawk
+    clinamen: Ave
+    synonym: columba
+    syzygy: pigeon
+- downfall:
+    anomaly: incorrect
+    antinomy: rise
+    clinamen: dewfall
+    synonym: precipitation
+    syzygy: failure
+- draftee:
+    anomaly: uncommunicable
+    antinomy: volunteer
+    clinamen: draft
+    synonym: draftee
+    syzygy: serviceman
+- drafting:
+    anomaly: hexadactylous
+    antinomy: discharge
+    clinamen: crofting
+    synonym: drawing
+    syzygy: writing
+- drawing:
+    anomaly: adipose
+    antinomy: push
+    clinamen: awing
+    synonym: lottery
+    syzygy: artwork
+- dressing:
+    anomaly: juglandin
+    antinomy: undress
+    clinamen: blessing
+    synonym: stuffing
+    syzygy: sauce
+- drinker:
+    anomaly: ensile
+    antinomy: nondrinker
+    clinamen: blinker
+    synonym: drinker
+    syzygy: consumer
+- driver:
+    anomaly: overmoisture
+    antinomy: nondriver
+    clinamen: braver
+    synonym: driver
+    syzygy: operator
+- earliness:
+    anomaly: overwrite
+    antinomy: lateness
+    clinamen: artiness
+    synonym: earliness
+    syzygy: timing
+- easiness:
+    anomaly: unwaverable
+    antinomy: difficulty
+    clinamen: ashiness
+    synonym: ease
+    syzygy: tranquillity
+- eccentricity:
+    anomaly: amantillo
+    antinomy: concentricity
+    clinamen: centricity
+    synonym: eccentricity
+    syzygy: unfamiliarity
+- effectiveness:
+    anomaly: Lewis
+    antinomy: ineffectiveness
+    clinamen: defectiveness
+    synonym: potency
+    syzygy: power
+- effector:
+    anomaly: hieron
+    antinomy: receptor
+    clinamen: affecter
+    synonym: effecter
+    syzygy: person
+- efficiency:
+    anomaly: avadana
+    antinomy: inefficiency
+    clinamen: deficiency
+    synonym: efficiency
+    syzygy: ratio
+- egoism:
+    anomaly: skiddingly
+    antinomy: altruism
+    clinamen: egoity
+    synonym: egoism
+    syzygy: theory
+- egress:
+    anomaly: oblanceolate
+    antinomy: ingress
+    clinamen: caress
+    synonym: emergence
+    syzygy: reappearance
+- elegance:
+    anomaly: blubberman
+    antinomy: inelegance
+    clinamen: elance
+    synonym: elegance
+    syzygy: quality
+- elevation:
+    anomaly: judo
+    antinomy: natural_depression
+    clinamen: clavation
+    synonym: acme
+    syzygy: rise
+- eligibility:
+    anomaly: lotase
+    antinomy: ineligibility
+    clinamen: legibility
+    synonym: eligibility
+    syzygy: qualification
+- emotionality:
+    anomaly: ovaloid
+    antinomy: unemotionality
+    clinamen: emotionalism
+    synonym: emotionality
+    syzygy: trait
+- employee:
+    anomaly: holorhinal
+    antinomy: employer
+    clinamen: employ
+    synonym: employee
+    syzygy: worker
+- employer:
+    anomaly: predeficient
+    antinomy: employee
+    clinamen: employ
+    synonym: employer
+    syzygy: leader
+- employment:
+    anomaly: arterially
+    antinomy: unemployment
+    clinamen: deployment
+    synonym: use
+    syzygy: state
+- emptiness:
+    anomaly: subimposed
+    antinomy: fullness
+    clinamen: emptings
+    synonym: void
+    syzygy: condition
+- ending:
+    anomaly: lactean
+    antinomy: beginning
+    clinamen: Andine
+    synonym: termination
+    syzygy: morpheme
+- endogamy:
+    anomaly: satisfier
+    antinomy: exogamy
+    clinamen: endogeny
+    synonym: endogamy
+    syzygy: marriage
+- endotoxin:
+    anomaly: epistolographist
+    antinomy: exotoxin
+    clinamen: ectotoxin
+    synonym: endotoxin
+    syzygy: toxin
+- enfranchisement:
+    anomaly: panconciliatory
+    antinomy: disenfranchisement
+    clinamen: affranchisement
+    synonym: franchise
+    syzygy: freedom
+- enlargement:
+    anomaly: occupancy
+    antinomy: contraction
+    clinamen: engagement
+    synonym: expansion
+    syzygy: addition
+- equality:
+    anomaly: interminable
+    antinomy: inequality
+    clinamen: duality
+    synonym: equality
+    syzygy: sameness
+- equilibrium:
+    anomaly: unclubbable
+    antinomy: disequilibrium
+    clinamen: equilibria
+    synonym: chemical equilibrium
+    syzygy: situation
+- equity:
+    anomaly: expiator
+    antinomy: unfairness
+    clinamen: acuity
+    synonym: fairness
+    syzygy: assets
+- equivalence:
+    anomaly: flatman
+    antinomy: nonequivalence
+    clinamen: equibalance
+    synonym: equality
+    syzygy: status
+- erecting:
+    anomaly: superrealist
+    antinomy: degree
+    clinamen: cresting
+    synonym: erecting
+    syzygy: construction
+- eremite:
+    anomaly: progamete
+    antinomy: cenobite
+    clinamen: Alemite
+    synonym: eremite
+    syzygy: religious
+- errancy:
+    anomaly: monumentary
+    antinomy: inerrancy
+    clinamen: errand
+    synonym: errancy
+    syzygy: unacceptability
+- essentiality:
+    anomaly: domical
+    antinomy: inessentiality
+    clinamen: essentialism
+    synonym: essentiality
+    syzygy: importance
+- esteem:
+    anomaly: stenocoriasis
+    antinomy: disesteem
+    clinamen: asteam
+    synonym: admiration
+    syzygy: award
+- euphemism:
+    anomaly: viddui
+    antinomy: dysphemism
+    clinamen: euphemian
+    synonym: euphemism
+    syzygy: saying
+- euphoria:
+    anomaly: attain
+    antinomy: dysphoria
+    clinamen: aphoria
+    synonym: euphoria
+    syzygy: elation
+- evasion:
+    anomaly: factuality
+    antinomy: payment
+    clinamen: basion
+    synonym: evasion
+    syzygy: misrepresentation
+- evenness:
+    anomaly: trippler
+    antinomy: unevenness
+    clinamen: bienness
+    synonym: evenness
+    syzygy: parity
+- evil:
+    anomaly: Formicariae
+    antinomy: good
+    clinamen: ail
+    synonym: evil
+    syzygy: transgression
+- evolution:
+    anomaly: exclamation
+    antinomy: devolution
+    clinamen: avolation
+    synonym: development
+    syzygy: procedure
+- exactness:
+    anomaly: joukerypawkery
+    antinomy: inexactness
+    clinamen: erectness
+    synonym: exactness
+    syzygy: accuracy
+- exaggeration:
+    anomaly: dispensary
+    antinomy: understatement
+    clinamen: aggeration
+    synonym: hyperbole
+    syzygy: trope
+- exchangeability:
+    anomaly: degraduate
+    antinomy: unexchangeability
+    clinamen: changeability
+    synonym: exchangeability
+    syzygy: changeableness
+- exclusion:
+    anomaly: subpavement
+    antinomy: inclusion
+    clinamen: eclosion
+    synonym: excommunication
+    syzygy: situation
+- exile:
+    anomaly: habitan
+    antinomy: repatriate
+    clinamen: agile
+    synonym: exile
+    syzygy: absentee
+- exogamy:
+    anomaly: deanery
+    antinomy: endogamy
+    clinamen: apogamy
+    synonym: exogamy
+    syzygy: marriage
+- exotoxin:
+    anomaly: pyxidate
+    antinomy: endotoxin
+    clinamen: urotoxin
+    synonym: exotoxin
+    syzygy: toxin
+- expansion:
+    anomaly: azumbre
+    antinomy: contraction
+    clinamen: expansile
+    synonym: expansion
+    syzygy: addition
+- expedience:
+    anomaly: toilful
+    antinomy: inexpedience
+    clinamen: expedient
+    synonym: opportunism
+    syzygy: advantage
+- explicitness:
+    anomaly: polymicrobic
+    antinomy: inexplicitness
+    clinamen: implicitness
+    synonym: explicitness
+    syzygy: clarity
+- exporting:
+    anomaly: hypolocrian
+    antinomy: import
+    clinamen: expiring
+    synonym: exporting
+    syzygy: commerce
+- expression:
+    anomaly: outqueen
+    antinomy: misconstruction
+    clinamen: depression
+    synonym: saying
+    syzygy: countenance
+- extension:
+    anomaly: liberally
+    antinomy: flexion
+    clinamen: expansion
+    synonym: propagation
+    syzygy: delay
+- extraversion:
+    anomaly: Manichee
+    antinomy: introversion
+    clinamen: extratension
+    synonym: extraversion
+    syzygy: sociability
+- extrovert:
+    anomaly: obstinately
+    antinomy: introvert
+    clinamen: introvert
+    synonym: extrovert
+    syzygy: person
+- fabrication:
+    anomaly: hypomnesis
+    antinomy: disassembly
+    clinamen: abdication
+    synonym: lying
+    syzygy: falsehood
+- facing:
+    anomaly: tapeline
+    antinomy: back
+    clinamen: aching
+    synonym: lining
+    syzygy: lining
+- factuality:
+    anomaly: matchmark
+    antinomy: counterfactuality
+    clinamen: factually
+    synonym: factuality
+    syzygy: quality
+- failing:
+    anomaly: nonnaturalistic
+    antinomy: passing
+    clinamen: aiming
+    synonym: failing
+    syzygy: imperfection
+- failure:
+    anomaly: titanifluoride
+    antinomy: success
+    clinamen: ailuro
+    synonym: bankruptcy
+    syzygy: nonaccomplishment
+- faintness:
+    anomaly: foundress
+    antinomy: stoutheartedness
+    clinamen: fairness
+    synonym: faintheartedness
+    syzygy: feeling
+- fairness:
+    anomaly: bushily
+    antinomy: unfairness
+    clinamen: airiness
+    synonym: paleness
+    syzygy: justice
+- fallibility:
+    anomaly: bethroot
+    antinomy: infallibility
+    clinamen: alibility
+    synonym: fallibility
+    syzygy: undependability
+- falls:
+    anomaly: culottes
+    antinomy: ascent
+    clinamen: alas
+    synonym: waterfall
+    syzygy: perianth
+- falsity:
+    anomaly: lysin
+    antinomy: truth
+    clinamen: calvity
+    synonym: falsehood
+    syzygy: unreality
+- fame:
+    anomaly: pantagraph
+    antinomy: infamy
+    clinamen: aam
+    synonym: fame
+    syzygy: award
+- familiarity:
+    anomaly: pyrogenous
+    antinomy: unfamiliarity
+    clinamen: familiarism
+    synonym: acquaintance
+    syzygy: information
+- farness:
+    anomaly: ceder
+    antinomy: nearness
+    clinamen: badness
+    synonym: farness
+    syzygy: distance
+- fastness:
+    anomaly: Aias
+    antinomy: looseness
+    clinamen: aptness
+    synonym: speed
+    syzygy: pace
+- fat:
+    anomaly: silvendy
+    antinomy: leanness
+    clinamen: aa
+    synonym: adipose tissue
+    syzygy: lipid
+- father:
+    anomaly: abiotrophic
+    antinomy: mother
+    clinamen: acher
+    synonym: forefather
+    syzygy: parent
+- fault:
+    anomaly: provisor
+    antinomy: merit
+    clinamen: adult
+    synonym: mistake
+    syzygy: nonaccomplishment
+- fauna:
+    anomaly: masturbatory
+    antinomy: flora
+    clinamen: abuna
+    synonym: animal
+    syzygy: collection
+- favorableness:
+    anomaly: pectase
+    antinomy: unfavorableness
+    clinamen: adorableness
+    synonym: favorableness
+    syzygy: advantage
+- fearlessness:
+    anomaly: vorticist
+    antinomy: fear
+    clinamen: fecklessness
+    synonym: fearlessness
+    syzygy: feeling
+- feasibility:
+    anomaly: Saracenism
+    antinomy: infeasibility
+    clinamen: fusibility
+    synonym: feasibility
+    syzygy: practicability
+- feature:
+    anomaly: retrospectively
+    antinomy: lack
+    clinamen: abature
+    synonym: feature of speech
+    syzygy: property
+- fecundity:
+    anomaly: tanhouse
+    antinomy: infertility
+    clinamen: fecundate
+    synonym: fertility
+    syzygy: creativity
+- felicity:
+    anomaly: amiably
+    antinomy: infelicity
+    clinamen: elicit
+    synonym: happiness
+    syzygy: appropriateness
+- female:
+    anomaly: semiundressed
+    antinomy: male
+    clinamen: behale
+    synonym: female
+    syzygy: animal
+- femaleness:
+    anomaly: antipathogen
+    antinomy: maleness
+    clinamen: feebleness
+    synonym: femaleness
+    syzygy: sexual_activity
+- femininity:
+    anomaly: millefiori
+    antinomy: masculinity
+    clinamen: feminality
+    synonym: femininity
+    syzygy: trait
+- fertility:
+    anomaly: annotate
+    antinomy: infertility
+    clinamen: febrility
+    synonym: birthrate
+    syzygy: rate
+- fidelity:
+    anomaly: regardlessness
+    antinomy: infidelity
+    clinamen: finality
+    synonym: fidelity
+    syzygy: accuracy
+- filling:
+    anomaly: propupal
+    antinomy: empty
+    clinamen: ailing
+    synonym: woof
+    syzygy: material
+- finality:
+    anomaly: avengeful
+    antinomy: inconclusiveness
+    clinamen: banality
+    synonym: finality
+    syzygy: determinateness
+- finiteness:
+    anomaly: wapp
+    antinomy: infiniteness
+    clinamen: fineness
+    synonym: finiteness
+    syzygy: quality
+- firmness:
+    anomaly: bristletail
+    antinomy: unsoundness
+    clinamen: airiness
+    synonym: resoluteness
+    syzygy: strength
+- first:
+    anomaly: parasitology
+    antinomy: end
+    clinamen: airt
+    synonym: beginning
+    syzygy: rank
+- fitness:
+    anomaly: outrate
+    antinomy: unfitness
+    clinamen: aptness
+    synonym: seaworthiness
+    syzygy: suitability
+- fixedness:
+    anomaly: semipeace
+    antinomy: looseness
+    clinamen: fadedness
+    synonym: stationariness
+    syzygy: motionlessness
+- fixture:
+    anomaly: tolfraedic
+    antinomy: looseness
+    clinamen: facture
+    synonym: regular
+    syzygy: artifact
+- flexibility:
+    anomaly: unliability
+    antinomy: inflexibility
+    clinamen: flexility
+    synonym: tractability
+    syzygy: malleability
+- floating:
+    anomaly: ethography
+    antinomy: sink
+    clinamen: bleating
+    synonym: floating
+    syzygy: swimming
+- foe:
+    anomaly: accentuality
+    antinomy: friend
+    clinamen: Abe
+    synonym: enemy
+    syzygy: adversary
+- follower:
+    anomaly: detersion
+    antinomy: leader
+    clinamen: allower
+    synonym: follower
+    syzygy: person
+- folly:
+    anomaly: symbasis
+    antinomy: wisdom
+    clinamen: Ally
+    synonym: stupidity
+    syzygy: trait
+- foreigner:
+    anomaly: pyrophilous
+    antinomy: citizen
+    clinamen: feigner
+    synonym: foreigner
+    syzygy: traveler
+- formalism:
+    anomaly: successory
+    antinomy: imitation
+    clinamen: formalith
+    synonym: formalism
+    syzygy: doctrine
+- formality:
+    anomaly: roupit
+    antinomy: informality
+    clinamen: femality
+    synonym: formality
+    syzygy: ceremony
+- former:
+    anomaly: squamousness
+    antinomy: latter
+    clinamen: armer
+    synonym: former
+    syzygy: first
+- forte:
+    anomaly: trommel
+    antinomy: weak_point
+    clinamen: afore
+    synonym: forte
+    syzygy: asset
+- freshness:
+    anomaly: unexposed
+    antinomy: staleness
+    clinamen: brashness
+    synonym: novelty
+    syzygy: newness
+- friend:
+    anomaly: redissolve
+    antinomy: foe
+    clinamen: arend
+    synonym: ally
+    syzygy: person
+- friendliness:
+    anomaly: demisemitone
+    antinomy: unfriendliness
+    clinamen: friendless
+    synonym: friendliness
+    syzygy: liking
+- frigidity:
+    anomaly: subterritory
+    antinomy: hotness
+    clinamen: fixidity
+    synonym: coldness
+    syzygy: unresponsiveness
+- frivolity:
+    anomaly: athlothete
+    antinomy: seriousness
+    clinamen: frijolito
+    synonym: bagatelle
+    syzygy: trait
+- fruitfulness:
+    anomaly: semiegret
+    antinomy: fruitlessness
+    clinamen: fitfulness
+    synonym: fecundity
+    syzygy: quality
+- fruitlessness:
+    anomaly: phytosociological
+    antinomy: fruitfulness
+    clinamen: faultlessness
+    synonym: fruitlessness
+    syzygy: uncreativeness
+- fullness:
+    anomaly: Medic
+    antinomy: emptiness
+    clinamen: allness
+    synonym: comprehensiveness
+    syzygy: completeness
+- future:
+    anomaly: reirrigate
+    antinomy: past
+    clinamen: acture
+    synonym: future
+    syzygy: time
+- futurity:
+    anomaly: Felapton
+    antinomy: past
+    clinamen: fatuity
+    synonym: future
+    syzygy: time
+- garment:
+    anomaly: futility
+    antinomy: undress
+    clinamen: ament
+    synonym: garment
+    syzygy: clothing
+- generality:
+    anomaly: nonoccurrence
+    antinomy: particularity
+    clinamen: centrality
+    synonym: generalization
+    syzygy: idea
+- generic:
+    anomaly: hippophagistical
+    antinomy: varietal
+    clinamen: benefic
+    synonym: generic
+    syzygy: wine
+- generosity:
+    anomaly: untappable
+    antinomy: stinginess
+    clinamen: generality
+    synonym: generosity
+    syzygy: kindness
+- gentleness:
+    anomaly: malpighiaceous
+    antinomy: abruptness
+    clinamen: gentlemens
+    synonym: gradualness
+    syzygy: gradient
+- girl:
+    anomaly: keck
+    antinomy: male_child
+    clinamen: aiel
+    synonym: female child
+    syzygy: woman
+- given:
+    anomaly: platycercine
+    antinomy: return
+    clinamen: bien
+    synonym: given
+    syzygy: premise
+- giving:
+    anomaly: leaf
+    antinomy: return
+    clinamen: ailing
+    synonym: giving
+    syzygy: sharing
+- godliness:
+    anomaly: instressed
+    antinomy: ungodliness
+    clinamen: dodginess
+    synonym: godliness
+    syzygy: piety
+- going:
+    anomaly: swarf
+    antinomy: semen
+    clinamen: aging
+    synonym: departure
+    syzygy: act
+- good:
+    anomaly: Junoesque
+    antinomy: evil
+    clinamen: alod
+    synonym: commodity
+    syzygy: advantage
+- grace:
+    anomaly: Guaharibo
+    antinomy: unseemliness
+    clinamen: ace
+    synonym: seemliness
+    syzygy: state
+- gracefulness:
+    anomaly: mesmerical
+    antinomy: awkwardness
+    clinamen: peacefulness
+    synonym: gracefulness
+    syzygy: passenger_car
+- graciousness:
+    anomaly: syllabication
+    antinomy: ungraciousness
+    clinamen: edaciousness
+    synonym: benignity
+    syzygy: courtesy
+- granter:
+    anomaly: returnability
+    antinomy: withholder
+    clinamen: banter
+    synonym: granter
+    syzygy: person
+- gratitude:
+    anomaly: Volstead
+    antinomy: ingratitude
+    clinamen: beatitude
+    synonym: gratitude
+    syzygy: feeling
+- gravitation:
+    anomaly: dawsoniaceous
+    antinomy: levitation
+    clinamen: cavitation
+    synonym: gravity
+    syzygy: attraction
+- gravity:
+    anomaly: unfrustrably
+    antinomy: levity
+    clinamen: brevity
+    synonym: graveness
+    syzygy: attraction
+- greenness:
+    anomaly: sulphovinic
+    antinomy: ripeness
+    clinamen: freeness
+    synonym: green
+    syzygy: profusion
+- grounds:
+    anomaly: Tatary
+    antinomy: figure
+    clinamen: aground
+    synonym: evidence
+    syzygy: information
+- guilt:
+    anomaly: fodderless
+    antinomy: innocence
+    clinamen: atilt
+    synonym: guilt
+    syzygy: condition
+- hairiness:
+    anomaly: Unguiculata
+    antinomy: hairlessness
+    clinamen: barriness
+    synonym: hairiness
+    syzygy: appearance
+- hairlessness:
+    anomaly: tutee
+    antinomy: hairiness
+    clinamen: aimlessness
+    synonym: hairlessness
+    syzygy: condition
+- handiness:
+    anomaly: undemonstratable
+    antinomy: inaccessibility
+    clinamen: bardiness
+    synonym: handiness
+    syzygy: skillfulness
+- hardness:
+    anomaly: woady
+    antinomy: softness
+    clinamen: aridness
+    synonym: unfeelingness
+    syzygy: consistency
+- hardware:
+    anomaly: shack
+    antinomy: software
+    clinamen: artware
+    synonym: hardware
+    syzygy: weaponry
+- harmony:
+    anomaly: reasonedly
+    antinomy: dissonance
+    clinamen: armory
+    synonym: harmony
+    syzygy: compatibility
+- health:
+    anomaly: Monodelphia
+    antinomy: illness
+    clinamen: beath
+    synonym: health
+    syzygy: wellbeing
+- healthfulness:
+    anomaly: braggingly
+    antinomy: unhealthfulness
+    clinamen: deathfulness
+    synonym: healthfulness
+    syzygy: wholesomeness
+- heaven:
+    anomaly: insertive
+    antinomy: Hell
+    clinamen: beaten
+    synonym: eden
+    syzygy: region
+- heaviness:
+    anomaly: Cuban
+    antinomy: lightness
+    clinamen: beadiness
+    synonym: ponderousness
+    syzygy: weight
+- heedlessness:
+    anomaly: kelep
+    antinomy: attentiveness
+    clinamen: endlessness
+    synonym: inattentiveness
+    syzygy: inattention
+- hell:
+    anomaly: vociferative
+    antinomy: Heaven
+    clinamen: all
+    synonym: sin
+    syzygy: region
+- here:
+    anomaly: Hugoesque
+    antinomy: there
+    clinamen: acre
+    synonym: hera
+    syzygy: location
+- hereness:
+    anomaly: assertorially
+    antinomy: thereness
+    clinamen: bareness
+    synonym: hereness
+    syzygy: presence
+- heresy:
+    anomaly: pellagra
+    antinomy: orthodoxy
+    clinamen: atresy
+    synonym: unorthodoxy
+    syzygy: orientation
+- heterogeneity:
+    anomaly: Leptamnium
+    antinomy: homogeneity
+    clinamen: heterogenetic
+    synonym: heterogeneity
+    syzygy: nonuniformity
+- heterozygosity:
+    anomaly: multiradiate
+    antinomy: homozygosity
+    clinamen: heterozygosis
+    synonym: heterozygosity
+    syzygy: state
+- hiding:
+    anomaly: anthropolatry
+    antinomy: show
+    clinamen: ailing
+    synonym: concealment
+    syzygy: activity
+- high:
+    anomaly: gisler
+    antinomy: low
+    clinamen: augh
+    synonym: senior high school
+    syzygy: degree
+- highness:
+    anomaly: yoy
+    antinomy: lowness
+    clinamen: bigness
+    synonym: highness
+    syzygy: aristocrat
+- holiness:
+    anomaly: timberhead
+    antinomy: unholiness
+    clinamen: boldness
+    synonym: holiness
+    syzygy: quality
+- holism:
+    anomaly: grr
+    antinomy: atomism
+    clinamen: bolis
+    synonym: holism
+    syzygy: theory
+- hollowness:
+    anomaly: provost
+    antinomy: solidity
+    clinamen: callowness
+    synonym: insincerity
+    syzygy: emptiness
+- homogeneity:
+    anomaly: wayzgoose
+    antinomy: heterogeneity
+    clinamen: homogeneate
+    synonym: homogeneity
+    syzygy: uniformity
+- homozygosity:
+    anomaly: forecommend
+    antinomy: heterozygosity
+    clinamen: homozygosis
+    synonym: homozygosity
+    syzygy: state
+- honesty:
+    anomaly: Leptidae
+    antinomy: dishonesty
+    clinamen: amnesty
+    synonym: honesty
+    syzygy: righteousness
+- honorableness:
+    anomaly: duncical
+    antinomy: dishonorableness
+    clinamen: colorableness
+    synonym: honorableness
+    syzygy: righteousness
+- hopefulness:
+    anomaly: viperlike
+    antinomy: hopelessness
+    clinamen: dolefulness
+    synonym: hopefulness
+    syzygy: condition
+- hopelessness:
+    anomaly: doxasticon
+    antinomy: hopefulness
+    clinamen: bonelessness
+    synonym: hopelessness
+    syzygy: despair
+- hotness:
+    anomaly: upprick
+    antinomy: coldness
+    clinamen: aptness
+    synonym: horniness
+    syzygy: temperature
+- humaneness:
+    anomaly: wabster
+    antinomy: inhumaneness
+    clinamen: humbleness
+    synonym: humaneness
+    syzygy: quality
+- humbleness:
+    anomaly: piped
+    antinomy: pride
+    clinamen: humaneness
+    synonym: humility
+    syzygy: obscureness
+- humility:
+    anomaly: redactorial
+    antinomy: conceit
+    clinamen: futility
+    synonym: humility
+    syzygy: trait
+- hurry:
+    anomaly: dikaryophasic
+    antinomy: delay
+    clinamen: Arry
+    synonym: haste
+    syzygy: urgency
+- husband:
+    anomaly: rectovaginal
+    antinomy: wife
+    clinamen: disband
+    synonym: husband
+    syzygy: spouse
+- hypercalcemia:
+    anomaly: Comsomol
+    antinomy: hypocalcemia
+    clinamen: hypocalcemia
+    synonym: hypercalcemia
+    syzygy: symptom
+- hyperglycemia:
+    anomaly: microphotographic
+    antinomy: hypoglycemia
+    clinamen: hypoglycemia
+    synonym: hyperglycemia
+    syzygy: symptom
+- hyperopia:
+    anomaly: corneagen
+    antinomy: myopia
+    clinamen: hyperemia
+    synonym: hyperopia
+    syzygy: ametropia
+- hyperpnea:
+    anomaly: debonaire
+    antinomy: hypopnea
+    clinamen: hyperper
+    synonym: hyperpnea
+    syzygy: breathing
+- hypertonia:
+    anomaly: konak
+    antinomy: hypotonia
+    clinamen: hyperopia
+    synonym: hypertonia
+    syzygy: tonicity
+- hypotonia:
+    anomaly: negotiability
+    antinomy: hypertonia
+    clinamen: holotonia
+    synonym: hypotonia
+    syzygy: tonicity
+- illegality:
+    anomaly: vainful
+    antinomy: legality
+    clinamen: illegalize
+    synonym: illegality
+    syzygy: unlawfulness
+- illegibility:
+    anomaly: fresco
+    antinomy: legibility
+    clinamen: legibility
+    synonym: illegibility
+    syzygy: incomprehensibility
+- illegitimacy:
+    anomaly: moho
+    antinomy: legitimacy
+    clinamen: illegitimate
+    synonym: bastardy
+    syzygy: status
+- illiberality:
+    anomaly: pectinase
+    antinomy: liberality
+    clinamen: illiberalism
+    synonym: illiberality
+    syzygy: stinginess
+- illicitness:
+    anomaly: porcelainize
+    antinomy: licitness
+    clinamen: licitness
+    synonym: illicitness
+    syzygy: unlawfulness
+- illiteracy:
+    anomaly: hydromantic
+    antinomy: literacy
+    clinamen: illiteral
+    synonym: illiteracy
+    syzygy: ignorance
+- illogicality:
+    anomaly: Pauline
+    antinomy: logicality
+    clinamen: illocality
+    synonym: illogicality
+    syzygy: quality
+- imbalance:
+    anomaly: turndun
+    antinomy: balance
+    clinamen: ambulance
+    synonym: asymmetry
+    syzygy: disequilibrium
+- imitation:
+    anomaly: nosebone
+    antinomy: formalism
+    clinamen: agitation
+    synonym: caricature
+    syzygy: doctrine
+- immateriality:
+    anomaly: superextension
+    antinomy: materiality
+    clinamen: immaterialism
+    synonym: immateriality
+    syzygy: irrelevance
+- immaturity:
+    anomaly: blowspray
+    antinomy: maturity
+    clinamen: immaturely
+    synonym: immaturity
+    syzygy: state
+- immediacy:
+    anomaly: homicidious
+    antinomy: mediacy
+    clinamen: immedial
+    synonym: immediacy
+    syzygy: directness
+- immersion:
+    anomaly: kafta
+    antinomy: egress
+    clinamen: demersion
+    synonym: submergence
+    syzygy: sinking
+- immobility:
+    anomaly: scuta
+    antinomy: mobility
+    clinamen: ignobility
+    synonym: stationariness
+    syzygy: motionlessness
+- immoderation:
+    anomaly: tearing
+    antinomy: moderation
+    clinamen: moderation
+    synonym: immoderation
+    syzygy: degree
+- immodesty:
+    anomaly: calumniousness
+    antinomy: modesty
+    clinamen: modesty
+    synonym: exhibitionism
+    syzygy: indecency
+- immorality:
+    anomaly: micropterous
+    antinomy: morality
+    clinamen: amorality
+    synonym: evil
+    syzygy: quality
+- immortality:
+    anomaly: dishallow
+    antinomy: mortality
+    clinamen: immortalism
+    synonym: immortality
+    syzygy: permanence
+- immovability:
+    anomaly: Knautia
+    antinomy: movability
+    clinamen: amovability
+    synonym: immovability
+    syzygy: stationariness
+- immunity:
+    anomaly: doldrums
+    antinomy: susceptibility
+    clinamen: imbonity
+    synonym: unsusceptibility
+    syzygy: condition
+- immutability:
+    anomaly: repolymerize
+    antinomy: mutability
+    clinamen: imitability
+    synonym: immutability
+    syzygy: changelessness
+- impartiality:
+    anomaly: watt
+    antinomy: partiality
+    clinamen: impartialism
+    synonym: impartiality
+    syzygy: inclination
+- impatience:
+    anomaly: stool
+    antinomy: patience
+    clinamen: impatient
+    synonym: restlessness
+    syzygy: irritation
+- impenetrability:
+    anomaly: conglobe
+    antinomy: penetrability
+    clinamen: penetrability
+    synonym: impenetrability
+    syzygy: quality
+- imperfectibility:
+    anomaly: reambitious
+    antinomy: perfectibility
+    clinamen: imperceptibility
+    synonym: imperfectibility
+    syzygy: capability
+- imperfection:
+    anomaly: drumskin
+    antinomy: perfection
+    clinamen: imperception
+    synonym: imperfection
+    syzygy: state
+- impermanence:
+    anomaly: Mithraism
+    antinomy: permanence
+    clinamen: impermanent
+    synonym: impermanence
+    syzygy: duration
+- impermeability:
+    anomaly: bucca
+    antinomy: permeability
+    clinamen: impermeabilize
+    synonym: impermeability
+    syzygy: solidity
+- impiety:
+    anomaly: carnalize
+    antinomy: piety
+    clinamen: implete
+    synonym: impiety
+    syzygy: unrighteousness
+- implausibility:
+    anomaly: ogum
+    antinomy: plausibility
+    clinamen: impassibility
+    synonym: implausibility
+    syzygy: incredibility
+- impoliteness:
+    anomaly: vaguish
+    antinomy: politeness
+    clinamen: politeness
+    synonym: impoliteness
+    syzygy: disrespect
+- importance:
+    anomaly: cetrarin
+    antinomy: unimportance
+    clinamen: imparlance
+    synonym: importance
+    syzygy: value
+- importing:
+    anomaly: Cartilagines
+    antinomy: export
+    clinamen: imploring
+    synonym: importing
+    syzygy: commerce
+- impossibility:
+    anomaly: fodient
+    antinomy: possibility
+    clinamen: impassability
+    synonym: impossibility
+    syzygy: nonexistence
+- impotence:
+    anomaly: backless
+    antinomy: powerfulness
+    clinamen: imperence
+    synonym: powerlessness
+    syzygy: quality
+- impracticability:
+    anomaly: decenary
+    antinomy: practicability
+    clinamen: impracticality
+    synonym: impracticability
+    syzygy: inutility
+- impracticality:
+    anomaly: superconformity
+    antinomy: practicality
+    clinamen: practicality
+    synonym: impracticality
+    syzygy: inutility
+- improbability:
+    anomaly: brucite
+    antinomy: probability
+    clinamen: importability
+    synonym: improbability
+    syzygy: uncertainty
+- impropriety:
+    anomaly: scruple
+    antinomy: propriety
+    clinamen: impropriate
+    synonym: indecency
+    syzygy: demeanor
+- improvement:
+    anomaly: Haemogregarina
+    antinomy: decline
+    clinamen: approvement
+    synonym: improvement
+    syzygy: transformation
+- improvidence:
+    anomaly: Y
+    antinomy: providence
+    clinamen: improvident
+    synonym: improvidence
+    syzygy: imprudence
+- imprudence:
+    anomaly: philopolemical
+    antinomy: prudence
+    clinamen: impendence
+    synonym: imprudence
+    syzygy: incaution
+- impurity:
+    anomaly: corneum
+    antinomy: purity
+    clinamen: immunity
+    synonym: impurity
+    syzygy: waste
+- inability:
+    anomaly: shamanistic
+    antinomy: ability
+    clinamen: ability
+    synonym: inability
+    syzygy: cognition
+- inaccessibility:
+    anomaly: spacious
+    antinomy: accessibility
+    clinamen: accessibility
+    synonym: inaccessibility
+    syzygy: inconvenience
+- inaccuracy:
+    anomaly: Tubuliporidae
+    antinomy: accuracy
+    clinamen: accuracy
+    synonym: inaccuracy
+    syzygy: quality
+- inaction:
+    anomaly: restwards
+    antinomy: action
+    clinamen: abaction
+    synonym: inaction
+    syzygy: state
+- inactiveness:
+    anomaly: chebulinic
+    antinomy: action
+    clinamen: activeness
+    synonym: inaction
+    syzygy: state
+- inactivity:
+    anomaly: hemangiomatosis
+    antinomy: action
+    clinamen: activity
+    synonym: inaction
+    syzygy: state
+- inadequacy:
+    anomaly: nondisclaim
+    antinomy: sufficiency
+    clinamen: adequacy
+    synonym: insufficiency
+    syzygy: sum
+- inadmissibility:
+    anomaly: phonographer
+    antinomy: admissibility
+    clinamen: admissibility
+    synonym: inadmissibility
+    syzygy: unacceptability
+- inadvisability:
+    anomaly: uncontestable
+    antinomy: advisability
+    clinamen: advisability
+    synonym: inadvisability
+    syzygy: bad
+- inapplicability:
+    anomaly: adelomorphous
+    antinomy: applicability
+    clinamen: applicability
+    synonym: inapplicability
+    syzygy: irrelevance
+- inappropriateness:
+    anomaly: lubbercock
+    antinomy: appropriateness
+    clinamen: appropriateness
+    synonym: inappropriateness
+    syzygy: impropriety
+- inaptitude:
+    anomaly: lampman
+    antinomy: aptitude
+    clinamen: adaptitude
+    synonym: inaptitude
+    syzygy: inability
+- inaptness:
+    anomaly: orthitic
+    antinomy: aptness
+    clinamen: aptness
+    synonym: inaptness
+    syzygy: inappropriateness
+- inattentiveness:
+    anomaly: agricolist
+    antinomy: attentiveness
+    clinamen: attentiveness
+    synonym: inattentiveness
+    syzygy: inattention
+- inauspiciousness:
+    anomaly: taxeopod
+    antinomy: auspiciousness
+    clinamen: auspiciousness
+    synonym: inauspiciousness
+    syzygy: unfavorableness
+- incapability:
+    anomaly: pygmydom
+    antinomy: capability
+    clinamen: capability
+    synonym: incapability
+    syzygy: inaptitude
+- incapacity:
+    anomaly: shoeblack
+    antinomy: capacity
+    clinamen: capacity
+    synonym: incapacity
+    syzygy: inability
+- incaution:
+    anomaly: surrealism
+    antinomy: caution
+    clinamen: caution
+    synonym: incaution
+    syzygy: carelessness
+- incivility:
+    anomaly: costotransverse
+    antinomy: civility
+    clinamen: civility
+    synonym: incivility
+    syzygy: disrespect
+- inclination:
+    anomaly: copaivic
+    antinomy: disinclination
+    clinamen: declination
+    synonym: dip
+    syzygy: attitude
+- inclusion:
+    anomaly: serocystic
+    antinomy: exclusion
+    clinamen: exclusion
+    synonym: inclusion body
+    syzygy: situation
+- incognizance:
+    anomaly: griffinhood
+    antinomy: cognizance
+    clinamen: cognizance
+    synonym: incognizance
+    syzygy: knowing
+- incoherence:
+    anomaly: antrustion
+    antinomy: coherence
+    clinamen: coherence
+    synonym: incoherence
+    syzygy: disjunction
+- incompatibility:
+    anomaly: moorn
+    antinomy: compatibility
+    clinamen: compatibility
+    synonym: incompatibility
+    syzygy: contradictoriness
+- incompetence:
+    anomaly: thence
+    antinomy: competence
+    clinamen: competence
+    synonym: incompetence
+    syzygy: inability
+- incompleteness:
+    anomaly: guasa
+    antinomy: completeness
+    clinamen: completeness
+    synonym: incompleteness
+    syzygy: integrity
+- incomprehensibility:
+    anomaly: intercadent
+    antinomy: comprehensibility
+    clinamen: comprehensibility
+    synonym: incomprehensibility
+    syzygy: quality
+- incomprehension:
+    anomaly: unfeoffed
+    antinomy: comprehension
+    clinamen: comprehension
+    synonym: incomprehension
+    syzygy: inability
+- incompressibility:
+    anomaly: haplography
+    antinomy: compressibility
+    clinamen: compressibility
+    synonym: incompressibility
+    syzygy: hardness
+- inconclusiveness:
+    anomaly: louter
+    antinomy: conclusiveness
+    clinamen: conclusiveness
+    synonym: inconclusiveness
+    syzygy: indefiniteness
+- incongruity:
+    anomaly: wrack
+    antinomy: congruity
+    clinamen: congruity
+    synonym: incongruity
+    syzygy: incompatibility
+- inconsequence:
+    anomaly: signality
+    antinomy: consequence
+    clinamen: consequence
+    synonym: illogicality
+    syzygy: insignificance
+- inconsideration:
+    anomaly: syndrome
+    antinomy: consideration
+    clinamen: consideration
+    synonym: inconsideration
+    syzygy: unkindness
+- inconsistency:
+    anomaly: microblast
+    antinomy: consistency
+    clinamen: consistency
+    synonym: incompatibility
+    syzygy: contradictoriness
+- inconspicuousness:
+    anomaly: pondok
+    antinomy: conspicuousness
+    clinamen: conspicuousness
+    synonym: inconspicuousness
+    syzygy: invisibility
+- inconstancy:
+    anomaly: ungingled
+    antinomy: constancy
+    clinamen: constancy
+    synonym: faithlessness
+    syzygy: infidelity
+- inconvenience:
+    anomaly: tummock
+    antinomy: convenience
+    clinamen: convenience
+    synonym: troublesomeness
+    syzygy: discomfort
+- inconvertibility:
+    anomaly: acate
+    antinomy: convertibility
+    clinamen: convertibility
+    synonym: inconvertibility
+    syzygy: exchangeability
+- incorrectness:
+    anomaly: superstrata
+    antinomy: correctness
+    clinamen: correctness
+    synonym: incorrectness
+    syzygy: impropriety
+- incorruptibility:
+    anomaly: sheeting
+    antinomy: corruptibility
+    clinamen: corruptibility
+    synonym: incorruptibility
+    syzygy: honesty
+- incorruptness:
+    anomaly: Manyema
+    antinomy: corruptness
+    clinamen: corruptness
+    synonym: incorruptness
+    syzygy: honesty
+- incredibility:
+    anomaly: patnidar
+    antinomy: credibility
+    clinamen: credibility
+    synonym: incredibility
+    syzygy: quality
+- incurability:
+    anomaly: myeloic
+    antinomy: curability
+    clinamen: curability
+    synonym: incurability
+    syzygy: feature
+- indecency:
+    anomaly: clayer
+    antinomy: decency
+    clinamen: decency
+    synonym: indecency
+    syzygy: impropriety
+- indecision:
+    anomaly: huffler
+    antinomy: decisiveness
+    clinamen: decision
+    synonym: indecisiveness
+    syzygy: doubt
+- indecisiveness:
+    anomaly: pililloo
+    antinomy: decisiveness
+    clinamen: decisiveness
+    synonym: indecision
+    syzygy: doubt
+- indecorum:
+    anomaly: bilaterality
+    antinomy: decorum
+    clinamen: decorum
+    synonym: familiarity
+    syzygy: impropriety
+- indestructibility:
+    anomaly: Vedaism
+    antinomy: destructibility
+    clinamen: destructibility
+    synonym: indestructibility
+    syzygy: lastingness
+- indication:
+    anomaly: unclamped
+    antinomy: contraindication
+    clinamen: abdication
+    synonym: reading
+    syzygy: communication
+- indigestibility:
+    anomaly: hexanedione
+    antinomy: digestibility
+    clinamen: digestibility
+    synonym: indigestibility
+    syzygy: edibility
+- indirectness:
+    anomaly: unbarred
+    antinomy: directness
+    clinamen: directness
+    synonym: indirectness
+    syzygy: feature
+- indiscipline:
+    anomaly: usable
+    antinomy: discipline
+    clinamen: discipline
+    synonym: indiscipline
+    syzygy: trait
+- indispensability:
+    anomaly: octahedrical
+    antinomy: dispensability
+    clinamen: dispensability
+    synonym: indispensability
+    syzygy: essentiality
+- indistinctness:
+    anomaly: plagionite
+    antinomy: distinctness
+    clinamen: distinctness
+    synonym: indistinctness
+    syzygy: opacity
+- individualism:
+    anomaly: tolane
+    antinomy: commonality
+    clinamen: dividualism
+    synonym: individuality
+    syzygy: trait
+- individuality:
+    anomaly: glaister
+    antinomy: commonality
+    clinamen: individualism
+    synonym: identity
+    syzygy: trait
+- inductee:
+    anomaly: Rallidae
+    antinomy: volunteer
+    clinamen: indentee
+    synonym: draftee
+    syzygy: member
+- ineffectiveness:
+    anomaly: aration
+    antinomy: effectiveness
+    clinamen: effectiveness
+    synonym: ineffectiveness
+    syzygy: powerlessness
+- inefficacy:
+    anomaly: carnationed
+    antinomy: efficacy
+    clinamen: coefficacy
+    synonym: inefficacy
+    syzygy: ineffectiveness
+- inefficiency:
+    anomaly: unpealed
+    antinomy: efficiency
+    clinamen: efficiency
+    synonym: inefficiency
+    syzygy: unskillfulness
+- inelegance:
+    anomaly: aevia
+    antinomy: elegance
+    clinamen: elegance
+    synonym: inelegance
+    syzygy: quality
+- ineligibility:
+    anomaly: halieutically
+    antinomy: eligibility
+    clinamen: eligibility
+    synonym: ineligibility
+    syzygy: qualification
+- inequality:
+    anomaly: hunkies
+    antinomy: equality
+    clinamen: coequality
+    synonym: inequality
+    syzygy: difference
+- inerrancy:
+    anomaly: dinergate
+    antinomy: errancy
+    clinamen: aberrancy
+    synonym: inerrancy
+    syzygy: infallibility
+- inertia:
+    anomaly: restamp
+    antinomy: activeness
+    clinamen: anergia
+    synonym: inactiveness
+    syzygy: trait
+- inessential:
+    anomaly: intracardiac
+    antinomy: essential
+    clinamen: coessential
+    synonym: inessential
+    syzygy: thing
+- inessentiality:
+    anomaly: caph
+    antinomy: essentiality
+    clinamen: coessentiality
+    synonym: inessentiality
+    syzygy: humbleness
+- inexactness:
+    anomaly: petrological
+    antinomy: exactness
+    clinamen: exactness
+    synonym: inexactness
+    syzygy: inaccuracy
+- inexpedience:
+    anomaly: dativogerundial
+    antinomy: expedience
+    clinamen: expedience
+    synonym: inexpedience
+    syzygy: disadvantage
+- inexperience:
+    anomaly: mesopic
+    antinomy: experience
+    clinamen: experience
+    synonym: inexperience
+    syzygy: ignorance
+- inexplicitness:
+    anomaly: marok
+    antinomy: explicitness
+    clinamen: explicitness
+    synonym: inexplicitness
+    syzygy: unclearness
+- infallibility:
+    anomaly: Illinois
+    antinomy: fallibility
+    clinamen: fallibility
+    synonym: infallibility
+    syzygy: dependability
+- infamy:
+    anomaly: flavanilin
+    antinomy: fame
+    clinamen: inface
+    synonym: infamy
+    syzygy: dishonor
+- infeasibility:
+    anomaly: setsman
+    antinomy: feasibility
+    clinamen: defeasibility
+    synonym: infeasibility
+    syzygy: impracticability
+- infelicity:
+    anomaly: outswim
+    antinomy: felicity
+    clinamen: felicity
+    synonym: infelicity
+    syzygy: inappropriateness
+- inferior:
+    anomaly: manakin
+    antinomy: superior
+    clinamen: anterior
+    synonym: subscript
+    syzygy: follower
+- infidelity:
+    anomaly: xenelasia
+    antinomy: fidelity
+    clinamen: fidelity
+    synonym: infidelity
+    syzygy: quality
+- infiniteness:
+    anomaly: notchel
+    antinomy: finiteness
+    clinamen: definiteness
+    synonym: infiniteness
+    syzygy: quality
+- inflexibility:
+    anomaly: intraosteal
+    antinomy: flexibility
+    clinamen: deflexibility
+    synonym: inflexibility
+    syzygy: rigidity
+- inflow:
+    anomaly: borehole
+    antinomy: outflow
+    clinamen: aflow
+    synonym: inflow
+    syzygy: flow
+- informality:
+    anomaly: Palilicium
+    antinomy: formality
+    clinamen: anormality
+    synonym: ease
+    syzygy: manner
+- ingratitude:
+    anomaly: claustration
+    antinomy: gratitude
+    clinamen: gratitude
+    synonym: ingratitude
+    syzygy: feeling
+- ingress:
+    anomaly: homophthalic
+    antinomy: egress
+    clinamen: aggress
+    synonym: entrance
+    syzygy: disappearance
+- inhibitor:
+    anomaly: ochlesitic
+    antinomy: activator
+    clinamen: cohibitor
+    synonym: inhibitor
+    syzygy: substance
+- inhospitality:
+    anomaly: impersuasibility
+    antinomy: hospitality
+    clinamen: hospitality
+    synonym: inhospitality
+    syzygy: welcome
+- injudiciousness:
+    anomaly: glandular
+    antinomy: judiciousness
+    clinamen: judiciousness
+    synonym: indiscretion
+    syzygy: sagacity
+- injustice:
+    anomaly: hyperper
+    antinomy: justice
+    clinamen: justice
+    synonym: injustice
+    syzygy: error
+- inmate:
+    anomaly: Hymenolepis
+    antinomy: outpatient
+    clinamen: ansate
+    synonym: inpatient
+    syzygy: resident
+- innocence:
+    anomaly: gratuitousness
+    antinomy: guilt
+    clinamen: indecence
+    synonym: artlessness
+    syzygy: naivete
+- inopportuneness:
+    anomaly: Vaishnavism
+    antinomy: opportuneness
+    clinamen: opportuneness
+    synonym: inopportuneness
+    syzygy: inconvenience
+- inpatient:
+    anomaly: proscriptive
+    antinomy: outpatient
+    clinamen: inpayment
+    synonym: inpatient
+    syzygy: patient
+- insalubrity:
+    anomaly: Clara
+    antinomy: salubrity
+    clinamen: salubrity
+    synonym: insalubrity
+    syzygy: unhealthfulness
+- insecureness:
+    anomaly: Solenidae
+    antinomy: secureness
+    clinamen: secureness
+    synonym: insecureness
+    syzygy: insecurity
+- insecurity:
+    anomaly: basophilic
+    antinomy: security
+    clinamen: insecurely
+    synonym: insecurity
+    syzygy: danger
+- insensibility:
+    anomaly: uncontested
+    antinomy: sensibility
+    clinamen: infeasibility
+    synonym: unfeelingness
+    syzygy: unconsciousness
+- insensitivity:
+    anomaly: root
+    antinomy: sensitivity
+    clinamen: insensibility
+    synonym: insensitivity
+    syzygy: inability
+- insentience:
+    anomaly: yarn
+    antinomy: sentience
+    clinamen: insentient
+    synonym: insentience
+    syzygy: inanimateness
+- inside:
+    anomaly: chandul
+    antinomy: outside
+    clinamen: aside
+    synonym: inside
+    syzygy: region
+- insignificance:
+    anomaly: dragrope
+    antinomy: significance
+    clinamen: insignificant
+    synonym: insignificance
+    syzygy: humbleness
+- insincerity:
+    anomaly: votive
+    antinomy: sincerity
+    clinamen: insincerely
+    synonym: insincerity
+    syzygy: untruthfulness
+- insolubility:
+    anomaly: interdependence
+    antinomy: solvability
+    clinamen: isolability
+    synonym: unsolvability
+    syzygy: property
+- instability:
+    anomaly: phrenological
+    antinomy: stability
+    clinamen: imitability
+    synonym: imbalance
+    syzygy: disorder
+- insubordination:
+    anomaly: depreciable
+    antinomy: subordination
+    clinamen: subordination
+    synonym: insubordination
+    syzygy: defiance
+- insubstantiality:
+    anomaly: ultramodern
+    antinomy: substantiality
+    clinamen: substantiality
+    synonym: insubstantiality
+    syzygy: failing
+- insufficiency:
+    anomaly: caurale
+    antinomy: sufficiency
+    clinamen: inefficiency
+    synonym: insufficiency
+    syzygy: failing
+- insulator:
+    anomaly: tav
+    antinomy: conductor
+    clinamen: incubator
+    synonym: insulator
+    syzygy: material
+- insurability:
+    anomaly: wolfkin
+    antinomy: uninsurability
+    clinamen: endurability
+    synonym: insurability
+    syzygy: eligibility
+- intangibility:
+    anomaly: breviger
+    antinomy: tangibility
+    clinamen: tangibility
+    synonym: intangibility
+    syzygy: immateriality
+- intelligence:
+    anomaly: whand
+    antinomy: stupidity
+    clinamen: intelligent
+    synonym: news
+    syzygy: ability
+- intelligibility:
+    anomaly: unsighing
+    antinomy: unintelligibility
+    clinamen: ineligibility
+    synonym: intelligibility
+    syzygy: comprehensibility
+- intemperance:
+    anomaly: ecclesia
+    antinomy: temperance
+    clinamen: attemperance
+    synonym: intemperance
+    syzygy: unrestraint
+- intensity:
+    anomaly: canoncito
+    antinomy: softness
+    clinamen: attensity
+    synonym: volume
+    syzygy: magnitude
+- internationalism:
+    anomaly: cubbish
+    antinomy: nationalism
+    clinamen: intentionalism
+    synonym: internationality
+    syzygy: doctrine
+- interrogation:
+    anomaly: papa
+    antinomy: answer
+    clinamen: interlocation
+    synonym: question
+    syzygy: sentence
+- intervention:
+    anomaly: hyperleucocytosis
+    antinomy: nonintervention
+    clinamen: interception
+    synonym: interposition
+    syzygy: battle
+- intolerance:
+    anomaly: bombycid
+    antinomy: tolerance
+    clinamen: intolerable
+    synonym: intolerance
+    syzygy: restlessness
+- intractability:
+    anomaly: druidry
+    antinomy: tractability
+    clinamen: attractability
+    synonym: intractability
+    syzygy: trait
+- introversion:
+    anomaly: acanthopterous
+    antinomy: extraversion
+    clinamen: extroversion
+    synonym: invagination
+    syzygy: condition
+- inutility:
+    anomaly: Scandinavianism
+    antinomy: utility
+    clinamen: futility
+    synonym: inutility
+    syzygy: quality
+- invariability:
+    anomaly: gittith
+    antinomy: unevenness
+    clinamen: insatiability
+    synonym: evenness
+    syzygy: regularity
+- invariance:
+    anomaly: crisic
+    antinomy: variability
+    clinamen: covariance
+    synonym: invariability
+    syzygy: changelessness
+- invulnerability:
+    anomaly: forcepslike
+    antinomy: vulnerability
+    clinamen: vulnerability
+    synonym: invulnerability
+    syzygy: safety
+- inwardness:
+    anomaly: abashment
+    antinomy: outwardness
+    clinamen: cowardness
+    synonym: kernel
+    syzygy: content
+- irregularity:
+    anomaly: rectoclysis
+    antinomy: regularity
+    clinamen: irregularism
+    synonym: abnormality
+    syzygy: misbehavior
+- irrelevance:
+    anomaly: necrotomy
+    antinomy: relevance
+    clinamen: irrelevant
+    synonym: irrelevance
+    syzygy: unconnectedness
+- irresoluteness:
+    anomaly: noncontraband
+    antinomy: resoluteness
+    clinamen: resoluteness
+    synonym: irresoluteness
+    syzygy: trait
+- irresponsibility:
+    anomaly: sulphocarbamic
+    antinomy: responsibility
+    clinamen: responsibility
+    synonym: irresponsibility
+    syzygy: untrustworthiness
+- irreverence:
+    anomaly: nodicorn
+    antinomy: reverence
+    clinamen: irreverend
+    synonym: irreverence
+    syzygy: attitude
+- irreversibility:
+    anomaly: Clatsop
+    antinomy: reversibility
+    clinamen: reversibility
+    synonym: irreversibility
+    syzygy: changelessness
+- isotropy:
+    anomaly: eximious
+    antinomy: anisotropy
+    clinamen: esotrope
+    synonym: isotropy
+    syzygy: property
+- jointure:
+    anomaly: historicity
+    antinomy: disunion
+    clinamen: coinsure
+    synonym: union
+    syzygy: estate
+- joy:
+    anomaly: cisele
+    antinomy: sorrow
+    clinamen: aby
+    synonym: joy
+    syzygy: emotion
+- judiciousness:
+    anomaly: passir
+    antinomy: injudiciousness
+    clinamen: audaciousness
+    synonym: judiciousness
+    syzygy: sagacity
+- justice:
+    anomaly: justifiably
+    antinomy: injustice
+    clinamen: auspice
+    synonym: judge
+    syzygy: righteousness
+- justness:
+    anomaly: phyllorhinine
+    antinomy: injustice
+    clinamen: bestness
+    synonym: justice
+    syzygy: conformity
+- juvenile:
+    anomaly: unpejorative
+    antinomy: adult
+    clinamen: juvenal
+    synonym: juvenile
+    syzygy: person
+- katamorphism:
+    anomaly: thallogenic
+    antinomy: anamorphism
+    clinamen: anamorphism
+    synonym: katamorphism
+    syzygy: metamorphism
+- keeping:
+    anomaly: vigilancy
+    antinomy: lashkar-e-taiba
+    clinamen: feeding
+    synonym: guardianship
+    syzygy: conformity
+- kickoff:
+    anomaly: cholericly
+    antinomy: end
+    clinamen: kickout
+    synonym: beginning
+    syzygy: beginning
+- kindness:
+    anomaly: contractibly
+    antinomy: unkindness
+    clinamen: fineness
+    synonym: forgivingness
+    syzygy: good
+- kinesthesia:
+    anomaly: cedrene
+    antinomy: kinanesthesia
+    clinamen: anesthesia
+    synonym: kinesthesis
+    syzygy: somesthesia
+- kinesthesis:
+    anomaly: pseudonychium
+    antinomy: kinanesthesia
+    clinamen: anesthesis
+    synonym: kinesthesis
+    syzygy: proprioception
+- king:
+    anomaly: hungarite
+    antinomy: queen
+    clinamen: aint
+    synonym: baron
+    syzygy: sovereign
+- kip:
+    anomaly: outthieve
+    antinomy: aftermath
+    clinamen: ai
+    synonym: kip
+    syzygy: sleep
+- knowingness:
+    anomaly: talkathon
+    antinomy: incognizance
+    clinamen: flowingness
+    synonym: awareness
+    syzygy: knowing
+- lack:
+    anomaly: inequivalent
+    antinomy: rich_person
+    clinamen: ace
+    synonym: lack
+    syzygy: need
+- lady:
+    anomaly: Deguelia
+    antinomy: Lord
+    clinamen: aby
+    synonym: dame
+    syzygy: woman
+- laity:
+    anomaly: sinningness
+    antinomy: clergy
+    clinamen: airy
+    synonym: laity
+    syzygy: battalion
+- larboard:
+    anomaly: Afrikaans
+    antinomy: starboard
+    clinamen: aboard
+    synonym: larboard
+    syzygy: side
+- largeness:
+    anomaly: unaloud
+    antinomy: smallness
+    clinamen: bareness
+    synonym: breadth
+    syzygy: intelligence
+- lateness:
+    anomaly: nonintrusionist
+    antinomy: earliness
+    clinamen: bareness
+    synonym: lateness
+    syzygy: timing
+- latter:
+    anomaly: Capparidaceae
+    antinomy: former
+    clinamen: after
+    synonym: latter
+    syzygy: second
+- lawfulness:
+    anomaly: osteosynovitis
+    antinomy: unlawfulness
+    clinamen: manfulness
+    synonym: lawfulness
+    syzygy: quality
+- layman:
+    anomaly: hemina
+    antinomy: clergyman
+    clinamen: adman
+    synonym: layman
+    syzygy: commoner
+- leader:
+    anomaly: undepleted
+    antinomy: follower
+    clinamen: beaded
+    synonym: drawing card
+    syzygy: person
+- leanness:
+    anomaly: diskelion
+    antinomy: fatness
+    clinamen: deadness
+    synonym: meagerness
+    syzygy: insufficiency
+- lees:
+    anomaly: deceptivity
+    antinomy: windward
+    clinamen: aes
+    synonym: lee
+    syzygy: sediment
+- leeward:
+    anomaly: uncongenially
+    antinomy: windward
+    clinamen: beeware
+    synonym: lee
+    syzygy: direction
+- left:
+    anomaly: Bryce
+    antinomy: right
+    clinamen: aft
+    synonym: left field
+    syzygy: position
+- legality:
+    anomaly: Katrinka
+    antinomy: illegality
+    clinamen: femality
+    synonym: legality
+    syzygy: lawfulness
+- legibility:
+    anomaly: dislocatedly
+    antinomy: illegibility
+    clinamen: edibility
+    synonym: discernability
+    syzygy: distinctness
+- legitimacy:
+    anomaly: cystotrachelotomy
+    antinomy: illegitimacy
+    clinamen: legitimate
+    synonym: authenticity
+    syzygy: lawfulness
+- lender:
+    anomaly: voicelessly
+    antinomy: borrower
+    clinamen: bander
+    synonym: lender
+    syzygy: investor
+- levitation:
+    anomaly: cryogenics
+    antinomy: gravitation
+    clinamen: cavitation
+    synonym: levitation
+    syzygy: phenomenon
+- levity:
+    anomaly: marbelize
+    antinomy: gravity
+    clinamen: bepity
+    synonym: levity
+    syzygy: feeling
+- liability:
+    anomaly: punter
+    antinomy: asset
+    clinamen: ability
+    synonym: indebtedness
+    syzygy: susceptibility
+- liar:
+    anomaly: unthreadable
+    antinomy: square_shooter
+    clinamen: Adar
+    synonym: liar
+    syzygy: deceiver
+- liberal:
+    anomaly: reundulation
+    antinomy: conservative
+    clinamen: labral
+    synonym: liberal
+    syzygy: adult
+- liberality:
+    anomaly: implode
+    antinomy: illiberality
+    clinamen: laterality
+    synonym: liberality
+    syzygy: tolerance
+- liberator:
+    anomaly: bouse
+    antinomy: captor
+    clinamen: cinerator
+    synonym: liberator
+    syzygy: benefactor
+- libertarian:
+    anomaly: xoana
+    antinomy: necessitarian
+    clinamen: librarian
+    synonym: libertarian
+    syzygy: advocate
+- licitness:
+    anomaly: undermost
+    antinomy: illicitness
+    clinamen: iciness
+    synonym: licitness
+    syzygy: lawfulness
+- lied:
+    anomaly: conspirator
+    antinomy: base
+    clinamen: abed
+    synonym: lied
+    syzygy: song
+- lighting:
+    anomaly: prenuptial
+    antinomy: dark
+    clinamen: lifting
+    synonym: light
+    syzygy: light
+- lightness:
+    anomaly: pinguefy
+    antinomy: heaviness
+    clinamen: highness
+    synonym: elation
+    syzygy: joy
+- likelihood:
+    anomaly: havenership
+    antinomy: unlikelihood
+    clinamen: likelihead
+    synonym: likelihood
+    syzygy: probability
+- likeness:
+    anomaly: superacid
+    antinomy: unlikeness
+    clinamen: direness
+    synonym: likeness
+    syzygy: similarity
+- liking:
+    anomaly: anteambulation
+    antinomy: dislike
+    clinamen: ailing
+    synonym: liking
+    syzygy: feeling
+- link:
+    anomaly: emmarvel
+    antinomy: disconnectedness
+    clinamen: aint
+    synonym: connection
+    syzygy: linkage
+- literacy:
+    anomaly: bedight
+    antinomy: illiteracy
+    clinamen: iterancy
+    synonym: literacy
+    syzygy: skill
+- living:
+    anomaly: camphorize
+    antinomy: dead
+    clinamen: ailing
+    synonym: life
+    syzygy: experience
+- loading:
+    anomaly: dullardness
+    antinomy: unloading
+    clinamen: beading
+    synonym: load
+    syzygy: weight
+- loaner:
+    anomaly: phloroglucic
+    antinomy: borrower
+    clinamen: boater
+    synonym: lender
+    syzygy: investor
+- location:
+    anomaly: Ceratosaurus
+    antinomy: studio
+    clinamen: cation
+    synonym: placement
+    syzygy: object
+- logicality:
+    anomaly: vauxite
+    antinomy: illogicality
+    clinamen: comicality
+    synonym: logicality
+    syzygy: quality
+- longness:
+    anomaly: pathognomical
+    antinomy: shortness
+    clinamen: boniness
+    synonym: longness
+    syzygy: length
+- looking:
+    anomaly: tipsiness
+    antinomy: back
+    clinamen: bocking
+    synonym: look
+    syzygy: detection
+- looseness:
+    anomaly: helmless
+    antinomy: fixedness
+    clinamen: closeness
+    synonym: diarrhea
+    syzygy: symptom
+- loosening:
+    anomaly: rippler
+    antinomy: tightening
+    clinamen: goosewing
+    synonym: relaxation
+    syzygy: weakening
+- loser:
+    anomaly: accretionary
+    antinomy: winner
+    clinamen: alose
+    synonym: failure
+    syzygy: contestant
+- lowering:
+    anomaly: attempter
+    antinomy: raise
+    clinamen: clowring
+    synonym: lowering
+    syzygy: decrease
+- lowness:
+    anomaly: self
+    antinomy: high_status
+    clinamen: bowless
+    synonym: low status
+    syzygy: status
+- loyalty:
+    anomaly: progymnosperm
+    antinomy: disloyalty
+    clinamen: lealty
+    synonym: commitment
+    syzygy: fidelity
+- lucidity:
+    anomaly: polyphylogeny
+    antinomy: obscurity
+    clinamen: acidity
+    synonym: clarity
+    syzygy: comprehensibility
+- lumper:
+    anomaly: unprocured
+    antinomy: splitter
+    clinamen: amper
+    synonym: stevedore
+    syzygy: laborer
+- lying:
+    anomaly: corroding
+    antinomy: base
+    clinamen: aging
+    synonym: lying
+    syzygy: disproof
+- magnification:
+    anomaly: Quamoclit
+    antinomy: understatement
+    clinamen: carnification
+    synonym: exaggeration
+    syzygy: expansion
+- majority:
+    anomaly: mesonephric
+    antinomy: minority
+    clinamen: majorate
+    synonym: majority
+    syzygy: number
+- making:
+    anomaly: trefoillike
+    antinomy: interruption
+    clinamen: aging
+    synonym: devising
+    syzygy: production
+- malady:
+    anomaly: yeld
+    antinomy: wellness
+    clinamen: alada
+    synonym: illness
+    syzygy: condition
+- male:
+    anomaly: hexameric
+    antinomy: female
+    clinamen: aal
+    synonym: male
+    syzygy: animal
+- maleficence:
+    anomaly: prototyrant
+    antinomy: beneficence
+    clinamen: maleficent
+    synonym: maleficence
+    syzygy: malevolence
+- maleness:
+    anomaly: credit
+    antinomy: femaleness
+    clinamen: ableness
+    synonym: maleness
+    syzygy: sexual_activity
+- malevolence:
+    anomaly: corallic
+    antinomy: benevolence
+    clinamen: malevolent
+    synonym: malevolence
+    syzygy: hate
+- malignancy:
+    anomaly: damnability
+    antinomy: benignity
+    clinamen: malignant
+    synonym: malignity
+    syzygy: disease
+- malignity:
+    anomaly: antihero
+    antinomy: benevolence
+    clinamen: malignly
+    synonym: malevolence
+    syzygy: hate
+- marginality:
+    anomaly: perigonium
+    antinomy: centrality
+    clinamen: marginalia
+    synonym: marginality
+    syzygy: position
+- masculinity:
+    anomaly: nonvolant
+    antinomy: femaleness
+    clinamen: mascularity
+    synonym: maleness
+    syzygy: sexual_activity
+- materiality:
+    anomaly: kinksbush
+    antinomy: immateriality
+    clinamen: aeriality
+    synonym: materiality
+    syzygy: relevance
+- mediacy:
+    anomaly: microsporophore
+    antinomy: immediacy
+    clinamen: media
+    synonym: mediacy
+    syzygy: indirectness
+- medulla:
+    anomaly: lapcock
+    antinomy: cortex
+    clinamen: bedull
+    synonym: myelin
+    syzygy: fat
+- melioration:
+    anomaly: imminency
+    antinomy: decline
+    clinamen: deliration
+    synonym: amelioration
+    syzygy: improvement
+- member:
+    anomaly: unchewed
+    antinomy: nonmember
+    clinamen: amber
+    synonym: extremity
+    syzygy: associate
+- mendacity:
+    anomaly: iodobenzene
+    antinomy: veracity
+    clinamen: edacity
+    synonym: mendacity
+    syzygy: untruthfulness
+- mending:
+    anomaly: cornrick
+    antinomy: interruption
+    clinamen: banding
+    synonym: repair
+    syzygy: garment
+- mercy:
+    anomaly: nones
+    antinomy: mercilessness
+    clinamen: aery
+    synonym: clemency
+    syzygy: lenience
+- merit:
+    anomaly: arachnoidea
+    antinomy: demerit
+    clinamen: aeric
+    synonym: deservingness
+    syzygy: worth
+- metier:
+    anomaly: moule
+    antinomy: weak_point
+    clinamen: belier
+    synonym: forte
+    syzygy: asset
+- mindfulness:
+    anomaly: unbehaving
+    antinomy: unmindfulness
+    clinamen: manfulness
+    synonym: mindfulness
+    syzygy: attentiveness
+- minimization:
+    anomaly: befouler
+    antinomy: maximization
+    clinamen: maximization
+    synonym: minimization
+    syzygy: decrease
+- minuscule:
+    anomaly: faller
+    antinomy: uppercase
+    clinamen: majuscule
+    synonym: small letter
+    syzygy: fictional_character
+- mischief:
+    anomaly: repackage
+    antinomy: beneficence
+    clinamen: mischio
+    synonym: maleficence
+    syzygy: misbehavior
+- misconception:
+    anomaly: avanturine
+    antinomy: conception
+    clinamen: disconcertion
+    synonym: misconception
+    syzygy: idea
+- misconstruction:
+    anomaly: ridgingly
+    antinomy: construction
+    clinamen: malconstruction
+    synonym: misconstrual
+    syzygy: misinterpretation
+- misfortune:
+    anomaly: abortient
+    antinomy: good_fortune
+    clinamen: infortune
+    synonym: misfortune
+    syzygy: trouble
+- misogyny:
+    anomaly: epistroma
+    antinomy: philogyny
+    clinamen: isogeny
+    synonym: misogyny
+    syzygy: hate
+- mobility:
+    anomaly: Mendelism
+    antinomy: immobility
+    clinamen: ability
+    synonym: mobility
+    syzygy: quality
+- moderation:
+    anomaly: sphexide
+    antinomy: immoderation
+    clinamen: federation
+    synonym: easing
+    syzygy: degree
+- modern:
+    anomaly: hemachrome
+    antinomy: old_style
+    clinamen: aldern
+    synonym: modern
+    syzygy: person
+- modesty:
+    anomaly: dismountable
+    antinomy: immodesty
+    clinamen: foresty
+    synonym: modesty
+    syzygy: decency
+- moment:
+    anomaly: eutherian
+    antinomy: inconsequence
+    clinamen: ament
+    synonym: here and now
+    syzygy: point
+- monetization:
+    anomaly: nodulate
+    antinomy: demonetization
+    clinamen: poetization
+    synonym: monetization
+    syzygy: validation
+- monism:
+    anomaly: Totanus
+    antinomy: pluralism
+    clinamen: borism
+    synonym: monism
+    syzygy: doctrine
+- monophony:
+    anomaly: Pterocles
+    antinomy: polyphony
+    clinamen: colophony
+    synonym: monophony
+    syzygy: music
+- monotheism:
+    anomaly: foal
+    antinomy: polytheism
+    clinamen: henotheism
+    synonym: monotheism
+    syzygy: theism
+- morality:
+    anomaly: unhermetic
+    antinomy: immorality
+    clinamen: foralite
+    synonym: ethical motive
+    syzygy: quality
+- morbidity:
+    anomaly: bioluminescence
+    antinomy: wholesomeness
+    clinamen: horridity
+    synonym: unwholesomeness
+    syzygy: incidence
+- mortality:
+    anomaly: bilaterally
+    antinomy: immortality
+    clinamen: amorality
+    synonym: deathrate
+    syzygy: impermanence
+- motility:
+    anomaly: spiritus
+    antinomy: immotility
+    clinamen: docility
+    synonym: motion
+    syzygy: mobility
+- motionlessness:
+    anomaly: nucleolus
+    antinomy: motion
+    clinamen: motivelessness
+    synonym: motionlessness
+    syzygy: state
+- mounting:
+    anomaly: lugger
+    antinomy: ebb
+    clinamen: bouncing
+    synonym: climb
+    syzygy: rise
+- movability:
+    anomaly: engram
+    antinomy: immovability
+    clinamen: livability
+    synonym: movability
+    syzygy: mobility
+- nadir:
+    anomaly: sutteeism
+    antinomy: zenith
+    clinamen: abir
+    synonym: nadir
+    syzygy: adversity
+- naivete:
+    anomaly: stitcher
+    antinomy: sophistication
+    clinamen: naive
+    synonym: naivete
+    syzygy: quality
+- nakedness:
+    anomaly: preinflict
+    antinomy: closeness
+    clinamen: agedness
+    synonym: bleakness
+    syzygy: condition
+- narrowness:
+    anomaly: Oxalis
+    antinomy: wideness
+    clinamen: arrowless
+    synonym: narrow-mindedness
+    syzygy: width
+- nastiness:
+    anomaly: lymphangiectodes
+    antinomy: niceness
+    clinamen: artiness
+    synonym: filth
+    syzygy: unsanitariness
+- nationalism:
+    anomaly: stirpiculturist
+    antinomy: internationalism
+    clinamen: atonalism
+    synonym: patriotism
+    syzygy: loyalty
+- nativeness:
+    anomaly: rigorist
+    antinomy: foreignness
+    clinamen: activeness
+    synonym: nativeness
+    syzygy: quality
+- naturalness:
+    anomaly: thoracometer
+    antinomy: unnaturalness
+    clinamen: neutralness
+    synonym: artlessness
+    syzygy: quality
+- nay:
+    anomaly: uninstructively
+    antinomy: yea
+    clinamen: aa
+    synonym: nay
+    syzygy: negative
+- nearness:
+    anomaly: hidropoiesis
+    antinomy: farness
+    clinamen: bearess
+    synonym: nearness
+    syzygy: distance
+- neatness:
+    anomaly: adat
+    antinomy: untidiness
+    clinamen: bestness
+    synonym: tidiness
+    syzygy: tidiness
+- necessitarian:
+    anomaly: obole
+    antinomy: libertarian
+    clinamen: necessarian
+    synonym: necessitarian
+    syzygy: philosopher
+- necessity:
+    anomaly: maldevelopment
+    antinomy: inessential
+    clinamen: necessary
+    synonym: necessity
+    syzygy: need
+- negative:
+    anomaly: traduction
+    antinomy: affirmative
+    clinamen: celative
+    synonym: negative
+    syzygy: denial
+- negativity:
+    anomaly: antepretonic
+    antinomy: positivity
+    clinamen: nativity
+    synonym: electronegativity
+    syzygy: mutual_opposition
+- neighborliness:
+    anomaly: homovanillic
+    antinomy: unneighborliness
+    clinamen: neighborless
+    synonym: neighborliness
+    syzygy: friendliness
+- nephew:
+    anomaly: conics
+    antinomy: niece
+    clinamen: neper
+    synonym: nephew
+    syzygy: kinsman
+- newness:
+    anomaly: unfreighted
+    antinomy: oldness
+    clinamen: deaness
+    synonym: newness
+    syzygy: age
+- niceness:
+    anomaly: mottolike
+    antinomy: impoliteness
+    clinamen: direness
+    synonym: politeness
+    syzygy: courtesy
+- niece:
+    anomaly: unburdenment
+    antinomy: nephew
+    clinamen: Anice
+    synonym: niece
+    syzygy: kinswoman
+- 'no':
+    anomaly: pseudococtate
+    antinomy: 'yes'
+    clinamen: aa
+    synonym: nobelium
+    syzygy: negative
+- node:
+    anomaly: purposedly
+    antinomy: antinode
+    clinamen: Ade
+    synonym: lymph node
+    syzygy: connection
+- nominative:
+    anomaly: forritsome
+    antinomy: oblique
+    clinamen: comitative
+    synonym: nominative
+    syzygy: case
+- nonbeing:
+    anomaly: discolorate
+    antinomy: being
+    clinamen: inbeing
+    synonym: nonbeing
+    syzygy: state
+- nonconformism:
+    anomaly: Don
+    antinomy: conformity
+    clinamen: nonconforming
+    synonym: nonconformity
+    syzygy: unorthodoxy
+- nonconformist:
+    anomaly: extragalactic
+    antinomy: Anglican
+    clinamen: nonconforming
+    synonym: nonconformist
+    syzygy: protestant
+- nonconformity:
+    anomaly: mandolin
+    antinomy: conformity
+    clinamen: inconformity
+    synonym: nonconformity
+    syzygy: disagreement
+- nonexistence:
+    anomaly: gladness
+    antinomy: existence
+    clinamen: coexistence
+    synonym: nonexistence
+    syzygy: nonbeing
+- nonmember:
+    anomaly: stratigraphic
+    antinomy: member
+    clinamen: unmember
+    synonym: nonmember
+    syzygy: person
+- nonobservance:
+    anomaly: chinol
+    antinomy: observance
+    clinamen: inobservance
+    synonym: nonobservance
+    syzygy: nonconformity
+- nonpartisan:
+    anomaly: ramhood
+    antinomy: partisan
+    clinamen: nonpartial
+    synonym: nonpartisan
+    syzygy: person
+- nonpayment:
+    anomaly: shammish
+    antinomy: payment
+    clinamen: inpayment
+    synonym: default
+    syzygy: failure
+- nonresident:
+    anomaly: grenadier
+    antinomy: resident
+    clinamen: nonevident
+    synonym: nonresident
+    syzygy: person
+- nonstarter:
+    anomaly: Ixil
+    antinomy: achiever
+    clinamen: nonshatter
+    synonym: failure
+    syzygy: unfortunate
+- nonuniformity:
+    anomaly: keelboatman
+    antinomy: uniformity
+    clinamen: nonuniformist
+    synonym: nonuniformity
+    syzygy: dissimilarity
+- nonworker:
+    anomaly: trihydroxy
+    antinomy: worker
+    clinamen: penworker
+    synonym: nonworker
+    syzygy: person
+- normality:
+    anomaly: fluorotype
+    antinomy: abnormality
+    clinamen: formalith
+    synonym: normality
+    syzygy: condition
+- northernness:
+    anomaly: unadjacent
+    antinomy: southernness
+    clinamen: southernness
+    synonym: northernness
+    syzygy: position
+- obedience:
+    anomaly: cutitis
+    antinomy: disobedience
+    clinamen: obedient
+    synonym: obedience
+    syzygy: submission
+- oblique:
+    anomaly: reattest
+    antinomy: nominative
+    clinamen: brique
+    synonym: external oblique muscle
+    syzygy: case
+- obscureness:
+    anomaly: cheerly
+    antinomy: clarity
+    clinamen: obsceneness
+    synonym: humbleness
+    syzygy: obscureness
+- obscurity:
+    anomaly: triturate
+    antinomy: clarity
+    clinamen: obscenity
+    synonym: obscureness
+    syzygy: incomprehensibility
+- obtrusiveness:
+    anomaly: cockneyfication
+    antinomy: unobtrusiveness
+    clinamen: intrusiveness
+    synonym: obtrusiveness
+    syzygy: conspicuousness
+- obtuseness:
+    anomaly: eker
+    antinomy: acuteness
+    clinamen: obeseness
+    synonym: dullness
+    syzygy: stupidity
+- obverse:
+    anomaly: Ficus
+    antinomy: reverse
+    clinamen: adverse
+    synonym: obverse
+    syzygy: option
+- occupier:
+    anomaly: otidium
+    antinomy: nonresident
+    clinamen: occulter
+    synonym: resident
+    syzygy: inhabitant
+- offense:
+    anomaly: inpardonable
+    antinomy: defense
+    clinamen: defense
+    synonym: discourtesy
+    syzygy: behavior
+- oldness:
+    anomaly: illegibleness
+    antinomy: youngness
+    clinamen: allness
+    synonym: oldness
+    syzygy: age
+- opening:
+    anomaly: misthrow
+    antinomy: closing
+    clinamen: apeling
+    synonym: possibility
+    syzygy: space
+- openness:
+    anomaly: bolson
+    antinomy: closeness
+    clinamen: bienness
+    synonym: receptiveness
+    syzygy: spacing
+- optimism:
+    anomaly: dorsibranchiate
+    antinomy: pessimism
+    clinamen: opiism
+    synonym: optimism
+    syzygy: hope
+- optimist:
+    anomaly: overpressure
+    antinomy: pessimist
+    clinamen: optimity
+    synonym: optimist
+    syzygy: person
+- ordering:
+    anomaly: tetraster
+    antinomy: disorder
+    clinamen: offering
+    synonym: order
+    syzygy: agreement
+- orderliness:
+    anomaly: actinomycoma
+    antinomy: disorderliness
+    clinamen: elderliness
+    synonym: orderliness
+    syzygy: regularity
+- originality:
+    anomaly: anemonal
+    antinomy: unoriginality
+    clinamen: criminality
+    synonym: originality
+    syzygy: ability
+- orthodoxy:
+    anomaly: unslippery
+    antinomy: unorthodoxy
+    clinamen: orthodome
+    synonym: orthodoxy
+    syzygy: unoriginality
+- outfield:
+    anomaly: glycyl
+    antinomy: infield
+    clinamen: gumfield
+    synonym: outfield
+    syzygy: tract
+- outflow:
+    anomaly: populator
+    antinomy: inflow
+    clinamen: mudflow
+    synonym: escape
+    syzygy: discharge
+- outpatient:
+    anomaly: Loricata
+    antinomy: inpatient
+    clinamen: outpaint
+    synonym: outpatient
+    syzygy: patient
+- outside:
+    anomaly: metaphorize
+    antinomy: inside
+    clinamen: guttide
+    synonym: outside
+    syzygy: region
+- overgarment:
+    anomaly: buckler
+    antinomy: undergarment
+    clinamen: overpayment
+    synonym: overgarment
+    syzygy: garment
+- package:
+    anomaly: needleworked
+    antinomy: hardware
+    clinamen: achage
+    synonym: software
+    syzygy: collection
+- painfulness:
+    anomaly: Elysium
+    antinomy: pleasure
+    clinamen: manfulness
+    synonym: pain
+    syzygy: feeling
+- palingenesis:
+    anomaly: momiology
+    antinomy: cenogenesis
+    clinamen: paleogenesis
+    synonym: palingenesis
+    syzygy: growth
+- parasite:
+    anomaly: apiarist
+    antinomy: host
+    clinamen: ecrasite
+    synonym: leech
+    syzygy: organism
+- parent:
+    anomaly: nostologic
+    antinomy: child
+    clinamen: agent
+    synonym: parent
+    syzygy: genitor
+- partiality:
+    anomaly: combinator
+    antinomy: impartiality
+    clinamen: maritality
+    synonym: fondness
+    syzygy: liking
+- particular:
+    anomaly: olivary
+    antinomy: general
+    clinamen: articulare
+    synonym: detail
+    syzygy: fact
+- particularity:
+    anomaly: preseparation
+    antinomy: generality
+    clinamen: particularism
+    synonym: particularity
+    syzygy: quality
+- partisan:
+    anomaly: poinder
+    antinomy: nonpartisan
+    clinamen: bartizan
+    synonym: enthusiast
+    syzygy: advocate
+- past:
+    anomaly: pipistrel
+    antinomy: future
+    clinamen: act
+    synonym: past
+    syzygy: time
+- pastness:
+    anomaly: dissentiously
+    antinomy: futurity
+    clinamen: aptness
+    synonym: pastness
+    syzygy: timing
+- payment:
+    anomaly: pralltriller
+    antinomy: nonpayment
+    clinamen: ament
+    synonym: requital
+    syzygy: cost
+- peace:
+    anomaly: ambrose
+    antinomy: war
+    clinamen: ace
+    synonym: peace
+    syzygy: order
+- penetrability:
+    anomaly: cartel
+    antinomy: impenetrability
+    clinamen: generability
+    synonym: penetrability
+    syzygy: quality
+- perceptiveness:
+    anomaly: goeduck
+    antinomy: unperceptiveness
+    clinamen: deceptiveness
+    synonym: insight
+    syzygy: sensibility
+- perfectibility:
+    anomaly: serpentivorous
+    antinomy: imperfectibility
+    clinamen: defectibility
+    synonym: perfectibility
+    syzygy: capability
+- perfection:
+    anomaly: sloo
+    antinomy: imperfection
+    clinamen: defection
+    synonym: paragon
+    syzygy: state
+- perigee:
+    anomaly: cephalization
+    antinomy: apogee
+    clinamen: perigon
+    synonym: perigee
+    syzygy: periapsis
+- perihelion:
+    anomaly: doxographical
+    antinomy: aphelion
+    clinamen: parhelion
+    synonym: perihelion
+    syzygy: periapsis
+- perijove:
+    anomaly: prest
+    antinomy: apojove
+    clinamen: pericope
+    synonym: perijove
+    syzygy: periapsis
+- permanence:
+    anomaly: Larentiidae
+    antinomy: impermanence
+    clinamen: permanent
+    synonym: permanence
+    syzygy: duration
+- permeability:
+    anomaly: Siva
+    antinomy: impermeability
+    clinamen: perviability
+    synonym: permeability
+    syzygy: porosity
+- permissibility:
+    anomaly: towline
+    antinomy: impermissibility
+    clinamen: remissibility
+    synonym: permissibility
+    syzygy: admissibility
+- permissiveness:
+    anomaly: protestancy
+    antinomy: unpermissiveness
+    clinamen: percussiveness
+    synonym: permissiveness
+    syzygy: disposition
+- persuasion:
+    anomaly: puerilism
+    antinomy: dissuasion
+    clinamen: perculsion
+    synonym: opinion
+    syzygy: communication
+- persuasiveness:
+    anomaly: protaspis
+    antinomy: unpersuasiveness
+    clinamen: percussiveness
+    synonym: persuasiveness
+    syzygy: power
+- pessimism:
+    anomaly: fanciful
+    antinomy: optimism
+    clinamen: passivism
+    synonym: pessimism
+    syzygy: despair
+- pessimist:
+    anomaly: terebinthinate
+    antinomy: optimist
+    clinamen: passivist
+    synonym: pessimist
+    syzygy: skeptic
+- philogyny:
+    anomaly: erythrocatalysis
+    antinomy: misogyny
+    clinamen: phylogeny
+    synonym: philogyny
+    syzygy: admiration
+- piety:
+    anomaly: appendicular
+    antinomy: impiety
+    clinamen: beety
+    synonym: piety
+    syzygy: righteousness
+- pigmentation:
+    anomaly: vasu
+    antinomy: depigmentation
+    clinamen: augmentation
+    synonym: pigmentation
+    syzygy: deposition
+- plain:
+    anomaly: transmigrator
+    antinomy: cheer
+    clinamen: again
+    synonym: knit
+    syzygy: land
+- plaintiff:
+    anomaly: coalescency
+    antinomy: defendant
+    clinamen: plaintile
+    synonym: plaintiff
+    syzygy: litigant
+- plausibility:
+    anomaly: acclimatizer
+    antinomy: implausibility
+    clinamen: passibility
+    synonym: plausibility
+    syzygy: credibility
+- pleasance:
+    anomaly: inhumanness
+    antinomy: pain
+    clinamen: clearance
+    synonym: pleasure
+    syzygy: retreat
+- pleasantness:
+    anomaly: unbrined
+    antinomy: unpleasantness
+    clinamen: peasantess
+    synonym: pleasantness
+    syzygy: pleasure
+- pleasingness:
+    anomaly: humbug
+    antinomy: unpleasingness
+    clinamen: pleasantness
+    synonym: pleasingness
+    syzygy: palatability
+- pleasure:
+    anomaly: siphonoglyphe
+    antinomy: pain
+    clinamen: leisure
+    synonym: joy
+    syzygy: feeling
+- pleurocarp:
+    anomaly: periblast
+    antinomy: acrocarp
+    clinamen: pseudocarp
+    synonym: pleurocarp
+    syzygy: moss
+- plural:
+    anomaly: mediatingly
+    antinomy: singular
+    clinamen: aural
+    synonym: plural
+    syzygy: form
+- pointedness:
+    anomaly: Serapeum
+    antinomy: unpointedness
+    clinamen: stintedness
+    synonym: point
+    syzygy: taper
+- politeness:
+    anomaly: Palmyrene
+    antinomy: impoliteness
+    clinamen: oliveness
+    synonym: politeness
+    syzygy: courtesy
+- polyphony:
+    anomaly: coadequate
+    antinomy: monophony
+    clinamen: colophony
+    synonym: polyphony
+    syzygy: music
+- polysemy:
+    anomaly: blatancy
+    antinomy: monosemy
+    clinamen: polygamy
+    synonym: polysemy
+    syzygy: ambiguity
+- polytheism:
+    anomaly: unmandated
+    antinomy: monotheism
+    clinamen: polyideism
+    synonym: polytheism
+    syzygy: theism
+- raggedness:
+    anomaly: quarle
+    antinomy: smoothness
+    clinamen: agedness
+    synonym: roughness
+    syzygy: texture
+- raising:
+    anomaly: diaphoretic
+    antinomy: lower_berth
+    clinamen: ailing
+    synonym: elevation
+    syzygy: rise
+- ratite:
+    anomaly: digammated
+    antinomy: carinate
+    clinamen: alite
+    synonym: ratite
+    syzygy: bird
+- raveling:
+    anomaly: lavish
+    antinomy: ravel
+    clinamen: adeling
+    synonym: raveling
+    syzygy: fiber
+- rawness:
+    anomaly: tachycardia
+    antinomy: completeness
+    clinamen: awless
+    synonym: incompleteness
+    syzygy: damp
+- razing:
+    anomaly: rabblement
+    antinomy: raise
+    clinamen: aging
+    synonym: razing
+    syzygy: destruction
+- readability:
+    anomaly: undisconnected
+    antinomy: illegibility
+    clinamen: bendability
+    synonym: legibility
+    syzygy: intelligibility
+- realism:
+    anomaly: gony
+    antinomy: unreality
+    clinamen: Aeolism
+    synonym: reality
+    syzygy: practicality
+- reality:
+    anomaly: trichoglossine
+    antinomy: unreality
+    clinamen: duality
+    synonym: world
+    syzygy: experience
+- recapitulation:
+    anomaly: preposterous
+    antinomy: cenogenesis
+    clinamen: capitulation
+    synonym: palingenesis
+    syzygy: growth
+- receding:
+    anomaly: myelopetal
+    antinomy: progress
+    clinamen: breeding
+    synonym: receding
+    syzygy: disappearance
+- receptor:
+    anomaly: truantness
+    antinomy: effector
+    clinamen: acceptor
+    synonym: sense organ
+    syzygy: structure
+- recto:
+    anomaly: blood
+    antinomy: verso
+    clinamen: cento
+    synonym: recto
+    syzygy: page
+- redress:
+    anomaly: excavation
+    antinomy: wrong
+    clinamen: address
+    synonym: damages
+    syzygy: compensation
+- regularity:
+    anomaly: phyllocarid
+    antinomy: irregularity
+    clinamen: angularity
+    synonym: regularity
+    syzygy: symmetry
+- rejection:
+    anomaly: imbark
+    antinomy: acceptance
+    clinamen: abjection
+    synonym: rejection
+    syzygy: act
+- relatedness:
+    anomaly: unpliableness
+    antinomy: unrelatedness
+    clinamen: createdness
+    synonym: relatedness
+    syzygy: connection
+- relevance:
+    anomaly: maroon
+    antinomy: irrelevance
+    clinamen: elegance
+    synonym: relevance
+    syzygy: connection
+- remains:
+    anomaly: patellate
+    antinomy: change
+    clinamen: mains
+    synonym: cadaver
+    syzygy: object
+- repulsion:
+    anomaly: plushette
+    antinomy: attraction
+    clinamen: appulsion
+    synonym: repugnance
+    syzygy: force
+- reputation:
+    anomaly: undisburdened
+    antinomy: disrepute
+    clinamen: amputation
+    synonym: repute
+    syzygy: award
+- repute:
+    anomaly: betroth
+    antinomy: disrepute
+    clinamen: belute
+    synonym: repute
+    syzygy: award
+- requirement:
+    anomaly: pseudoperidium
+    antinomy: inessential
+    clinamen: acquirement
+    synonym: necessity
+    syzygy: duty
+- resident:
+    anomaly: promontory
+    antinomy: nonresident
+    clinamen: assident
+    synonym: house physician
+    syzygy: inhabitant
+- resoluteness:
+    anomaly: pressful
+    antinomy: irresoluteness
+    clinamen: absoluteness
+    synonym: resoluteness
+    syzygy: trait
+- resolution:
+    anomaly: physometra
+    antinomy: irresoluteness
+    clinamen: absolution
+    synonym: resolving power
+    syzygy: document
+- respectability:
+    anomaly: gnathonism
+    antinomy: unrespectability
+    clinamen: inspectability
+    synonym: respectability
+    syzygy: honorableness
+- restraint:
+    anomaly: subverter
+    antinomy: unrestraint
+    clinamen: distraint
+    synonym: constraint
+    syzygy: control
+- restrictiveness:
+    anomaly: boltage
+    antinomy: permissiveness
+    clinamen: astrictiveness
+    synonym: unpermissiveness
+    syzygy: alteration
+- retardation:
+    anomaly: scrobe
+    antinomy: acceleration
+    clinamen: recordation
+    synonym: deceleration
+    syzygy: change
+- reverse:
+    anomaly: multiplet
+    antinomy: obverse
+    clinamen: adverse
+    synonym: reversion
+    syzygy: resistance
+- riding:
+    anomaly: sulphone
+    antinomy: walk
+    clinamen: ailing
+    synonym: riding
+    syzygy: sport
+- rightness:
+    anomaly: paratuberculous
+    antinomy: wrongness
+    clinamen: highness
+    synonym: appropriateness
+    syzygy: morality
+- rigidity:
+    anomaly: indiscriminately
+    antinomy: flexibility
+    clinamen: algidity
+    synonym: inflexibility
+    syzygy: inelasticity
+- ripeness:
+    anomaly: delible
+    antinomy: greenness
+    clinamen: direness
+    synonym: ripeness
+    syzygy: adulthood
+- romantic:
+    anomaly: roadstead
+    antinomy: classicist
+    clinamen: aromatic
+    synonym: romanticist
+    syzygy: idealist
+- romanticism:
+    anomaly: experimently
+    antinomy: classicism
+    clinamen: manticism
+    synonym: romanticism
+    syzygy: idealism
+- romanticist:
+    anomaly: renish
+    antinomy: classicist
+    clinamen: romancist
+    synonym: sentimentalist
+    syzygy: person
+- rose:
+    anomaly: unobtunded
+    antinomy: fall
+    clinamen: apse
+    synonym: blush wine
+    syzygy: shrub
+- rotor:
+    anomaly: floricultural
+    antinomy: stator
+    clinamen: actor
+    synonym: rotor
+    syzygy: armature
+- roughness:
+    anomaly: wardership
+    antinomy: smoothness
+    clinamen: boughless
+    synonym: harshness
+    syzygy: texture
+- roundness:
+    anomaly: reimply
+    antinomy: angularity
+    clinamen: boundless
+    synonym: plumpness
+    syzygy: tone
+- rusticity:
+    anomaly: inissuable
+    antinomy: urbanity
+    clinamen: mysticity
+    synonym: rusticity
+    syzygy: awkwardness
+- sacking:
+    anomaly: Gossypium
+    antinomy: hire
+    clinamen: aching
+    synonym: dismissal
+    syzygy: fabric
+- sadist:
+    anomaly: slaister
+    antinomy: masochist
+    clinamen: adit
+    synonym: sadist
+    syzygy: pervert
+- sadness:
+    anomaly: Prudence
+    antinomy: happiness
+    clinamen: adless
+    synonym: gloominess
+    syzygy: feeling
+- safeness:
+    anomaly: youthless
+    antinomy: dangerousness
+    clinamen: bareness
+    synonym: safeness
+    syzygy: feature
+- safety:
+    anomaly: reoutfit
+    antinomy: danger
+    clinamen: gaiety
+    synonym: guard
+    syzygy: condition
+- sameness:
+    anomaly: solifugean
+    antinomy: difference
+    clinamen: bareness
+    synonym: monotony
+    syzygy: quality
+- satisfaction:
+    anomaly: cleaded
+    antinomy: dissatisfaction
+    clinamen: satisdation
+    synonym: gratification
+    syzygy: contentment
+- scarcity:
+    anomaly: receptionist
+    antinomy: abundance
+    clinamen: scantity
+    synonym: scarcity
+    syzygy: insufficiency
+- scrag:
+    anomaly: compactly
+    antinomy: fat_person
+    clinamen: Acrab
+    synonym: thin person
+    syzygy: person
+- scrupulousness:
+    anomaly: dodlet
+    antinomy: unscrupulousness
+    clinamen: crapulousness
+    synonym: meticulousness
+    syzygy: honesty
+- seasonableness:
+    anomaly: gutturalism
+    antinomy: unseasonableness
+    clinamen: personableness
+    synonym: seasonableness
+    syzygy: timing
+- secureness:
+    anomaly: rod
+    antinomy: insecureness
+    clinamen: demureness
+    synonym: fastness
+    syzygy: security
+- security:
+    anomaly: glyptician
+    antinomy: insecurity
+    clinamen: demurity
+    synonym: security system
+    syzygy: safety
+- seemliness:
+    anomaly: parget
+    antinomy: unseemliness
+    clinamen: sameliness
+    synonym: seemliness
+    syzygy: propriety
+- selfishness:
+    anomaly: metaxite
+    antinomy: unselfishness
+    clinamen: beefishness
+    synonym: selfishness
+    syzygy: stinginess
+- selflessness:
+    anomaly: dermatrophia
+    antinomy: egoism
+    clinamen: helplessness
+    synonym: altruism
+    syzygy: unselfishness
+- selling:
+    anomaly: amphitene
+    antinomy: bargain
+    clinamen: bealing
+    synonym: selling
+    syzygy: commerce
+- sensibility:
+    anomaly: overunsuitable
+    antinomy: insensibility
+    clinamen: feasibility
+    synonym: sensitivity
+    syzygy: consciousness
+- sensitivity:
+    anomaly: gizzern
+    antinomy: insensitivity
+    clinamen: sensibility
+    synonym: sensitivity
+    syzygy: sense
+- sentience:
+    anomaly: Cymry
+    antinomy: insentience
+    clinamen: lenience
+    synonym: awareness
+    syzygy: consciousness
+- separation:
+    anomaly: paterissa
+    antinomy: union
+    clinamen: depuration
+    synonym: interval
+    syzygy: state
+- sequestration:
+    anomaly: Joceline
+    antinomy: integration
+    clinamen: sequestrator
+    synonym: segregation
+    syzygy: separation
+- seriousness:
+    anomaly: unassociative
+    antinomy: frivolity
+    clinamen: cariousness
+    synonym: earnestness
+    syzygy: gravity
+- setting:
+    anomaly: gilled
+    antinomy: rise
+    clinamen: batting
+    synonym: mise en scene
+    syzygy: environment
+- settling:
+    anomaly: shivzoku
+    antinomy: float
+    clinamen: betting
+    synonym: settling
+    syzygy: sinking
+- shallowness:
+    anomaly: blepharophimosis
+    antinomy: profundity
+    clinamen: callowness
+    synonym: superficiality
+    syzygy: depth
+- sharpness:
+    anomaly: transmute
+    antinomy: dullness
+    clinamen: chariness
+    synonym: acuteness
+    syzygy: intelligence
+- shopping:
+    anomaly: sheepfacedly
+    antinomy: boycott
+    clinamen: chapping
+    synonym: shopping
+    syzygy: buying
+- shortness:
+    anomaly: gladly
+    antinomy: longness
+    clinamen: hotness
+    synonym: abruptness
+    syzygy: length
+- shrinking:
+    anomaly: mesorrhinium
+    antinomy: stretch
+    clinamen: chinking
+    synonym: shrinking
+    syzygy: decrease
+- shutting:
+    anomaly: waken
+    antinomy: opening
+    clinamen: abutting
+    synonym: shutting
+    syzygy: gesture
+- significance:
+    anomaly: ornithomantia
+    antinomy: insignificance
+    clinamen: significant
+    synonym: meaning
+    syzygy: importance
+- similarity:
+    anomaly: recreancy
+    antinomy: dissimilarity
+    clinamen: simianity
+    synonym: similarity
+    syzygy: sameness
+- simplicity:
+    anomaly: prober
+    antinomy: complexity
+    clinamen: biplicity
+    synonym: ease
+    syzygy: quality
+- sincerity:
+    anomaly: Semitization
+    antinomy: insincerity
+    clinamen: inverity
+    synonym: earnestness
+    syzygy: gravity
+- singular:
+    anomaly: koreci
+    antinomy: plural
+    clinamen: angular
+    synonym: singular
+    syzygy: form
+- sinking:
+    anomaly: inhere
+    antinomy: float
+    clinamen: banking
+    synonym: sinking
+    syzygy: descent
+- sitting:
+    anomaly: unblind
+    antinomy: base
+    clinamen: batting
+    synonym: seance
+    syzygy: gesture
+- skillfulness:
+    anomaly: fatherhood
+    antinomy: unskillfulness
+    clinamen: smilefulness
+    synonym: skillfulness
+    syzygy: state
+- sleeping:
+    anomaly: Kaffir
+    antinomy: waking
+    clinamen: bleeding
+    synonym: quiescence
+    syzygy: sleep
+- slenderness:
+    anomaly: apices
+    antinomy: thickness
+    clinamen: tenderness
+    synonym: thinness
+    syzygy: insufficiency
+- sloppiness:
+    anomaly: Membranipora
+    antinomy: carefulness
+    clinamen: lippiness
+    synonym: wateriness
+    syzygy: wetness
+- tact:
+    anomaly: baba
+    antinomy: tactlessness
+    clinamen: ace
+    synonym: tact
+    syzygy: consideration
+- tactlessness:
+    anomaly: emigree
+    antinomy: tactfulness
+    clinamen: artlessness
+    synonym: tactlessness
+    syzygy: inconsideration
+- tallness:
+    anomaly: typologist
+    antinomy: shortness
+    clinamen: baldness
+    synonym: height
+    syzygy: dimension
+- tameness:
+    anomaly: supergravitate
+    antinomy: wildness
+    clinamen: bareness
+    synonym: jejunity
+    syzygy: dullness
+- tangibility:
+    anomaly: countervolition
+    antinomy: intangibility
+    clinamen: fungibility
+    synonym: tangibility
+    syzygy: materiality
+- tardiness:
+    anomaly: chalkworker
+    antinomy: punctuality
+    clinamen: aridness
+    synonym: tardiness
+    syzygy: timing
+- tastefulness:
+    anomaly: gardening
+    antinomy: tastelessness
+    clinamen: easefulness
+    synonym: tastefulness
+    syzygy: elegance
+- tastelessness:
+    anomaly: toeplate
+    antinomy: tastefulness
+    clinamen: baselessness
+    synonym: flavorlessness
+    syzygy: unappetizingness
+- temporalty:
+    anomaly: histozyme
+    antinomy: clergy
+    clinamen: temporal
+    synonym: laity
+    syzygy: spiritualty
+- text:
+    anomaly: Phaethon
+    antinomy: trade_edition
+    clinamen: beat
+    synonym: textbook
+    syzygy: matter
+- textbook:
+    anomaly: radiophonic
+    antinomy: trade_edition
+    clinamen: jestbook
+    synonym: textbook
+    syzygy: book
+- theism:
+    anomaly: lenticule
+    antinomy: atheism
+    clinamen: chrism
+    synonym: theism
+    syzygy: religion
+- there:
+    anomaly: Majorist
+    antinomy: here
+    clinamen: bere
+    synonym: there
+    syzygy: location
+- thereness:
+    anomaly: invincibly
+    antinomy: hereness
+    clinamen: otherness
+    synonym: thereness
+    syzygy: presence
+- thickness:
+    anomaly: viritrate
+    antinomy: thinness
+    clinamen: chicness
+    synonym: thickness
+    syzygy: dimension
+- thinness:
+    anomaly: diacrisis
+    antinomy: thickness
+    clinamen: chicness
+    synonym: leanness
+    syzygy: dimension
+- tidiness:
+    anomaly: nasturtium
+    antinomy: untidiness
+    clinamen: airiness
+    synonym: tidiness
+    syzygy: orderliness
+- tightness:
+    anomaly: lancination
+    antinomy: distribution
+    clinamen: highness
+    synonym: stringency
+    syzygy: lack
+- timid:
+    anomaly: latex
+    antinomy: brave
+    clinamen: amid
+    synonym: timid
+    syzygy: people
+- timidity:
+    anomaly: mowse
+    antinomy: boldness
+    clinamen: bifidity
+    synonym: timidity
+    syzygy: fear
+- toadstool:
+    anomaly: maharani
+    antinomy: mushroom
+    clinamen: toadstone
+    synonym: toadstool
+    syzygy: agaric
+- togs:
+    anomaly: dispassioned
+    antinomy: undress
+    clinamen: bog
+    synonym: togs
+    syzygy: clothing
+- tolerance:
+    anomaly: unled
+    antinomy: unpermissiveness
+    clinamen: operance
+    synonym: permissiveness
+    syzygy: endurance
+- tonicity:
+    anomaly: frot
+    antinomy: atonicity
+    clinamen: logicity
+    synonym: tonicity
+    syzygy: tension
+- tractability:
+    anomaly: coattestator
+    antinomy: intractability
+    clinamen: actability
+    synonym: tractability
+    syzygy: trait
+- tragedy:
+    anomaly: reticulocytosis
+    antinomy: comedy
+    clinamen: raggedy
+    synonym: calamity
+    syzygy: misfortune
+- trapezium:
+    anomaly: rockman
+    antinomy: parallelogram
+    clinamen: tapesium
+    synonym: trapezium
+    syzygy: quadrilateral
+- triumph:
+    anomaly: savagess
+    antinomy: defeat
+    clinamen: grumph
+    synonym: victory
+    syzygy: ending
+- trueness:
+    anomaly: presavagery
+    antinomy: falsity
+    clinamen: blueness
+    synonym: truth
+    syzygy: actuality
+- truth:
+    anomaly: acupuncture
+    antinomy: falsity
+    clinamen: breth
+    synonym: accuracy
+    syzygy: fact
+- truthfulness:
+    anomaly: electrify
+    antinomy: untruthfulness
+    clinamen: trustfulness
+    synonym: truthfulness
+    syzygy: honesty
+- tying:
+    anomaly: angulare
+    antinomy: gulf
+    clinamen: aging
+    synonym: tying
+    syzygy: fastener
+- typicality:
+    anomaly: dextrinase
+    antinomy: atypicality
+    clinamen: typically
+    synonym: typicality
+    syzygy: normality
+- ugliness:
+    anomaly: sternebral
+    antinomy: beauty
+    clinamen: glibness
+    synonym: nefariousness
+    syzygy: appearance
+- unacceptability:
+    anomaly: reballast
+    antinomy: acceptability
+    clinamen: acceptability
+    synonym: unacceptability
+    syzygy: unsatisfactoriness
+- unadaptability:
+    anomaly: overexcite
+    antinomy: adaptability
+    clinamen: adaptability
+    synonym: unadaptability
+    syzygy: inability
+- unaffectedness:
+    anomaly: pemphigus
+    antinomy: affectedness
+    clinamen: affectedness
+    synonym: unaffectedness
+    syzygy: naturalness
+- unalterability:
+    anomaly: mowch
+    antinomy: alterability
+    clinamen: alterability
+    synonym: fixedness
+    syzygy: immutability
+- unambiguity:
+    anomaly: nidology
+    antinomy: ambiguity
+    clinamen: ambiguity
+    synonym: unambiguity
+    syzygy: clarity
+- unapproachability:
+    anomaly: currishly
+    antinomy: approachability
+    clinamen: approachability
+    synonym: unapproachability
+    syzygy: distance
+- unattractiveness:
+    anomaly: insociability
+    antinomy: attractiveness
+    clinamen: attractiveness
+    synonym: unattractiveness
+    syzygy: ugliness
+- unbecomingness:
+    anomaly: Nitrian
+    antinomy: becomingness
+    clinamen: becomingness
+    synonym: unbecomingness
+    syzygy: indecorum
+- unbelief:
+    anomaly: supermagnificent
+    antinomy: belief
+    clinamen: belief
+    synonym: unbelief
+    syzygy: content
+- unbreakableness:
+    anomaly: distressfully
+    antinomy: breakableness
+    clinamen: breakableness
+    synonym: unbreakableness
+    syzygy: consistency
+- unceremoniousness:
+    anomaly: paresthesis
+    antinomy: ceremoniousness
+    clinamen: ceremoniousness
+    synonym: unceremoniousness
+    syzygy: informality
+- uncertainty:
+    anomaly: octopede
+    antinomy: certainty
+    clinamen: certainty
+    synonym: doubt
+    syzygy: quality
+- uncheerfulness:
+    anomaly: unenraged
+    antinomy: cheerfulness
+    clinamen: cheerfulness
+    synonym: cheerlessness
+    syzygy: sadness
+- uncle:
+    anomaly: unindustrialized
+    antinomy: aunt
+    clinamen: acle
+    synonym: uncle
+    syzygy: kinsman
+- uncleanliness:
+    anomaly: antepileptic
+    antinomy: cleanliness
+    clinamen: cleanliness
+    synonym: uncleanliness
+    syzygy: trait
+- uncommonness:
+    anomaly: antithenar
+    antinomy: commonness
+    clinamen: commonness
+    synonym: uncommonness
+    syzygy: extraordinariness
+- uncommunicativeness:
+    anomaly: Carduaceae
+    antinomy: communicativeness
+    clinamen: communicativeness
+    synonym: uncommunicativeness
+    syzygy: trait
+- unconcern:
+    anomaly: zoometric
+    antinomy: concern
+    clinamen: concern
+    synonym: nonchalance
+    syzygy: carefreeness
+- uncongeniality:
+    anomaly: nicotinamide
+    antinomy: congeniality
+    clinamen: congeniality
+    synonym: uncongeniality
+    syzygy: unfriendliness
+- unconnectedness:
+    anomaly: aerotherapy
+    antinomy: connectedness
+    clinamen: connectedness
+    synonym: unconnectedness
+    syzygy: relation
+- unconscientiousness:
+    anomaly: misdoing
+    antinomy: conscientiousness
+    clinamen: conscientiousness
+    synonym: unconscientiousness
+    syzygy: conscience
+- unconventionality:
+    anomaly: cupula
+    antinomy: conventionality
+    clinamen: conventionality
+    synonym: unconventionality
+    syzygy: originality
+- uncreativeness:
+    anomaly: Mono
+    antinomy: creativeness
+    clinamen: creativeness
+    synonym: uncreativeness
+    syzygy: inability
+- undergarment:
+    anomaly: unshuffled
+    antinomy: overgarment
+    clinamen: underpayment
+    synonym: undergarment
+    syzygy: garment
+- understatement:
+    anomaly: variciform
+    antinomy: overstatement
+    clinamen: underratement
+    synonym: understatement
+    syzygy: statement
+- undesirability:
+    anomaly: coextent
+    antinomy: desirability
+    clinamen: desirability
+    synonym: undesirability
+    syzygy: bad
+- undoing:
+    anomaly: Masai
+    antinomy: brand
+    clinamen: doing
+    synonym: untying
+    syzygy: about-face
+- unemployment:
+    anomaly: subconsciousness
+    antinomy: employment
+    clinamen: coemployment
+    synonym: unemployment
+    syzygy: state
+- unevenness:
+    anomaly: basketing
+    antinomy: evenness
+    clinamen: evenness
+    synonym: unevenness
+    syzygy: abnormality
+- unfairness:
+    anomaly: diastema
+    antinomy: fairness
+    clinamen: fairness
+    synonym: injustice
+    syzygy: fondness
+- unfamiliarity:
+    anomaly: Payagua
+    antinomy: familiarity
+    clinamen: familiarity
+    synonym: unfamiliarity
+    syzygy: unusualness
+- unfavorableness:
+    anomaly: procerebrum
+    antinomy: favorableness
+    clinamen: favorableness
+    synonym: unfavorableness
+    syzygy: disadvantage
+- unfolding:
+    anomaly: anodos
+    antinomy: fold
+    clinamen: folding
+    synonym: unfolding
+    syzygy: development
+- unfriendliness:
+    anomaly: carlings
+    antinomy: friendliness
+    clinamen: friendliness
+    synonym: unfriendliness
+    syzygy: disfavor
+- ungodliness:
+    anomaly: pellicula
+    antinomy: godliness
+    clinamen: godliness
+    synonym: ungodliness
+    syzygy: impiety
+- ungraciousness:
+    anomaly: middy
+    antinomy: graciousness
+    clinamen: graciousness
+    synonym: ungraciousness
+    syzygy: disrespect
+- unhappiness:
+    anomaly: peritrichous
+    antinomy: happiness
+    clinamen: happiness
+    synonym: sadness
+    syzygy: feeling
+- unhealthfulness:
+    anomaly: aerogenic
+    antinomy: healthfulness
+    clinamen: healthfulness
+    synonym: unhealthfulness
+    syzygy: unwholesomeness
+- unholiness:
+    anomaly: landlocked
+    antinomy: holiness
+    clinamen: holiness
+    synonym: unholiness
+    syzygy: quality
+- uniformity:
+    anomaly: intratelluric
+    antinomy: nonuniformity
+    clinamen: biformity
+    synonym: uniformity
+    syzygy: regularity
+- unimportance:
+    anomaly: ungarnish
+    antinomy: importance
+    clinamen: importance
+    synonym: humbleness
+    syzygy: obscureness
+- uninitiate:
+    anomaly: undersell
+    antinomy: initiate
+    clinamen: initiate
+    synonym: uninitiate
+    syzygy: people
+- uninsurability:
+    anomaly: registral
+    antinomy: insurability
+    clinamen: insurability
+    synonym: uninsurability
+    syzygy: ineligibility
+- unintelligibility:
+    anomaly: intrathyroid
+    antinomy: intelligibility
+    clinamen: intelligibility
+    synonym: incoherence
+    syzygy: nonsense
+- uninterestingness:
+    anomaly: lamprey
+    antinomy: interestingness
+    clinamen: interestingness
+    synonym: uninterestingness
+    syzygy: powerlessness
+- union:
+    anomaly: Echidnidae
+    antinomy: separation
+    clinamen: adion
+    synonym: coupling
+    syzygy: organization
+- universal:
+    anomaly: dipentene
+    antinomy: particular
+    clinamen: unicursal
+    synonym: universal joint
+    syzygy: rule
+- unkindness:
+    anomaly: toteload
+    antinomy: kindness
+    clinamen: kindness
+    synonym: unkindness
+    syzygy: insensitivity
+- unknown:
+    anomaly: shebeener
+    antinomy: acquaintance
+    clinamen: beknown
+    synonym: stranger
+    syzygy: region
+- unlawfulness:
+    anomaly: resee
+    antinomy: lawfulness
+    clinamen: lawfulness
+    synonym: unlawfulness
+    syzygy: quality
+- unlikelihood:
+    anomaly: conidiophore
+    antinomy: likelihood
+    clinamen: likelihood
+    synonym: unlikelihood
+    syzygy: improbability
+- unlikeness:
+    anomaly: acidic
+    antinomy: likeness
+    clinamen: alikeness
+    synonym: unlikeness
+    syzygy: dissimilarity
+- unmindfulness:
+    anomaly: ductibility
+    antinomy: mindfulness
+    clinamen: mindfulness
+    synonym: unmindfulness
+    syzygy: attentiveness
+- unnaturalness:
+    anomaly: intermetacarpal
+    antinomy: naturalness
+    clinamen: naturalness
+    synonym: unnaturalness
+    syzygy: quality
+- unneighborliness:
+    anomaly: skeletonian
+    antinomy: neighborliness
+    clinamen: neighborliness
+    synonym: unneighborliness
+    syzygy: unfriendliness
+- unobtrusiveness:
+    anomaly: outhold
+    antinomy: obtrusiveness
+    clinamen: obtrusiveness
+    synonym: unobtrusiveness
+    syzygy: inconspicuousness
+- unoriginality:
+    anomaly: unskeptical
+    antinomy: originality
+    clinamen: aboriginality
+    synonym: unoriginality
+    syzygy: uncreativeness
+- unorthodoxy:
+    anomaly: triakistetrahedral
+    antinomy: orthodoxy
+    clinamen: orthodoxy
+    synonym: heresy
+    syzygy: orientation
+- unpersuasiveness:
+    anomaly: irreflective
+    antinomy: persuasiveness
+    clinamen: persuasiveness
+    synonym: unpersuasiveness
+    syzygy: powerlessness
+- unpleasantness:
+    anomaly: pictorically
+    antinomy: pleasantness
+    clinamen: pleasantness
+    synonym: unpleasantness
+    syzygy: pain
+- unpleasingness:
+    anomaly: Agrimonia
+    antinomy: pleasingness
+    clinamen: pleasingness
+    synonym: unpleasingness
+    syzygy: ugliness
+- unpopularity:
+    anomaly: inguinolabial
+    antinomy: popularity
+    clinamen: popularity
+    synonym: unpopularity
+    syzygy: quality
+- unpretentiousness:
+    anomaly: rebellion
+    antinomy: pretentiousness
+    clinamen: pretentiousness
+    synonym: unpretentiousness
+    syzygy: naturalness
+- unproductiveness:
+    anomaly: treey
+    antinomy: productiveness
+    clinamen: productiveness
+    synonym: unproductiveness
+    syzygy: fruitlessness
+- unprofitableness:
+    anomaly: isochronic
+    antinomy: profitableness
+    clinamen: profitableness
+    synonym: unprofitableness
+    syzygy: disadvantage
+- unreality:
+    anomaly: stearin
+    antinomy: reality
+    clinamen: areality
+    synonym: unreality
+    syzygy: immateriality
+- unrelatedness:
+    anomaly: belve
+    antinomy: relatedness
+    clinamen: relatedness
+    synonym: unrelatedness
+    syzygy: unconnectedness
+- unrespectability:
+    anomaly: undephlegmated
+    antinomy: respectability
+    clinamen: irrespectability
+    synonym: unrespectability
+    syzygy: dishonorableness
+- unresponsiveness:
+    anomaly: propagative
+    antinomy: responsiveness
+    clinamen: irresponsiveness
+    synonym: unresponsiveness
+    syzygy: quality
+- unrestraint:
+    anomaly: overleaven
+    antinomy: restraint
+    clinamen: restraint
+    synonym: unrestraint
+    syzygy: indiscipline
+- unrighteousness:
+    anomaly: patrization
+    antinomy: righteousness
+    clinamen: righteousness
+    synonym: unrighteousness
+    syzygy: immorality
+- unsatisfactoriness:
+    anomaly: expeditionist
+    antinomy: satisfactoriness
+    clinamen: satisfactoriness
+    synonym: unsatisfactoriness
+    syzygy: quality
+- unscrupulousness:
+    anomaly: receptibility
+    antinomy: scrupulousness
+    clinamen: scrupulousness
+    synonym: unscrupulousness
+    syzygy: dishonesty
+- unseasonableness:
+    anomaly: scruf
+    antinomy: seasonableness
+    clinamen: seasonableness
+    synonym: unseasonableness
+    syzygy: timing
+- unseemliness:
+    anomaly: Spatangus
+    antinomy: seemliness
+    clinamen: beseemliness
+    synonym: unseemliness
+    syzygy: indecorum
+- unselfishness:
+    anomaly: decennary
+    antinomy: selfishness
+    clinamen: selfishness
+    synonym: generosity
+    syzygy: generosity
+- unskillfulness:
+    anomaly: uncommensurability
+    antinomy: skillfulness
+    clinamen: skillfulness
+    synonym: unskillfulness
+    syzygy: inability
+- unsociability:
+    anomaly: spatulamancy
+    antinomy: sociability
+    clinamen: associability
+    synonym: unsociability
+    syzygy: disposition
+- unsoundness:
+    anomaly: sylvestrene
+    antinomy: soundness
+    clinamen: soundness
+    synonym: unsoundness
+    syzygy: condition
+- unsteadiness:
+    anomaly: gorse
+    antinomy: steadiness
+    clinamen: steadiness
+    synonym: unsteadiness
+    syzygy: movability
+- unsuitability:
+    anomaly: Liber
+    antinomy: suitability
+    clinamen: suitability
+    synonym: unsuitability
+    syzygy: quality
+- unsusceptibility:
+    anomaly: februation
+    antinomy: susceptibility
+    clinamen: susceptibility
+    synonym: unsusceptibility
+    syzygy: condition
+- unthoughtfulness:
+    anomaly: Bantoid
+    antinomy: thoughtfulness
+    clinamen: thoughtfulness
+    synonym: unthoughtfulness
+    syzygy: trait
+- untidiness:
+    anomaly: neighboring
+    antinomy: tidiness
+    clinamen: tidiness
+    synonym: untidiness
+    syzygy: disorderliness
+- untrustworthiness:
+    anomaly: bespectacled
+    antinomy: trustworthiness
+    clinamen: trustworthiness
+    synonym: untrustworthiness
+    syzygy: trait
+- untruthfulness:
+    anomaly: polypragmacy
+    antinomy: truthfulness
+    clinamen: truthfulness
+    synonym: untruthfulness
+    syzygy: dishonesty
+- untying:
+    anomaly: rhythmometer
+    antinomy: necktie
+    clinamen: antling
+    synonym: untying
+    syzygy: relaxation
+- unusualness:
+    anomaly: ellenyard
+    antinomy: usualness
+    clinamen: unequalness
+    synonym: unusualness
+    syzygy: uncommonness
+- unveiling:
+    anomaly: Christianize
+    antinomy: head_covering
+    clinamen: unailing
+    synonym: introduction
+    syzygy: presentation
+- unwariness:
+    anomaly: Lucullan
+    antinomy: wariness
+    clinamen: inwardness
+    synonym: unwariness
+    syzygy: incaution
+- unwholesomeness:
+    anomaly: hybridism
+    antinomy: wholesomeness
+    clinamen: wholesomeness
+    synonym: unwholesomeness
+    syzygy: quality
+- unwillingness:
+    anomaly: subhyaline
+    antinomy: willingness
+    clinamen: unwittingness
+    synonym: unwillingness
+    syzygy: disposition
+- unworthiness:
+    anomaly: acapnial
+    antinomy: worthiness
+    clinamen: worthiness
+    synonym: inappropriateness
+    syzygy: bad
+- upbeat:
+    anomaly: sticking
+    antinomy: ill-being
+    clinamen: beat
+    synonym: wellbeing
+    syzygy: prosperity
+- urbanity:
+    anomaly: ophthalmopathy
+    antinomy: rusticity
+    clinamen: organity
+    synonym: urbanity
+    syzygy: courtesy
+- usualness:
+    anomaly: nonliquid
+    antinomy: unusualness
+    clinamen: equalness
+    synonym: usualness
+    syzygy: commonness
+- utility:
+    anomaly: aminoacetal
+    antinomy: inutility
+    clinamen: ability
+    synonym: utility program
+    syzygy: service
+- valgus:
+    anomaly: untyrannic
+    antinomy: varus
+    clinamen: albus
+    synonym: valgus
+    syzygy: deformity
+- vanity:
+    anomaly: mopishly
+    antinomy: humility
+    clinamen: amity
+    synonym: amour propre
+    syzygy: pride
+- vantage:
+    anomaly: ingerminate
+    antinomy: disadvantage
+    clinamen: bandage
+    synonym: advantage
+    syzygy: position
+- variability:
+    anomaly: rompish
+    antinomy: invariability
+    clinamen: amiability
+    synonym: unevenness
+    syzygy: changeableness
+- variance:
+    anomaly: transportation
+    antinomy: invariability
+    clinamen: garance
+    synonym: discrepancy
+    syzygy: deviation
+- varietal:
+    anomaly: antidiphtherin
+    antinomy: generic
+    clinamen: marital
+    synonym: varietal
+    syzygy: wine
+- varus:
+    anomaly: meliorable
+    antinomy: valgus
+    clinamen: Aaru
+    synonym: varus
+    syzygy: deformity
+- vegetation:
+    anomaly: eyeblink
+    antinomy: fauna
+    clinamen: degelation
+    synonym: vegetation
+    syzygy: collection
+- veracity:
+    anomaly: supervise
+    antinomy: mendacity
+    clinamen: edacity
+    synonym: veracity
+    syzygy: truthfulness
+- verity:
+    anomaly: palamate
+    antinomy: falsity
+    clinamen: aerify
+    synonym: truth
+    syzygy: actuality
+- verso:
+    anomaly: pratement
+    antinomy: recto
+    clinamen: aero
+    synonym: reverse
+    syzygy: page
+- victor:
+    anomaly: wusser
+    antinomy: loser
+    clinamen: actor
+    synonym: winner
+    syzygy: combatant
+- victory:
+    anomaly: playwrighting
+    antinomy: defeat
+    clinamen: evictor
+    synonym: victory
+    syzygy: ending
+- virtue:
+    anomaly: dermalgia
+    antinomy: demerit
+    clinamen: cirque
+    synonym: merit
+    syzygy: good
+- visibility:
+    anomaly: Teresa
+    antinomy: invisibility
+    clinamen: disability
+    synonym: visibility
+    syzygy: perceptibility
+- vitalness:
+    anomaly: screenwork
+    antinomy: dispensability
+    clinamen: fatalness
+    synonym: indispensability
+    syzygy: essentiality
+- volume:
+    anomaly: necklaceweed
+    antinomy: softness
+    clinamen: column
+    synonym: bulk
+    syzygy: measure
+- vowel:
+    anomaly: mastoiditis
+    antinomy: consonant
+    clinamen: bowed
+    synonym: vowel
+    syzygy: telephone
+- vulnerability:
+    anomaly: parentally
+    antinomy: invulnerability
+    clinamen: venerability
+    synonym: vulnerability
+    syzygy: danger
+- wakefulness:
+    anomaly: tourmaliniferous
+    antinomy: sleepiness
+    clinamen: balefulness
+    synonym: watchfulness
+    syzygy: waking
+- waking:
+    anomaly: revibrational
+    antinomy: sleeping
+    clinamen: aging
+    synonym: waking
+    syzygy: consciousness
+- waning:
+    anomaly: shrift
+    antinomy: waxing
+    clinamen: aging
+    synonym: waning
+    syzygy: decrease
+- wariness:
+    anomaly: postrorse
+    antinomy: unwariness
+    clinamen: airiness
+    synonym: wariness
+    syzygy: discretion
+- waviness:
+    anomaly: hill
+    antinomy: straightness
+    clinamen: easiness
+    synonym: curliness
+    syzygy: curvature
+- waxing:
+    anomaly: grown
+    antinomy: waning
+    clinamen: aging
+    synonym: waxing
+    syzygy: application
+- weakening:
+    anomaly: circulatory
+    antinomy: strengthening
+    clinamen: awakening
+    synonym: weakening
+    syzygy: transformation
+- weakness:
+    anomaly: liminess
+    antinomy: strength
+    clinamen: deadness
+    synonym: failing
+    syzygy: imperfection
+- wetness:
+    anomaly: amalgamator
+    antinomy: dryness
+    clinamen: aptness
+    synonym: wetness
+    syzygy: condition
+- white:
+    anomaly: roundtail
+    antinomy: black
+    clinamen: alite
+    synonym: egg white
+    syzygy: person
+- wholesomeness:
+    anomaly: palateful
+    antinomy: unwholesomeness
+    clinamen: dolesomeness
+    synonym: wholesomeness
+    syzygy: quality
+- wideness:
+    anomaly: disgown
+    antinomy: narrowness
+    clinamen: direness
+    synonym: enormousness
+    syzygy: width
+- wife:
+    anomaly: incalescent
+    antinomy: husband
+    clinamen: aide
+    synonym: wife
+    syzygy: spouse
+- wildness:
+    anomaly: compresbyter
+    antinomy: tameness
+    clinamen: baldness
+    synonym: ferocity
+    syzygy: passion
+- willingness:
+    anomaly: overdiverse
+    antinomy: unwillingness
+    clinamen: gallingness
+    synonym: willingness
+    syzygy: disposition
+- windward:
+    anomaly: undutiful
+    antinomy: leeward
+    clinamen: ginward
+    synonym: windward
+    syzygy: direction
+- winner:
+    anomaly: hypermonosyllable
+    antinomy: loser
+    clinamen: banner
+    synonym: achiever
+    syzygy: contestant
+- wisdom:
+    anomaly: migmatite
+    antinomy: folly
+    clinamen: fibdom
+    synonym: wisdom of solomon
+    syzygy: content
+- withholder:
+    anomaly: old
+    antinomy: granter
+    clinamen: withhold
+    synonym: withholder
+    syzygy: person
+- woman:
+    anomaly: landolphia
+    antinomy: man
+    clinamen: adman
+    synonym: charwoman
+    syzygy: female
+- workday:
+    anomaly: Niloscope
+    antinomy: rest_day
+    clinamen: foreday
+    synonym: workday
+    syzygy: weekday
+- worker:
+    anomaly: zoometric
+    antinomy: nonworker
+    clinamen: barker
+    synonym: proletarian
+    syzygy: person
+- working:
+    anomaly: amanori
+    antinomy: idle
+    clinamen: barking
+    synonym: working
+    syzygy: excavation
+- worldliness:
+    anomaly: equiprobabilist
+    antinomy: naivete
+    clinamen: lordliness
+    synonym: sophistication
+    syzygy: quality
+- worsening:
+    anomaly: defunction
+    antinomy: better
+    clinamen: corseting
+    synonym: deterioration
+    syzygy: decline
+- worthiness:
+    anomaly: gaspergou
+    antinomy: unworthiness
+    clinamen: couthiness
+    synonym: worthiness
+    syzygy: good
+- worthlessness:
+    anomaly: quadripulmonary
+    antinomy: worth
+    clinamen: mirthlessness
+    synonym: worthlessness
+    syzygy: quality
+- wrongness:
+    anomaly: philomathical
+    antinomy: appropriateness
+    clinamen: cronkness
+    synonym: inappropriateness
+    syzygy: impropriety
+- yang:
+    anomaly: Isleta
+    antinomy: yin
+    clinamen: Aani
+    synonym: yang
+    syzygy: principle
+- yea:
+    anomaly: unimitableness
+    antinomy: nay
+    clinamen: aa
+    synonym: yea
+    syzygy: affirmative
+- 'yes':
+    anomaly: coabsume
+    antinomy: 'no'
+    clinamen: ae
+    synonym: 'yes'
+    syzygy: affirmative
+- yin:
+    anomaly: outflanking
+    antinomy: yang
+    clinamen: ai
+    synonym: yin
+    syzygy: principle
+- young:
+    anomaly: buckwashing
+    antinomy: aged
+    clinamen: bong
+    synonym: young
+    syzygy: animal
+- youngness:
+    anomaly: snop
+    antinomy: oldness
+    clinamen: boundness
+    synonym: youngness
+    syzygy: age
+- youth:
+    anomaly: beaux
+    antinomy: aged
+    clinamen: booth
+    synonym: young person
+    syzygy: juvenile
+- zealot:
+    anomaly: impostorism
+    antinomy: nonpartisan
+    clinamen: dealt
+    synonym: partisan
+    syzygy: jew
+- zoology:
+    anomaly: Burlington
+    antinomy: flora
+    clinamen: acology
+    synonym: fauna
+    syzygy: collection
+verbs:
+- abbreviate:
+    anomaly: Piprinae
+    antinomy: expand
+    clinamen: breviate
+    synonym: abridge
+    syzygy: decrease
+- abduct:
+    anomaly: peerie
+    antinomy: adduct
+    clinamen: abdat
+    synonym: kidnap
+    syzygy: seize
+- abridge:
+    anomaly: Geopolitik
+    antinomy: expand
+    clinamen: abide
+    synonym: abridge
+    syzygy: decrease
+- absolve:
+    anomaly: brassart
+    antinomy: blame
+    clinamen: above
+    synonym: shrive
+    syzygy: forgive
+- absorb:
+    anomaly: deadtongue
+    antinomy: emit
+    clinamen: abhor
+    synonym: steep
+    syzygy: sorb
+- abstain:
+    anomaly: millionairism
+    antinomy: consume
+    clinamen: abthain
+    synonym: abstain
+    syzygy: refrain
+- accede:
+    anomaly: bespend
+    antinomy: dissent
+    clinamen: accend
+    synonym: submit
+    syzygy: output
+- accelerate:
+    anomaly: cryptobranch
+    antinomy: decelerate
+    clinamen: accelerant
+    synonym: accelerate
+    syzygy: escalate
+- accept:
+    anomaly: parasemidine
+    antinomy: reject
+    clinamen: accede
+    synonym: bear
+    syzygy: measure
+- accommodate:
+    anomaly: palaeolithist
+    antinomy: disoblige
+    clinamen: commodate
+    synonym: suit
+    syzygy: meet
+- acknowledge:
+    anomaly: exhibitorial
+    antinomy: deny
+    clinamen: knowledge
+    synonym: admit
+    syzygy: declare
+- acquit:
+    anomaly: workfellow
+    antinomy: convict
+    clinamen: acuity
+    synonym: behave
+    syzygy: pronounce
+- activate:
+    anomaly: impostorship
+    antinomy: inactivate
+    clinamen: acervate
+    synonym: trip
+    syzygy: novice
+- adjust:
+    anomaly: stenter
+    antinomy: skew
+    clinamen: adaunt
+    synonym: align
+    syzygy: change
+- admire:
+    anomaly: palaeocrystallic
+    antinomy: look_down_on
+    clinamen: acmite
+    synonym: admire
+    syzygy: respect
+- admit:
+    anomaly: anorthographic
+    antinomy: deny
+    clinamen: absit
+    synonym: accept
+    syzygy: declare
+- aggrade:
+    anomaly: levorotatory
+    antinomy: degrade
+    clinamen: abrade
+    synonym: aggrade
+    syzygy: class
+- agitate:
+    anomaly: wading
+    antinomy: calm
+    clinamen: acetate
+    synonym: crusade
+    syzygy: arouse
+- align:
+    anomaly: abstrusion
+    antinomy: skew
+    clinamen: adion
+    synonym: align
+    syzygy: reorientate
+- amend:
+    anomaly: unaccepted
+    antinomy: worsen
+    clinamen: abed
+    synonym: better
+    syzygy: revision
+- amplify:
+    anomaly: breasthook
+    antinomy: understate
+    clinamen: amply
+    synonym: magnify
+    syzygy: enlarge
+- anesthetize:
+    anomaly: Bini
+    antinomy: bring_to
+    clinamen: anesthetic
+    synonym: anesthetize
+    syzygy: drug
+- animate:
+    anomaly: nonknowledge
+    antinomy: deaden
+    clinamen: adiate
+    synonym: inspire
+    syzygy: stimulate
+- appear:
+    anomaly: disenchantingly
+    antinomy: disappear
+    clinamen: abear
+    synonym: look
+    syzygy: beryllium
+- applaud:
+    anomaly: nonamino
+    antinomy: boo
+    clinamen: applied
+    synonym: applaud
+    syzygy: gesticulate
+- appreciate:
+    anomaly: Sulafat
+    antinomy: depreciate
+    clinamen: appreciant
+    synonym: prize
+    syzygy: admit
+- approbate:
+    anomaly: assigned
+    antinomy: reprobate
+    clinamen: aerobate
+    synonym: approbate
+    syzygy: authorize
+- approve:
+    anomaly: choosy
+    antinomy: disapprove
+    clinamen: apojove
+    synonym: approve
+    syzygy: authorize
+- begrudge:
+    anomaly: vigilantism
+    antinomy: wish
+    clinamen: besmudge
+    synonym: envy
+    syzygy: desire
+- believe:
+    anomaly: Nitella
+    antinomy: disbelieve
+    clinamen: beeve
+    synonym: think
+    syzygy: accept
+- bequeath:
+    anomaly: twinsomeness
+    antinomy: disinherit
+    clinamen: beneath
+    synonym: bequeath
+    syzygy: give
+- betray:
+    anomaly: trichite
+    antinomy: undeceive
+    clinamen: astray
+    synonym: fail
+    syzygy: unwrap
+- blacken:
+    anomaly: expurgatory
+    antinomy: whiten
+    clinamen: backed
+    synonym: char
+    syzygy: discolor
+- bless:
+    anomaly: committent
+    antinomy: curse
+    clinamen: bases
+    synonym: consecrate
+    syzygy: raise
+- blunt:
+    anomaly: beetroot
+    antinomy: sharpen
+    clinamen: ahunt
+    synonym: numb
+    syzygy: weaken
+- borrow:
+    anomaly: sociologic
+    antinomy: lend
+    clinamen: arrow
+    synonym: adopt
+    syzygy: get
+- brighten:
+    anomaly: throatlash
+    antinomy: darken
+    clinamen: blighted
+    synonym: clear up
+    syzygy: change
+- bring:
+    anomaly: initiatively
+    antinomy: take_away
+    clinamen: abrin
+    synonym: institute
+    syzygy: conveyance
+- broaden:
+    anomaly: proteose
+    antinomy: specialise
+    clinamen: boden
+    synonym: widen
+    syzygy: widen
+- calcify:
+    anomaly: gemellione
+    antinomy: decalcify
+    clinamen: albify
+    synonym: calcify
+    syzygy: harden
+- centralize:
+    anomaly: pontic
+    antinomy: decentralize
+    clinamen: centrale
+    synonym: centralize
+    syzygy: change
+- certify:
+    anomaly: burnsides
+    antinomy: decertify
+    clinamen: acetify
+    synonym: attest
+    syzygy: testify
+- clarify:
+    anomaly: poisonweed
+    antinomy: obfuscate
+    clinamen: calcify
+    synonym: clarify
+    syzygy: explain
+- classify:
+    anomaly: Nesonetta
+    antinomy: declassify
+    clinamen: assify
+    synonym: relegate
+    syzygy: categorize
+- dampen:
+    anomaly: Urukuena
+    antinomy: stimulate
+    clinamen: ameen
+    synonym: stifle
+    syzygy: suppress
+- darken:
+    anomaly: Faluns
+    antinomy: lighten
+    clinamen: arpen
+    synonym: darken
+    syzygy: change
+- deactivate:
+    anomaly: inflict
+    antinomy: activate
+    clinamen: activate
+    synonym: inactivate
+    syzygy: discharge
+- deaden:
+    anomaly: symphyogenesis
+    antinomy: enliven
+    clinamen: beaded
+    synonym: dampen
+    syzygy: stifle
+- decalcify:
+    anomaly: revolter
+    antinomy: calcify
+    clinamen: calcify
+    synonym: decalcify
+    syzygy: change
+- deceive:
+    anomaly: flipjack
+    antinomy: undeceive
+    clinamen: debeige
+    synonym: deceive
+    syzygy: victimize
+- decelerate:
+    anomaly: sleeveen
+    antinomy: accelerate
+    clinamen: accelerate
+    synonym: decelerate
+    syzygy: decrease
+- decentralize:
+    anomaly: unfunded
+    antinomy: centralise
+    clinamen: centralize
+    synonym: decentralize
+    syzygy: change
+- decipher:
+    anomaly: vaselet
+    antinomy: encode
+    clinamen: cipher
+    synonym: decode
+    syzygy: rewrite
+- declassify:
+    anomaly: Cryptocephala
+    antinomy: classify
+    clinamen: unclassify
+    synonym: declassify
+    syzygy: free
+- decode:
+    anomaly: laccolith
+    antinomy: encode
+    clinamen: become
+    synonym: decode
+    syzygy: rewrite
+- decompress:
+    anomaly: ringtaw
+    antinomy: compress
+    clinamen: compress
+    synonym: depressurize
+    syzygy: restore
+- decontaminate:
+    anomaly: weary
+    antinomy: contaminate
+    clinamen: contaminate
+    synonym: decontaminate
+    syzygy: cleanse
+- dedifferentiate:
+    anomaly: peachlike
+    antinomy: differentiate
+    clinamen: differentiate
+    synonym: dedifferentiate
+    syzygy: develop
+- defend:
+    anomaly: nonechoic
+    antinomy: attack
+    clinamen: berend
+    synonym: fight
+    syzygy: argue
+- deflate:
+    anomaly: spirillotropism
+    antinomy: inflate
+    clinamen: belate
+    synonym: deflate
+    syzygy: collapse
+- deform:
+    anomaly: curvet
+    antinomy: unbend
+    clinamen: befoam
+    synonym: contort
+    syzygy: change
+- defuse:
+    anomaly: immateriality
+    antinomy: fuse
+    clinamen: affuse
+    synonym: defuse
+    syzygy: remove
+- defy:
+    anomaly: Megalosauridae
+    antinomy: lend_oneself
+    clinamen: aery
+    synonym: defy
+    syzygy: defy
+- dehumidify:
+    anomaly: interpel
+    antinomy: humidify
+    clinamen: humidify
+    synonym: dehumidify
+    syzygy: dry
+- dehydrate:
+    anomaly: tympanomastoid
+    antinomy: hydrate
+    clinamen: anhydrate
+    synonym: exsiccate
+    syzygy: preserve
+- dehydrogenate:
+    anomaly: maunderer
+    antinomy: hydrogenate
+    clinamen: dehydrogenize
+    synonym: dehydrogenate
+    syzygy: change
+- delete:
+    anomaly: tweil
+    antinomy: record
+    clinamen: aulete
+    synonym: erase
+    syzygy: remove
+- demagnetize:
+    anomaly: semigod
+    antinomy: magnetize
+    clinamen: demonetize
+    synonym: demagnetize
+    syzygy: erase
+- dematerialize:
+    anomaly: dendritical
+    antinomy: materialize
+    clinamen: immaterialize
+    synonym: dematerialize
+    syzygy: disappear
+- demilitarize:
+    anomaly: flute
+    antinomy: militarize
+    clinamen: militarize
+    synonym: disarm
+    syzygy: disarm
+- demobilize:
+    anomaly: hyperapophysis
+    antinomy: mobilize
+    clinamen: demoralize
+    synonym: demobilize
+    syzygy: discharge
+- demonstrate:
+    anomaly: Alexis
+    antinomy: disprove
+    clinamen: demonstrant
+    synonym: show
+    syzygy: show
+- demoralize:
+    anomaly: matrilocal
+    antinomy: elate
+    clinamen: amoralize
+    synonym: corrupt
+    syzygy: change
+- demote:
+    anomaly: drawoff
+    antinomy: promote
+    clinamen: bedote
+    synonym: demote
+    syzygy: delegate
+- demulsify:
+    anomaly: flavone
+    antinomy: emulsify
+    clinamen: demulsion
+    synonym: demulsify
+    syzygy: change
+- denationalize:
+    anomaly: wirble
+    antinomy: nationalize
+    clinamen: nationalize
+    synonym: denationalize
+    syzygy: change
+- denaturalize:
+    anomaly: obscenely
+    antinomy: naturalize
+    clinamen: denaturize
+    synonym: denaturalize
+    syzygy: change
+- denazify:
+    anomaly: featureliness
+    antinomy: nazify
+    clinamen: degasify
+    synonym: denazify
+    syzygy: cleanse
+- deny:
+    anomaly: serviceberry
+    antinomy: admit
+    clinamen: aery
+    synonym: traverse
+    syzygy: contradict
+- deodorize:
+    anomaly: tickweed
+    antinomy: odorize
+    clinamen: deozonize
+    synonym: deodorize
+    syzygy: change
+- deoxidize:
+    anomaly: naphtha
+    antinomy: oxidize
+    clinamen: deamidize
+    synonym: deoxidize
+    syzygy: change
+- depart:
+    anomaly: separativeness
+    antinomy: come
+    clinamen: apart
+    synonym: go
+    syzygy: exit
+- depersonalize:
+    anomaly: Circumcellion
+    antinomy: personalize
+    clinamen: depersonize
+    synonym: depersonalize
+    syzygy: change
+- depreciate:
+    anomaly: phoronomics
+    antinomy: appreciate
+    clinamen: appreciate
+    synonym: deprecate
+    syzygy: disparage
+- depress:
+    anomaly: Mytiliaspis
+    antinomy: elate
+    clinamen: adpress
+    synonym: lower
+    syzygy: deter
+- deprive:
+    anomaly: ungirthed
+    antinomy: enrich
+    clinamen: bepride
+    synonym: deprive
+    syzygy: return
+- descend:
+    anomaly: autodetector
+    antinomy: ascend
+    clinamen: ascend
+    synonym: derive
+    syzygy: travel
+- desecrate:
+    anomaly: degasser
+    antinomy: consecrate
+    clinamen: deaerate
+    synonym: desecrate
+    syzygy: assail
+- desensitize:
+    anomaly: redredge
+    antinomy: sensitize
+    clinamen: sensitize
+    synonym: desensitize
+    syzygy: change
+- destabilize:
+    anomaly: Napoleonism
+    antinomy: stabilize
+    clinamen: desterilize
+    synonym: destabilize
+    syzygy: change
+- detach:
+    anomaly: cutigeral
+    antinomy: attach
+    clinamen: aenach
+    synonym: detach
+    syzygy: gulf
+- deter:
+    anomaly: suggesting
+    antinomy: persuade
+    clinamen: after
+    synonym: dissuade
+    syzygy: disapprove
+- deteriorate:
+    anomaly: mastodontic
+    antinomy: recuperate
+    clinamen: deteriority
+    synonym: devolve
+    syzygy: decay
+- dethrone:
+    anomaly: unevenness
+    antinomy: enthrone
+    clinamen: anthrone
+    synonym: dethrone
+    syzygy: deprive
+- devalue:
+    anomaly: decollete
+    antinomy: appreciate
+    clinamen: devall
+    synonym: depreciate
+    syzygy: degrade
+- devitalize:
+    anomaly: keratocentesis
+    antinomy: vitalize
+    clinamen: decimalize
+    synonym: devitalize
+    syzygy: weaken
+- devoice:
+    anomaly: prostatovesical
+    antinomy: voice
+    clinamen: decoic
+    synonym: devoice
+    syzygy: pronounce
+- devolve:
+    anomaly: phthiriasis
+    antinomy: recuperate
+    clinamen: delve
+    synonym: fall
+    syzygy: delegate
+- differentiate:
+    anomaly: ethoxycaffeine
+    antinomy: integrate
+    clinamen: differentia
+    synonym: distinguish
+    syzygy: identify
+- dilate:
+    anomaly: unbuxom
+    antinomy: contract
+    clinamen: ablate
+    synonym: elaborate
+    syzygy: widen
+- dirty:
+    anomaly: Polemonium
+    antinomy: clean
+    clinamen: airt
+    synonym: dirty
+    syzygy: change
+- disable:
+    anomaly: preclassification
+    antinomy: enable
+    clinamen: aidable
+    synonym: disable
+    syzygy: change
+- disapprove:
+    anomaly: hexametrographer
+    antinomy: approve
+    clinamen: disimprove
+    synonym: disapprove
+    syzygy: measure
+- disassemble:
+    anomaly: Gary
+    antinomy: assemble
+    clinamen: dissemble
+    synonym: disassemble
+    syzygy: destroy
+- disavow:
+    anomaly: interlobate
+    antinomy: avow
+    clinamen: disazo
+    synonym: disavow
+    syzygy: deny
+- disbelieve:
+    anomaly: connarite
+    antinomy: believe
+    clinamen: disbelief
+    synonym: disbelieve
+    syzygy: cull
+- disclaim:
+    anomaly: Knesset
+    antinomy: claim
+    clinamen: declaim
+    synonym: disclaim
+    syzygy: waive
+- discolor:
+    anomaly: gambling
+    antinomy: color
+    clinamen: bicolor
+    synonym: discolor
+    syzygy: change
+- discourage:
+    anomaly: foretellable
+    antinomy: encourage
+    clinamen: discourse
+    synonym: deter
+    syzygy: disapprove
+- disembark:
+    anomaly: indaba
+    antinomy: embark
+    clinamen: disbark
+    synonym: disembark
+    syzygy: land
+- disenchant:
+    anomaly: foreturn
+    antinomy: enchant
+    clinamen: disenchain
+    synonym: disenchant
+    syzygy: disappoint
+- disenfranchise:
+    anomaly: Lynceus
+    antinomy: enfranchise
+    clinamen: disfranchise
+    synonym: disenfranchise
+    syzygy: deprive
+- dishearten:
+    anomaly: corrugation
+    antinomy: hearten
+    clinamen: disheart
+    synonym: dishearten
+    syzygy: deter
+- disincarnate:
+    anomaly: minutiose
+    antinomy: incarnate
+    clinamen: discarnate
+    synonym: disincarnate
+    syzygy: immaterialize
+- disinfect:
+    anomaly: gem
+    antinomy: infect
+    clinamen: disaffect
+    synonym: disinfect
+    syzygy: clean_and_jerk
+- disinherit:
+    anomaly: polychromism
+    antinomy: bequeath
+    clinamen: disherit
+    synonym: disinherit
+    syzygy: deprive
+- disjoin:
+    anomaly: tyrosinuria
+    antinomy: join
+    clinamen: discoid
+    synonym: disjoin
+    syzygy: offprint
+- disjoint:
+    anomaly: turbidimetry
+    antinomy: join
+    clinamen: discount
+    synonym: disassociate
+    syzygy: offprint
+- dislodge:
+    anomaly: sobproof
+    antinomy: lodge
+    clinamen: disedge
+    synonym: shift
+    syzygy: remove
+- dismiss:
+    anomaly: impresser
+    antinomy: hire
+    clinamen: demiss
+    synonym: displace
+    syzygy: cull
+- disobey:
+    anomaly: scruf
+    antinomy: obey
+    clinamen: diobely
+    synonym: disobey
+    syzygy: garbage
+- disown:
+    anomaly: bolthead
+    antinomy: bequeath
+    clinamen: bison
+    synonym: disinherit
+    syzygy: deprive
+- displace:
+    anomaly: airtightness
+    antinomy: hire
+    clinamen: disgrace
+    synonym: preempt
+    syzygy: move
+- dispose:
+    anomaly: unwonted
+    antinomy: indispose
+    clinamen: adipose
+    synonym: discard
+    syzygy: sell
+- disprove:
+    anomaly: Falcones
+    antinomy: prove
+    clinamen: dislove
+    synonym: disprove
+    syzygy: contradict
+- disqualify:
+    anomaly: nunnated
+    antinomy: qualify
+    clinamen: misquality
+    synonym: disqualify
+    syzygy: change
+- dissect:
+    anomaly: cringle
+    antinomy: synthesize
+    clinamen: bisect
+    synonym: analyze
+    syzygy: cut
+- dissimilate:
+    anomaly: universally
+    antinomy: assimilate
+    clinamen: assimilate
+    synonym: dissimilate
+    syzygy: change
+- dissociate:
+    anomaly: orthogonality
+    antinomy: associate
+    clinamen: associate
+    synonym: disassociate
+    syzygy: offprint
+- dissuade:
+    anomaly: aromacity
+    antinomy: persuade
+    clinamen: assuade
+    synonym: dissuade
+    syzygy: rede
+- disunify:
+    anomaly: Filipinize
+    antinomy: unify
+    clinamen: dignify
+    synonym: disunify
+    syzygy: offprint
+- diverge:
+    anomaly: unlikeliness
+    antinomy: converge
+    clinamen: deterge
+    synonym: deviate
+    syzygy: move
+- diversify:
+    anomaly: ventricous
+    antinomy: specialise
+    clinamen: diversely
+    synonym: diversify
+    syzygy: change
+- divest:
+    anomaly: unsubventioned
+    antinomy: invest
+    clinamen: civet
+    synonym: deprive
+    syzygy: return
+- elaborate:
+    anomaly: autosite
+    antinomy: contract
+    clinamen: evaporate
+    synonym: complicate
+    syzygy: clarify
+- elate:
+    anomaly: coronaled
+    antinomy: depress
+    clinamen: abate
+    synonym: elate
+    syzygy: stimulate
+- eliminate:
+    anomaly: lovingly
+    antinomy: necessitate
+    clinamen: aluminate
+    synonym: extinguish
+    syzygy: destroy
+- embark:
+    anomaly: Mayey
+    antinomy: disembark
+    clinamen: ambar
+    synonym: venture
+    syzygy: board
+- emigrate:
+    anomaly: nonepileptic
+    antinomy: immigrate
+    clinamen: emigrant
+    synonym: emigrate
+    syzygy: migrate
+- emit:
+    anomaly: pilgrimlike
+    antinomy: absorb
+    clinamen: adit
+    synonym: utter
+    syzygy: exhaust
+- emulsify:
+    anomaly: starshine
+    antinomy: demulsify
+    clinamen: emulsin
+    synonym: emulsify
+    syzygy: change
+- enable:
+    anomaly: tonguesman
+    antinomy: disable
+    clinamen: able
+    synonym: enable
+    syzygy: change
+- enchant:
+    anomaly: Antipedobaptist
+    antinomy: disenchant
+    clinamen: Anchat
+    synonym: capture
+    syzygy: please
+- encode:
+    anomaly: usation
+    antinomy: decode
+    clinamen: acnode
+    synonym: encode
+    syzygy: convert
+- encourage:
+    anomaly: heliozoan
+    antinomy: discourage
+    clinamen: courage
+    synonym: promote
+    syzygy: support
+- enforce:
+    anomaly: Achromobacterieae
+    antinomy: exempt
+    clinamen: afforce
+    synonym: enforce
+    syzygy: compel
+- enfranchise:
+    anomaly: linitis
+    antinomy: disenfranchise
+    clinamen: affranchise
+    synonym: affranchise
+    syzygy: emancipate
+- engage:
+    anomaly: gariba
+    antinomy: fire
+    clinamen: eatage
+    synonym: prosecute
+    syzygy: act
+- enlarge:
+    anomaly: maidling
+    antinomy: reduce
+    clinamen: enage
+    synonym: blow up
+    syzygy: addition
+- enliven:
+    anomaly: vivisectional
+    antinomy: deaden
+    clinamen: eleven
+    synonym: inspire
+    syzygy: stimulate
+- enrich:
+    anomaly: velardenite
+    antinomy: deprive
+    clinamen: enarch
+    synonym: enrich
+    syzygy: better
+- entangle:
+    anomaly: Hystricinae
+    antinomy: disentangle
+    clinamen: atangle
+    synonym: entangle
+    syzygy: involve
+- enthrone:
+    anomaly: Audaean
+    antinomy: divest
+    clinamen: dethrone
+    synonym: invest
+    syzygy: install
+- erase:
+    anomaly: harassable
+    antinomy: record
+    clinamen: abase
+    synonym: erase
+    syzygy: killing
+- escalate:
+    anomaly: sharklet
+    antinomy: de-escalate
+    clinamen: escalado
+    synonym: escalate
+    syzygy: addition
+- estivate:
+    anomaly: inhumanity
+    antinomy: hibernate
+    clinamen: activate
+    synonym: estivate
+    syzygy: sleep
+- exacerbate:
+    anomaly: consultee
+    antinomy: better
+    clinamen: acerbate
+    synonym: worsen
+    syzygy: change
+- excite:
+    anomaly: Hibernicize
+    antinomy: stifle
+    clinamen: accite
+    synonym: stimulate
+    syzygy: arouse
+- exclude:
+    anomaly: biff
+    antinomy: include
+    clinamen: elude
+    synonym: bar
+    syzygy: snuff_out
+- excommunicate:
+    anomaly: pseudorealistic
+    antinomy: communicate
+    clinamen: communicate
+    synonym: excommunicate
+    syzygy: exclude
+- exhale:
+    anomaly: scalding
+    antinomy: inhale
+    clinamen: behale
+    synonym: exhale
+    syzygy: breathe
+- expand:
+    anomaly: pharmacopoeian
+    antinomy: contract
+    clinamen: eland
+    synonym: boom
+    syzygy: turn
+- exsiccate:
+    anomaly: tannined
+    antinomy: hydrate
+    clinamen: desiccate
+    synonym: exsiccate
+    syzygy: dry
+- falsify:
+    anomaly: semiductile
+    antinomy: correct
+    clinamen: albify
+    synonym: fudge
+    syzygy: misrepresent
+- fancify:
+    anomaly: Momotidae
+    antinomy: uglify
+    clinamen: calcify
+    synonym: fancify
+    syzygy: better
+- fasten:
+    anomaly: Capito
+    antinomy: unfasten
+    clinamen: ashen
+    synonym: tighten
+    syzygy: attach
+- flatten:
+    anomaly: miticidal
+    antinomy: sharpen
+    clinamen: batten
+    synonym: flatten
+    syzygy: shape
+- flatter:
+    anomaly: chaetodontid
+    antinomy: disparage
+    clinamen: Alaster
+    synonym: flatter
+    syzygy: praise
+- follow:
+    anomaly: postscriptum
+    antinomy: precede
+    clinamen: allow
+    synonym: postdate
+    syzygy: travel
+- forbid:
+    anomaly: thingy
+    antinomy: permit
+    clinamen: corbie
+    synonym: prevent
+    syzygy: command
+- foreshorten:
+    anomaly: sententiarist
+    antinomy: expand
+    clinamen: foreshore
+    synonym: abridge
+    syzygy: decrease
+- formalize:
+    anomaly: tentwise
+    antinomy: invalidate
+    clinamen: femalize
+    synonym: validate
+    syzygy: declare
+- fortify:
+    anomaly: vegasite
+    antinomy: weaken
+    clinamen: certify
+    synonym: strengthen
+    syzygy: change
+- frequent:
+    anomaly: isidiophorous
+    antinomy: boycott
+    clinamen: request
+    synonym: patronize
+    syzygy: support
+- freshen:
+    anomaly: unfestooned
+    antinomy: tire
+    clinamen: fleshed
+    synonym: refresh
+    syzygy: regenerate
+- generalize:
+    anomaly: crioceratite
+    antinomy: specify
+    clinamen: centralize
+    synonym: popularize
+    syzygy: reason
+- glycerolize:
+    anomaly: Claytonia
+    antinomy: deglycerolize
+    clinamen: glycerinize
+    synonym: glycerolize
+    syzygy: put_option
+- govern:
+    anomaly: overmeanness
+    antinomy: deregulate
+    clinamen: cavern
+    synonym: regulate
+    syzygy: decide
+- habilitate:
+    anomaly: gekkonid
+    antinomy: undress
+    clinamen: debilitate
+    synonym: dress
+    syzygy: qualify
+- harden:
+    anomaly: manipulable
+    antinomy: soften
+    clinamen: ardeb
+    synonym: temper
+    syzygy: change
+- hibernate:
+    anomaly: pavy
+    antinomy: estivate
+    clinamen: biternate
+    synonym: hibernate
+    syzygy: sleep
+- homogenize:
+    anomaly: mergence
+    antinomy: curdle
+    clinamen: homogenate
+    synonym: homogenize
+    syzygy: peer
+- humanize:
+    anomaly: extraperiosteal
+    antinomy: dehumanize
+    clinamen: Cubanize
+    synonym: humanize
+    syzygy: change
+- humidify:
+    anomaly: metacarpal
+    antinomy: dehumidify
+    clinamen: hominify
+    synonym: humidify
+    syzygy: moisten
+- hydrogenate:
+    anomaly: synechotomy
+    antinomy: dehydrogenate
+    clinamen: hydrogenide
+    synonym: hydrogenate
+    syzygy: change
+- ignite:
+    anomaly: unconcreted
+    antinomy: extinguish
+    clinamen: agnate
+    synonym: erupt
+    syzygy: burn
+- ignore:
+    anomaly: nongentile
+    antinomy: notice
+    clinamen: engore
+    synonym: dismiss
+    syzygy: dainty
+- immigrate:
+    anomaly: wort
+    antinomy: emigrate
+    clinamen: emigrate
+    synonym: immigrate
+    syzygy: migrate
+- immobilize:
+    anomaly: cigala
+    antinomy: unfreeze
+    clinamen: demobilize
+    synonym: trap
+    syzygy: withhold
+- impede:
+    anomaly: polygamously
+    antinomy: free
+    clinamen: ampere
+    synonym: obstruct
+    syzygy: prevent
+- implode:
+    anomaly: Malchus
+    antinomy: explode
+    clinamen: explode
+    synonym: implode
+    syzygy: collapse
+- impoverish:
+    anomaly: thrushy
+    antinomy: enrich
+    clinamen: imperish
+    synonym: deprive
+    syzygy: deprive
+- inactivate:
+    anomaly: thermometry
+    antinomy: mobilize
+    clinamen: activate
+    synonym: demobilize
+    syzygy: discharge
+- incarnate:
+    anomaly: unbodkined
+    antinomy: disincarnate
+    clinamen: carnate
+    synonym: incarnate
+    syzygy: recognize
+- incorporate:
+    anomaly: acetylcholine
+    antinomy: disintegrate
+    clinamen: accorporate
+    synonym: integrate
+    syzygy: compound
+- indicate:
+    anomaly: rotund
+    antinomy: contraindicate
+    clinamen: abdicate
+    synonym: bespeak
+    syzygy: tell
+- indispose:
+    anomaly: famousness
+    antinomy: dispose
+    clinamen: dispose
+    synonym: disqualify
+    syzygy: determine
+- individualize:
+    anomaly: makhzan
+    antinomy: depersonalize
+    clinamen: individualism
+    synonym: personalize
+    syzygy: distinguish
+- indurate:
+    anomaly: koromiko
+    antinomy: soften
+    clinamen: incubate
+    synonym: harden
+    syzygy: change
+- infect:
+    anomaly: Bignonia
+    antinomy: disinfect
+    clinamen: affect
+    synonym: infect
+    syzygy: give
+- inflate:
+    anomaly: tergiversator
+    antinomy: deflate
+    clinamen: deflate
+    synonym: balloon
+    syzygy: addition
+- inhale:
+    anomaly: rebob
+    antinomy: exhale
+    clinamen: annale
+    synonym: inhale
+    syzygy: smoke
+- inspan:
+    anomaly: depauperize
+    antinomy: outspan
+    clinamen: indan
+    synonym: inspan
+    syzygy: yoke
+- inspire:
+    anomaly: coexperiencer
+    antinomy: exhale
+    clinamen: aspire
+    synonym: prompt
+    syzygy: stimulate
+- integrate:
+    anomaly: Ellen
+    antinomy: disintegrate
+    clinamen: antegrade
+    synonym: desegregate
+    syzygy: compound
+- intensify:
+    anomaly: mendacity
+    antinomy: de-escalate
+    clinamen: intensely
+    synonym: escalate
+    syzygy: addition
+- intertwine:
+    anomaly: ribwort
+    antinomy: untwine
+    clinamen: interdine
+    synonym: tat
+    syzygy: turn
+- intoxicate:
+    anomaly: unkennedness
+    antinomy: depress
+    clinamen: detoxicate
+    synonym: elate
+    syzygy: stimulate
+- invalidate:
+    anomaly: hexastichic
+    antinomy: validate
+    clinamen: insalivate
+    synonym: cancel
+    syzygy: natural
+- invest:
+    anomaly: recongratulate
+    antinomy: divest
+    clinamen: devest
+    synonym: endow
+    syzygy: spend
+- invigorate:
+    anomaly: achromat
+    antinomy: deaden
+    clinamen: invigorant
+    synonym: inspire
+    syzygy: stimulate
+- involve:
+    anomaly: abaxial
+    antinomy: obviate
+    clinamen: devolve
+    synonym: imply
+    syzygy: mention
+- iodinate:
+    anomaly: nickelodeon
+    antinomy: de-iodinate
+    clinamen: dominate
+    synonym: iodinate
+    syzygy: change
+- ionate:
+    anomaly: arthrorrhagia
+    antinomy: de-ionate
+    clinamen: adnate
+    synonym: ionate
+    syzygy: change
+- irritate:
+    anomaly: Christadelphian
+    antinomy: soothe
+    clinamen: imitate
+    synonym: annoy
+    syzygy: displease
+- justify:
+    anomaly: wetchet
+    antinomy: blame
+    clinamen: dustily
+    synonym: apologize
+    syzygy: confirm
+- legalize:
+    anomaly: toddler
+    antinomy: outlaw
+    clinamen: femalize
+    synonym: legalize
+    syzygy: license
+- legitimate:
+    anomaly: Maga
+    antinomy: outlaw
+    clinamen: legitimacy
+    synonym: legalize
+    syzygy: license
+- lend:
+    anomaly: disorganize
+    antinomy: borrow
+    clinamen: alen
+    synonym: lend
+    syzygy: change
+- lengthen:
+    anomaly: statutary
+    antinomy: shorten
+    clinamen: length
+    synonym: lengthen
+    syzygy: addition
+- lighten:
+    anomaly: implastic
+    antinomy: weigh_down
+    clinamen: dighter
+    synonym: brighten
+    syzygy: cheer
+- linger:
+    anomaly: protandrous
+    antinomy: rush
+    clinamen: anger
+    synonym: loiter
+    syzygy: prevail
+- literalize:
+    anomaly: overpositive
+    antinomy: spiritualize
+    clinamen: literalism
+    synonym: literalize
+    syzygy: interpret
+- loosen:
+    anomaly: nongeographical
+    antinomy: stiffen
+    clinamen: aloose
+    synonym: relax
+    syzygy: change
+- magnetize:
+    anomaly: amygdalopathy
+    antinomy: demagnetize
+    clinamen: magnesite
+    synonym: magnetize
+    syzygy: change
+- magnify:
+    anomaly: guttate
+    antinomy: understate
+    clinamen: carnify
+    synonym: overstate
+    syzygy: enlarge
+- manage:
+    anomaly: hillocky
+    antinomy: fail
+    clinamen: adage
+    synonym: pull off
+    syzygy: succeed
+- maximize:
+    anomaly: rectiserial
+    antinomy: minimize
+    clinamen: animize
+    synonym: maximize
+    syzygy: addition
+- melanize:
+    anomaly: yede
+    antinomy: whiten
+    clinamen: medalize
+    synonym: blacken
+    syzygy: convert
+- militarize:
+    anomaly: unpugilistic
+    antinomy: demilitarize
+    clinamen: militarily
+    synonym: militarize
+    syzygy: change
+- minimize:
+    anomaly: uncomforted
+    antinomy: maximize
+    clinamen: animize
+    synonym: understate
+    syzygy: decrease
+- misbehave:
+    anomaly: snappy
+    antinomy: behave
+    clinamen: misbelove
+    synonym: misbehave
+    syzygy: act
+- mobilize:
+    anomaly: Omnivora
+    antinomy: demobilize
+    clinamen: homilize
+    synonym: call up
+    syzygy: gather
+- multiply:
+    anomaly: theoric
+    antinomy: divide
+    clinamen: multiped
+    synonym: breed
+    syzygy: calculate
+- nationalize:
+    anomaly: heautophany
+    antinomy: denationalize
+    clinamen: nationalism
+    synonym: nationalize
+    syzygy: change
+- naturalize:
+    anomaly: Janthinidae
+    antinomy: denaturalize
+    clinamen: lateralize
+    synonym: domesticate
+    syzygy: change
+- nazify:
+    anomaly: toplighted
+    antinomy: denazify
+    clinamen: azofy
+    synonym: nazify
+    syzygy: change
+- negate:
+    anomaly: incavated
+    antinomy: affirm
+    clinamen: aerate
+    synonym: contradict
+    syzygy: pervert
+- nitrify:
+    anomaly: aurification
+    antinomy: denitrify
+    clinamen: citify
+    synonym: nitrify
+    syzygy: convert
+- obey:
+    anomaly: bugbane
+    antinomy: disobey
+    clinamen: Abby
+    synonym: obey
+    syzygy: adjust
+- obfuscate:
+    anomaly: admissory
+    antinomy: clarify
+    clinamen: infuscate
+    synonym: obfuscate
+    syzygy: change
+- oblige:
+    anomaly: randomize
+    antinomy: disoblige
+    clinamen: beige
+    synonym: compel
+    syzygy: induce
+- observe:
+    anomaly: horizon
+    antinomy: disrespect
+    clinamen: deserve
+    synonym: detect
+    syzygy: spy
+- obstruct:
+    anomaly: ineruditely
+    antinomy: free
+    clinamen: abstract
+    synonym: obstruct
+    syzygy: prevent
+- occidentalize:
+    anomaly: preinsinuative
+    antinomy: orientalize
+    clinamen: occidentality
+    synonym: occidentalize
+    syzygy: change
+- operate:
+    anomaly: bennetweed
+    antinomy: malfunction
+    clinamen: acerate
+    synonym: function
+    syzygy: direct
+- organize:
+    anomaly: phonikon
+    antinomy: disorganize
+    clinamen: Arianize
+    synonym: form
+    syzygy: brand
+- orientalize:
+    anomaly: hylobatine
+    antinomy: occidentalize
+    clinamen: orientalism
+    synonym: orientalize
+    syzygy: change
+- outbid:
+    anomaly: garbling
+    antinomy: underbid
+    clinamen: oatbin
+    synonym: outbid
+    syzygy: command
+- outspan:
+    anomaly: adenocystomatous
+    antinomy: inspan
+    clinamen: dustpan
+    synonym: outspan
+    syzygy: unharness
+- outwear:
+    anomaly: ceile
+    antinomy: refresh
+    clinamen: oatear
+    synonym: tire
+    syzygy: excel
+- overact:
+    anomaly: aldern
+    antinomy: underact
+    clinamen: operant
+    synonym: overact
+    syzygy: act
+- overdraw:
+    anomaly: exemplificator
+    antinomy: understate
+    clinamen: overbray
+    synonym: overstate
+    syzygy: withdraw
+- overdress:
+    anomaly: multigrapher
+    antinomy: underdress
+    clinamen: overcross
+    synonym: overdress
+    syzygy: dress
+- overleap:
+    anomaly: yestereve
+    antinomy: attend_to
+    clinamen: overbear
+    synonym: vault
+    syzygy: overdo
+- overpay:
+    anomaly: ostracoderm
+    antinomy: underpay
+    clinamen: overapt
+    synonym: overpay
+    syzygy: wage
+- overspend:
+    anomaly: springy
+    antinomy: underspend
+    clinamen: overbend
+    synonym: overspend
+    syzygy: spend
+- overstate:
+    anomaly: homeokinetic
+    antinomy: understate
+    clinamen: overelate
+    synonym: overstate
+    syzygy: misinform
+- overstock:
+    anomaly: exzodiacal
+    antinomy: understock
+    clinamen: overlock
+    synonym: overstock
+    syzygy: stock
+- overvalue:
+    anomaly: guardianless
+    antinomy: undervalue
+    clinamen: oversale
+    synonym: overvalue
+    syzygy: value
+- oxidize:
+    anomaly: anticomet
+    antinomy: deoxidize
+    clinamen: acidize
+    synonym: oxidise
+    syzygy: change
+- participate:
+    anomaly: earnestness
+    antinomy: drop_out
+    clinamen: anticipate
+    synonym: enter
+    syzygy: act
+- patronize:
+    anomaly: undesire
+    antinomy: boycott
+    clinamen: baronize
+    synonym: sponsor
+    syzygy: support
+- perplex:
+    anomaly: predietary
+    antinomy: simplify
+    clinamen: people
+    synonym: complicate
+    syzygy: confuse
+- personalize:
+    anomaly: pinewoods
+    antinomy: depersonalize
+    clinamen: permoralize
+    synonym: personalize
+    syzygy: change
+- persuade:
+    anomaly: Agnotozoic
+    antinomy: dissuade
+    clinamen: pervade
+    synonym: carry
+    syzygy: influence
+- pleach:
+    anomaly: systaltic
+    antinomy: unbraid
+    clinamen: Almach
+    synonym: braid
+    syzygy: weave
+- please:
+    anomaly: enterokinetic
+    antinomy: displease
+    clinamen: alerse
+    synonym: please
+    syzygy: satisfy
+- qualify:
+    anomaly: cycledom
+    antinomy: disqualify
+    clinamen: coalify
+    synonym: stipulate
+    syzygy: suffice
+- quench:
+    anomaly: pylorogastrectomy
+    antinomy: ignite
+    clinamen: bench
+    synonym: snuff out
+    syzygy: meet
+- quicken:
+    anomaly: equivaluer
+    antinomy: decelerate
+    clinamen: bricken
+    synonym: accelerate
+    syzygy: escalate
+- reassure:
+    anomaly: uncoveted
+    antinomy: worry
+    clinamen: assure
+    synonym: reassure
+    syzygy: composure
+- recede:
+    anomaly: thromboangiitis
+    antinomy: advance
+    clinamen: accede
+    synonym: withdraw
+    syzygy: travel
+- receive:
+    anomaly: Dutchy
+    antinomy: say_farewell
+    clinamen: declive
+    synonym: pick up
+    syzygy: get
+- recover:
+    anomaly: reinforce
+    antinomy: deteriorate
+    clinamen: becovet
+    synonym: recuperate
+    syzygy: get
+- recreate:
+    anomaly: knickknacky
+    antinomy: dishearten
+    clinamen: cocreate
+    synonym: animate
+    syzygy: stimulate
+- rectify:
+    anomaly: caracoller
+    antinomy: falsify
+    clinamen: acetify
+    synonym: refine
+    syzygy: determine
+- recuperate:
+    anomaly: handwhile
+    antinomy: deteriorate
+    clinamen: remunerate
+    synonym: recover
+    syzygy: get
+- reduce:
+    anomaly: thyroidean
+    antinomy: blow_up
+    clinamen: abduce
+    synonym: shrink
+    syzygy: decrease
+- refresh:
+    anomaly: gamori
+    antinomy: tire
+    clinamen: afresh
+    synonym: review
+    syzygy: remember
+- regularize:
+    anomaly: antemetic
+    antinomy: deregulate
+    clinamen: angularize
+    synonym: regulate
+    syzygy: decide
+- regulate:
+    anomaly: Tarvia
+    antinomy: deregulate
+    clinamen: angulate
+    synonym: determine
+    syzygy: adjust
+- regurgitate:
+    anomaly: desponder
+    antinomy: keep_down
+    clinamen: ingurgitate
+    synonym: vomit
+    syzygy: pour
+- rehabilitate:
+    anomaly: noisy
+    antinomy: purge
+    clinamen: habilitate
+    synonym: rehabilitate
+    syzygy: restore
+- rejuvenate:
+    anomaly: monkery
+    antinomy: age
+    clinamen: juvenate
+    synonym: regenerate
+    syzygy: arouse
+- relate:
+    anomaly: buttonholer
+    antinomy: dissociate
+    clinamen: ablate
+    synonym: associate
+    syzygy: think
+- relegate:
+    anomaly: plasome
+    antinomy: promote
+    clinamen: ablegate
+    synonym: demote
+    syzygy: submit
+- relieve:
+    anomaly: oxidational
+    antinomy: enforce
+    clinamen: belive
+    synonym: take over
+    syzygy: better
+- remain:
+    anomaly: pseudonymousness
+    antinomy: change
+    clinamen: Almain
+    synonym: stay
+    syzygy: beryllium
+- repel:
+    anomaly: tornarian
+    antinomy: attract
+    clinamen: areel
+    synonym: rebuff
+    syzygy: push
+- represent:
+    anomaly: supersufficient
+    antinomy: prosecute
+    clinamen: copresent
+    synonym: typify
+    syzygy: peer
+- resent:
+    anomaly: heavenful
+    antinomy: wish
+    clinamen: absent
+    synonym: begrudge
+    syzygy: disfavor
+- resist:
+    anomaly: mannersome
+    antinomy: lend_oneself
+    clinamen: assist
+    synonym: defy
+    syzygy: elude
+- restore:
+    anomaly: bushless
+    antinomy: break
+    clinamen: bestare
+    synonym: regenerate
+    syzygy: regenerate
+- restrict:
+    anomaly: longhair
+    antinomy: derestrict
+    clinamen: astrict
+    synonym: qualify
+    syzygy: limit
+- retrieve:
+    anomaly: cuproid
+    antinomy: forget
+    clinamen: redrive
+    synonym: recover
+    syzygy: get
+- revalue:
+    anomaly: roseous
+    antinomy: depreciate
+    clinamen: evacue
+    synonym: appreciate
+    syzygy: addition
+- rob:
+    anomaly: epeirid
+    antinomy: undercharge
+    clinamen: Ab
+    synonym: overcharge
+    syzygy: bargain
+- sadden:
+    anomaly: amtman
+    antinomy: gladden
+    clinamen: added
+    synonym: sadden
+    syzygy: affect
+- satisfy:
+    anomaly: gonapod
+    antinomy: fall_short_of
+    clinamen: palisfy
+    synonym: meet
+    syzygy: meet
+- secure:
+    anomaly: pseudomorphia
+    antinomy: unfasten
+    clinamen: becurl
+    synonym: procure
+    syzygy: obtain
+- sedate:
+    anomaly: unconsecration
+    antinomy: stimulate
+    clinamen: aerate
+    synonym: sedate
+    syzygy: affect
+- sensitize:
+    anomaly: matka
+    antinomy: desensitize
+    clinamen: Kensitite
+    synonym: sensitize
+    syzygy: change
+- sharpen:
+    anomaly: dinitrobenzene
+    antinomy: dull
+    clinamen: arpen
+    synonym: focus
+    syzygy: change
+- sheathe:
+    anomaly: democratism
+    antinomy: unsheathe
+    clinamen: breathe
+    synonym: sheathe
+    syzygy: screen
+- shorten:
+    anomaly: pleiotropic
+    antinomy: lengthen
+    clinamen: sharpen
+    synonym: abridge
+    syzygy: reduce
+- simplify:
+    anomaly: exsanguineous
+    antinomy: complicate
+    clinamen: amplify
+    synonym: simplify
+    syzygy: change
+- sing:
+    anomaly: preplace
+    antinomy: keep_quiet
+    clinamen: aint
+    synonym: whistle
+    syzygy: interpret
+- skew:
+    anomaly: spheromere
+    antinomy: align
+    clinamen: ake
+    synonym: skew
+    syzygy: reorientate
+- slenderize:
+    anomaly: dragged
+    antinomy: gain
+    clinamen: slenderish
+    synonym: reduce
+    syzygy: change
+- slow:
+    anomaly: noncomposite
+    antinomy: accelerate
+    clinamen: alo
+    synonym: decelerate
+    syzygy: decrease
+- thicken:
+    anomaly: chantingly
+    antinomy: thin
+    clinamen: bricken
+    synonym: thicken
+    syzygy: change
+- uglify:
+    anomaly: raser
+    antinomy: beautify
+    clinamen: bilify
+    synonym: uglify
+    syzygy: change
+- unbar:
+    anomaly: haemorrhoidal
+    antinomy: bar
+    clinamen: ambar
+    synonym: unbar
+    syzygy: open
+- unbelt:
+    anomaly: comparition
+    antinomy: belt
+    clinamen: belt
+    synonym: unbelt
+    syzygy: undo
+- unbind:
+    anomaly: connate
+    antinomy: bind
+    clinamen: bind
+    synonym: unbind
+    syzygy: detach
+- unblock:
+    anomaly: disyllable
+    antinomy: block
+    clinamen: block
+    synonym: unblock
+    syzygy: unstuff
+- unbolt:
+    anomaly: Ovidian
+    antinomy: bolt
+    clinamen: bolt
+    synonym: unbolt
+    syzygy: open
+- unbox:
+    anomaly: praedialist
+    antinomy: box
+    clinamen: abox
+    synonym: unbox
+    syzygy: unpack
+- unbrace:
+    anomaly: inherit
+    antinomy: tie
+    clinamen: brace
+    synonym: untie
+    syzygy: undo
+- unbraid:
+    anomaly: Siberic
+    antinomy: braid
+    clinamen: abraid
+    synonym: unbraid
+    syzygy: undo
+- unbuckle:
+    anomaly: acmite
+    antinomy: buckle
+    clinamen: buckle
+    synonym: unbuckle
+    syzygy: undo
+- unburden:
+    anomaly: ureterostomy
+    antinomy: burden
+    clinamen: burden
+    synonym: unburden
+    syzygy: return
+- unbutton:
+    anomaly: altercate
+    antinomy: button
+    clinamen: button
+    synonym: unbutton
+    syzygy: undo
+- unchain:
+    anomaly: shita
+    antinomy: chain
+    clinamen: chain
+    synonym: unchain
+    syzygy: unfasten
+- unclip:
+    anomaly: khat
+    antinomy: clip
+    clinamen: clip
+    synonym: unclip
+    syzygy: undo
+- unclog:
+    anomaly: Thesmophoric
+    antinomy: clog
+    clinamen: beclog
+    synonym: unclog
+    syzygy: free
+- unclothe:
+    anomaly: unmarried
+    antinomy: dress
+    clinamen: beclothe
+    synonym: undress
+    syzygy: deprive
+- unclutter:
+    anomaly: cauk
+    antinomy: clutter
+    clinamen: clutter
+    synonym: unclutter
+    syzygy: change
+- uncoil:
+    anomaly: easel
+    antinomy: coil
+    clinamen: accoil
+    synonym: uncoil
+    syzygy: unwind
+- uncork:
+    anomaly: powerhouse
+    antinomy: cork
+    clinamen: ancora
+    synonym: uncork
+    syzygy: unleash
+- uncouple:
+    anomaly: laurustinus
+    antinomy: couple
+    clinamen: accouple
+    synonym: uncouple
+    syzygy: gulf
+- uncover:
+    anomaly: subalternate
+    antinomy: cover
+    clinamen: cover
+    synonym: uncover
+    syzygy: show
+- uncross:
+    anomaly: difformed
+    antinomy: cross
+    clinamen: across
+    synonym: uncross
+    syzygy: blossom
+- undeceive:
+    anomaly: sirih
+    antinomy: deceive
+    clinamen: deceive
+    synonym: undeceive
+    syzygy: inform
+- underact:
+    anomaly: birdcall
+    antinomy: overact
+    clinamen: interact
+    synonym: underact
+    syzygy: act
+- underbid:
+    anomaly: perking
+    antinomy: outbid
+    clinamen: underaim
+    synonym: underbid
+    syzygy: command
+- underdress:
+    anomaly: foresay
+    antinomy: overdress
+    clinamen: undercrest
+    synonym: dress down
+    syzygy: dress
+- underexpose:
+    anomaly: donkeyism
+    antinomy: overexpose
+    clinamen: underpose
+    synonym: underexpose
+    syzygy: expose
+- underpay:
+    anomaly: Hesperus
+    antinomy: overpay
+    clinamen: underboy
+    synonym: underpay
+    syzygy: wage
+- underplay:
+    anomaly: Joannite
+    antinomy: overact
+    clinamen: interplay
+    synonym: underact
+    syzygy: act
+- undershoot:
+    anomaly: significate
+    antinomy: overshoot
+    clinamen: intershoot
+    synonym: undershoot
+    syzygy: land
+- underspend:
+    anomaly: platter
+    antinomy: overspend
+    clinamen: underfiend
+    synonym: underspend
+    syzygy: spend
+- understate:
+    anomaly: internobasal
+    antinomy: overstate
+    clinamen: interstate
+    synonym: understate
+    syzygy: inform
+- understock:
+    anomaly: isometric
+    antinomy: overstock
+    clinamen: underfrock
+    synonym: understock
+    syzygy: stock
+- undock:
+    anomaly: antiparastatitis
+    antinomy: dock
+    clinamen: bodock
+    synonym: undock
+    syzygy: exit
+- unfasten:
+    anomaly: Ignorantine
+    antinomy: fasten
+    clinamen: fasten
+    synonym: unfasten
+    syzygy: undo
+- unfold:
+    anomaly: Australianism
+    antinomy: fold
+    clinamen: bifold
+    synonym: blossom
+    syzygy: develop
+- unharness:
+    anomaly: inaccordant
+    antinomy: harness
+    clinamen: harness
+    synonym: unharness
+    syzygy: unhitch
+- unhitch:
+    anomaly: Theligonum
+    antinomy: hitch
+    clinamen: hitch
+    synonym: unhitch
+    syzygy: undo
+- unhook:
+    anomaly: isethionic
+    antinomy: hook
+    clinamen: hook
+    synonym: unhook
+    syzygy: detach
+- unify:
+    anomaly: navarchy
+    antinomy: disunify
+    clinamen: deify
+    synonym: mix
+    syzygy: integrate
+- unite:
+    anomaly: hymeneals
+    antinomy: divide
+    clinamen: alite
+    synonym: unify
+    syzygy: articulation
+- unlash:
+    anomaly: tactuality
+    antinomy: lash
+    clinamen: belash
+    synonym: unlash
+    syzygy: untie
+- unlock:
+    anomaly: aforenamed
+    antinomy: lock
+    clinamen: block
+    synonym: unlock
+    syzygy: open
+- unmask:
+    anomaly: garten
+    antinomy: mask
+    clinamen: bemask
+    synonym: unmask
+    syzygy: debunk
+- unpack:
+    anomaly: Trachodontidae
+    antinomy: pack
+    clinamen: bipack
+    synonym: unpack
+    syzygy: remove
+- unpick:
+    anomaly: bullbeggar
+    antinomy: ravel
+    clinamen: inwick
+    synonym: unravel
+    syzygy: undo
+- unpin:
+    anomaly: innocently
+    antinomy: pin
+    clinamen: lipin
+    synonym: unpin
+    syzygy: undo
+- unplug:
+    anomaly: ishshakku
+    antinomy: plug_in
+    clinamen: plug
+    synonym: unplug
+    syzygy: undo
+- unravel:
+    anomaly: Mintaka
+    antinomy: ravel
+    clinamen: caravel
+    synonym: ravel
+    syzygy: undo
+- unsaddle:
+    anomaly: descendibility
+    antinomy: saddle
+    clinamen: asaddle
+    synonym: unsaddle
+    syzygy: remove
+- unscramble:
+    anomaly: Sabbathaian
+    antinomy: scramble
+    clinamen: bescramble
+    synonym: unravel
+    syzygy: change
+- unscrew:
+    anomaly: corporation
+    antinomy: screw
+    clinamen: screw
+    synonym: unscrew
+    syzygy: loosen
+- unseal:
+    anomaly: Ophitic
+    antinomy: seal
+    clinamen: anneal
+    synonym: unseal
+    syzygy: open
+- unsheathe:
+    anomaly: striation
+    antinomy: sheathe
+    clinamen: resheathe
+    synonym: unsheathe
+    syzygy: draw
+- unspell:
+    anomaly: romancist
+    antinomy: spell
+    clinamen: bespell
+    synonym: unspell
+    syzygy: free
+- unstrap:
+    anomaly: passover
+    antinomy: strap
+    clinamen: entrap
+    synonym: unstrap
+    syzygy: undo
+- unstring:
+    anomaly: inachoid
+    antinomy: string
+    clinamen: lustring
+    synonym: unstring
+    syzygy: remove
+- unstuff:
+    anomaly: antiparalytic
+    antinomy: stuff
+    clinamen: restuff
+    synonym: unstuff
+    syzygy: free
+- untie:
+    anomaly: triakisoctahedrid
+    antinomy: tie
+    clinamen: Angie
+    synonym: untie
+    syzygy: undo
+- untune:
+    anomaly: peracetic
+    antinomy: tune
+    clinamen: attune
+    synonym: upset
+    syzygy: arouse
+- untwine:
+    anomaly: hyperoxide
+    antinomy: twine
+    clinamen: anthine
+    synonym: untwine
+    syzygy: straighten
+- untwist:
+    anomaly: alstonidine
+    antinomy: twist
+    clinamen: antwise
+    synonym: untwist
+    syzygy: straighten
+- unveil:
+    anomaly: smallish
+    antinomy: veil
+    clinamen: anvil
+    synonym: uncover
+    syzygy: uncover
+- unweave:
+    anomaly: rouvillite
+    antinomy: weave
+    clinamen: reweave
+    synonym: unweave
+    syzygy: straighten
+- unwind:
+    anomaly: impenetrative
+    antinomy: wind
+    clinamen: rewind
+    synonym: relax
+    syzygy: move
+- unwire:
+    anomaly: tidesurveyor
+    antinomy: wire
+    clinamen: entire
+    synonym: unwire
+    syzygy: undo
+- unwrap:
+    anomaly: anacusis
+    antinomy: wrap
+    clinamen: bewrap
+    synonym: unwrap
+    syzygy: uncover
+- unyoke:
+    anomaly: pictorial
+    antinomy: yoke
+    clinamen: Andoke
+    synonym: unyoke
+    syzygy: unhitch
+- uphold:
+    anomaly: pseudomorular
+    antinomy: discontinue
+    clinamen: behold
+    synonym: continue
+    syzygy: support
+- uprise:
+    anomaly: Sonny
+    antinomy: sit_down
+    clinamen: agrise
+    synonym: originate
+    syzygy: become
+- validate:
+    anomaly: hemiasynergia
+    antinomy: invalidate
+    clinamen: alidade
+    synonym: validate
+    syzygy: authorize
+- veer:
+    anomaly: Rhinocerotidae
+    antinomy: back
+    clinamen: Acer
+    synonym: swerve
+    syzygy: bend
+- vex:
+    anomaly: tunca
+    antinomy: reassure
+    clinamen: ae
+    synonym: annoy
+    syzygy: displease
+- vitalize:
+    anomaly: atelostomia
+    antinomy: devitalize
+    clinamen: fatalize
+    synonym: vitalize
+    syzygy: change
+- vocalize:
+    anomaly: honorific
+    antinomy: devoice
+    clinamen: coalize
+    synonym: voice
+    syzygy: pronounce
+- weaken:
+    anomaly: spirketing
+    antinomy: strengthen
+    clinamen: awaken
+    synonym: sabotage
+    syzygy: change
+- whiten:
+    anomaly: siroccoishly
+    antinomy: blacken
+    clinamen: Chien
+    synonym: whiten
+    syzygy: discolor
+- widen:
+    anomaly: dictation
+    antinomy: narrow
+    clinamen: aide
+    synonym: let out
+    syzygy: addition
+- winterize:
+    anomaly: vetch
+    antinomy: summerize
+    clinamen: Listerize
+    synonym: winterize
+    syzygy: fix
+- withdraw:
+    anomaly: unimparted
+    antinomy: advance
+    clinamen: wiredraw
+    synonym: retire
+    syzygy: travel
