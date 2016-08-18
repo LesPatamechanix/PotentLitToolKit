@@ -6,12 +6,12 @@
 
     <target name="compile">
         <mkdir dir="build/classes"/>
-        <javac srcdir="src" destdir="build/classes"/>
+        <javac srcdir="src/main/java/com/andydennis/PotentLitToolKit" destdir="build/classes"/>
     </target>
 
     <target name="jar">
         <mkdir dir="build/jar"/>
-        <jar destfile="build/jar/Pataphysic.jar" basedir="build/classes">
+        <jar destfile="build/jar/PotentLitToolKit.jar" basedir="build/classes">
             <manifest>
                 <attribute name="Main-Class" value="PotentLitToolKit.Pataphysic"/>
             </manifest>
@@ -19,7 +19,7 @@
     </target>
 
     <target name="run">
-        <java jar="build/jar/Pataphysic.jar" fork="true"/>
+        <java jar="build/jar/PotentLitToolKit.jar" fork="true"/>
     </target>
 
 </project>
